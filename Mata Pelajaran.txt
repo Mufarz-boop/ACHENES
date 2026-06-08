@@ -1,0 +1,105 @@
+MATA PELAJARAN TAHUN PERTAMA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+
+MATA PELAJARAN TAHUN KEDUA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+MATA PELAJARAN TAHUN KETIGA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+MATA PELAJARAN JURUSAN REKAYASA PERANGKAT LUNAK
+    Tahun Pertama
+    1. 
+    2. 
+    3. 
+
+    Tahun Kedua
+    4. 
+    5. 
+    6. 
+
+    Tahun Ketiga
+    7. 
+    8. 
+    9. 
+
+MATA PELAJARAN JURUSAN DESAIN KOMUNIKASI VISUAL
+    Tahun Pertama
+    1. 
+    2. 
+    3. 
+
+    Tahun Kedua
+    4. 
+    5. 
+    6. 
+
+    Tahun Ketiga
+    7. 
+    8. 
+    9. 
+
+MATA PELAJARAN JURUSAN ILMU DASAR KEDOKTERAN DAN KESEHATAN
+    Tahun Pertama
+    1. 
+    2. 
+    3. 
+
+    Tahun Kedua
+    4. 
+    5. 
+    6. 
+
+    Tahun Ketiga
+    7. 
+    8. 
+    9. 
+
+MATA PELAJARAN JURUSAN ILMU HUKUM DAN YURISPRUDENSI
+    Tahun Pertama
+    1. 
+    2. 
+    3. 
+
+    Tahun Kedua
+    4. 
+    5. 
+    6. 
+
+    Tahun Ketiga
+    7. 
+    8. 
+    9. 
+
+MATA PELAJARAN JURUSAN ILMU EKONOMI DAN MANAJEMEN BISNIS
+    Tahun Pertama
+    1. 
+    2. 
+    3. 
+
+    Tahun Kedua
+    4. 
+    5. 
+    6. 
+
+    Tahun Ketiga
+    7. 
+    8. 
+    9. 
