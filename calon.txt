@@ -1,0 +1,335 @@
+REKAYASA PERANGKAT LUNAK TAHUN PERTAMA
+1. Muhammad Luthfi
+2. Alfarizi
+3. Naira Zahra
+4. Aulia Astrico Pratama
+5. Jihan Saffah Amira
+6. Alina Maharani Putri
+7. Alfira Anoya
+8. Nikeisha Faiha Notaria Margolang
+9. Habibi Eka Dikmaba
+10. Yumna Maliqa Batavia
+11. Marvelous Mercy Siduppa
+12. Novita Anggraini
+13. Risty Anastasya
+14. Rahmadini Putri Utami
+15. Neilson Huang
+16. Hansen Marcello Chandra
+17. Caelum Leonard
+18. Marcelia Azalea Margolang
+19. Alifa Kazie
+
+DESAIN PERANGKAT LUNAK TAHUN PERTAMA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+ILMU DASAR KEDOKTERAN DAN KESEHATAN
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+ILMU HUKUM DAN YURISPRUDENSI TAHUN PERTAMA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+ILMU EKONOMI DAN MANAJEMEN BISNIS TAHUN PERTAMA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+REKAYASA PERANGKAT LUNAK TAHUN KEDUA
+1. Ishaq Ramadhani
+2. Arafa Syahputra
+3. Muhammad Nabil Zharif
+4. Nayshila Putri
+5. Cahya Qhayla
+6. Ney Zella Putri Nasution
+7. Wulandari
+8. Dio Putra Ramadan
+9. Eza Hanafi Sembiring
+10. Fattin Qalbuana Arhas
+11. Dzul Fitra Kadri
+12. Airin Muktial
+13. Novela Talenta Putri Damai
+14. Nadia Khairunnisa
+15. Muhammad Rizki Ramadhan
+16. Riski Syahputra
+17. Abdul Muis Fahmi
+18. Hanif Aqil
+19. Anggini Kayla Putri Koswara
+20. Reva Levivani
+21. Tawaf Dinosi
+22. Muhammad Farel Affatan
+23. Muhammad Rayyan
+24. Anjel Laura Vianniza
+25. Razita Afrina Nuriyan
+26. Dalfia Nur Anrianti Putri
+27. Maudy Putri Sakinah
+
+DESAIN PERANGKAT LUNAK TAHUN KEDUA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+ILMU DASAR KEDOKTERAN DAN KESEHATAN TAHUN KEDUA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+ILMU HUKUM DAN YURISPRUDENSI TAHUN KEDUA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+ILMU EKONOMI DAN MANAJEMEN BISNIS TAHUN KEDUA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+REKAYASA PERANGKAT LUNAK TAHUN KETIGA
+1. Achava Adam Malonda
+2. Ethan Samuel Benaya Khu
+3. Rifki Ahmad Muhyiddin
+4. Leonard Irvin Gunandi
+5. Christina Anggi Andreyni
+6. Octavany Chintya Resa
+7. Meisa Febriella
+8. Hector Leonuraji Prakarno
+9. Agus Ubaidillah Alhakim
+10. Aloysius Gonzaga Duta Setyawan
+11. Gibran Davi Ahmad
+12. Rizki Aditya
+13. Muhammad Azka Ghulam Idrus
+14. Christina Arkazora Setyawan
+15. Muhammad Hammas Fathurrahman
+16. Gina Sonia
+17. Afifah As-syadiyah Asnawir
+18. Ricky Tri Andika
+
+DESAIN PERANGKAT LUNAK TAHUN KETIGA
+1. Danzel Redriche Wong
+2. Dahlia Puspita Zahra
+3. Devi Octaviany
+4. Indri Ferina Novelani
+5. Muhammad Fatahillah
+6. Nicholas Boston Setioko
+7. Gilbert Valentino Halim
+8. Mayliza
+9. Hanif Alfarizki Pratama
+10. Warren Xing
+11. Leonel Chailand
+12. Aveline Safira Humaira
+13. Vania Cantika Aurellia
+14. Raditya Ananta Noorkhairan
+15. Calvin Chiandiary
+16. Kenneth Nicander Wijaya
+17. Muhammad Zharif
+18. Nisrina Nur Fakhirah Weldhaeni
+19. Nesa Amirah
+
+ILMU DASAR KEDOKTERAN DAN KESEHATAN TAHUN KETIGA
+1. Muhammad Raihan Nafis
+2. Muhammad Yanal Fauzan
+3. Raditya El Tristan
+4. Adief Maulana Nugraha
+5. Tiara Junita Putri
+6. Amelia Putri Wulandari
+7. Hintan Saraswaty
+8. Nor Syariah
+9. Trifena Julia Putri
+10. Jose Michael Mukito
+11. Vincent Candra
+12. Estianti Manda
+13. Auxilia Febrianti
+14. Mey Sandrena
+15. David Christopher Purnama
+16. Thesen Wijaya
+17. Sulfia Elfin
+18. Fidelfa Novandria
+19. Avner Maxwell Lim
+20. Muhammad Hanif Haryoso
+21. Chairena Putri Keysanti
+22. Ayla Sonia Kaysa Mahira
+23. Chantika Arum Daniar
+
+ILMU HUKUM DAN YURISPRUDENSI TAHUN KETIGA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+ILMU EKONOMI DAN MANAJEMEN BISNIS TAHUN KETIGA
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
