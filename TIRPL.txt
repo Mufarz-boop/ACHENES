@@ -1,4 +1,4 @@
-Kelas 1-DKV [Desain Komunikasi Visual]
+Kelas 1-TIRPL [Teknik Informatika dan Rekayasa Perangkat Lunak]
 1. 
 2. 
 3. 
@@ -20,7 +20,7 @@ Kelas 1-DKV [Desain Komunikasi Visual]
 19. 
 20. 
 
-Kelas 2-DKV [Desain Komunikasi Visual]
+Kelas 2-TIRPL [Teknik Informatika dan Rekayasa Perangkat Lunak]
 1. 
 2. 
 3. 
@@ -42,8 +42,8 @@ Kelas 2-DKV [Desain Komunikasi Visual]
 19. 
 20. 
 
-Kelas 3-DKV [Desain Komunikasi Visual]
-1. Leon Mara Sutan Hara
+Kelas 3-TIRPL [Teknik Informatika dan Rekayasa Perangkat Lunak]
+1. 
 2. 
 3. 
 4. 

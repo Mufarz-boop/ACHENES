@@ -1,4 +1,4 @@
-Kelas 1-IEMB [Ilmu Ekonomi dan Manajemen Bisnis]
+Kelas 1-IEKMS [Ilmu Ekonomi, Keuangan, dan Manajemen Strategis]
 1. 
 2. 
 3. 
@@ -20,7 +20,7 @@ Kelas 1-IEMB [Ilmu Ekonomi dan Manajemen Bisnis]
 19. 
 20. 
 
-Kelas 2-IEMB [Ilmu Ekonomi dan Manajemen Bisnis]
+Kelas 2-IEKMS [Ilmu Ekonomi, Keuangan, dan Manajemen Strategis]
 1. 
 2. 
 3. 
@@ -42,7 +42,7 @@ Kelas 2-IEMB [Ilmu Ekonomi dan Manajemen Bisnis]
 19. 
 20. 
 
-Kelas 3-IEMB [Ilmu Ekonomi dan Manajemen Bisnis]
+Kelas 3-IEKMS [Ilmu Ekonomi, Keuangan, dan Manajemen Strategis]
 1. 
 2. 
 3. 

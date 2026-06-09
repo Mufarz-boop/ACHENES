@@ -1,4 +1,4 @@
-Kelas 1-RPL [Rekayasa Perangkat Lunak]
+Kelas 1-IKDB [Ilmu Kedokteran Dasar dan Biomedis]
 1. 
 2. 
 3. 
@@ -20,7 +20,7 @@ Kelas 1-RPL [Rekayasa Perangkat Lunak]
 19. 
 20. 
 
-Kelas 2-RPL [Rekayasa Perangkat Lunak]
+Kelas 2-IKDB [Ilmu Kedokteran Dasar dan Biomedis]
 1. 
 2. 
 3. 
@@ -42,7 +42,7 @@ Kelas 2-RPL [Rekayasa Perangkat Lunak]
 19. 
 20. 
 
-Kelas 3-RPL [Rekayasa Perangkat Lunak]
+Kelas 3-IKDB [Ilmu Kedokteran Dasar dan Biomedis]
 1. 
 2. 
 3. 

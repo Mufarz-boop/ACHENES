@@ -1,9 +1,9 @@
 Jurusan Akademi
-1. Rekayasa Perangkat Lunak (RPL)
-2. Desain Komunikasi Visual (DKV)
-3. Ilmu Dasar Kedokteran dan Kesehatan (IDKK)
-4. Ilmu Hukum dan Yurisprudensi (IHY)
-5. Ilmu Ekonomi dan Manajemen Bisnis (IEMB)
+1. Teknik Informatika dan Rekayasa Perangkat Lunak (TIRPL)
+2. Desain Grafis dan Komunikasi Visual Interdisipliner (DGKVI)
+3. Ilmu Kedokteran Dasar dan Biomedis (IKDB)
+4. Ilmu Hukum dan Yurisprudensi Kontemporer (IHYK)
+5. Ilmu Ekonomi, Keuangan, dan Manajemen Strategis (IEKMS)
 
 Ekstrakurikuler Akademi
 1. Coding & Software Dev Society [CSDS] = FORGE

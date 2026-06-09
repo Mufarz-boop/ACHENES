@@ -1,4 +1,4 @@
-Kelas 1-IHY [Ilmu Hukum dan Yurisprudensi]
+Kelas 1-IHYk [Ilmu Hukum dan Yurisprudensi Kontemporer]
 1. 
 2. 
 3. 
@@ -20,7 +20,7 @@ Kelas 1-IHY [Ilmu Hukum dan Yurisprudensi]
 19. 
 20. 
 
-Kelas 2-IHY [Ilmu Hukum dan Yurisprudensi]
+Kelas 2-IHYk [Ilmu Hukum dan Yurisprudensi Kontemporer]
 1. 
 2. 
 3. 
@@ -42,7 +42,7 @@ Kelas 2-IHY [Ilmu Hukum dan Yurisprudensi]
 19. 
 20. 
 
-Kelas 3-IHY [Ilmu Hukum dan Yurisprudensi]
+Kelas 3-IHYk [Ilmu Hukum dan Yurisprudensi Kontemporer]
 1. 
 2. 
 3. 

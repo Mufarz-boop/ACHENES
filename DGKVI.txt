@@ -1,4 +1,4 @@
-Kelas 1-IDKK [Ilmu Dasar Kedokteran dan Kesehatan]
+Kelas 1-DGKVI [Desain Grafis dan Komunikasi Visual Interdisipliner]
 1. 
 2. 
 3. 
@@ -20,7 +20,7 @@ Kelas 1-IDKK [Ilmu Dasar Kedokteran dan Kesehatan]
 19. 
 20. 
 
-Kelas 2-IDKK [Ilmu Dasar Kedokteran dan Kesehatan]
+Kelas 2-DGKVI [Desain Grafis dan Komunikasi Visual Interdisipliner]
 1. 
 2. 
 3. 
@@ -42,7 +42,7 @@ Kelas 2-IDKK [Ilmu Dasar Kedokteran dan Kesehatan]
 19. 
 20. 
 
-Kelas 3-IDKK [Ilmu Dasa Kedokteran dan Kesehatan]
+Kelas 3-DGKVI [Desain Grafis dan Komunikasi Visual Interdisipliner]
 1. 
 2. 
 3. 
