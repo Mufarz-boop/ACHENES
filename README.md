@@ -33,11 +33,11 @@ A.C.H.E.N.E.S Academy membentuk individu yang:
 
 ## 📚 Bidang Studi
 
-- 💻 **Rekayasa Perangkat Lunak**
-- 🎨 **Desain Komunikasi Visual**
-- ⚕️ **Ilmu Dasar Kedokteran dan Kesehatan**
-- ⚖️ **Ilmu Hukum dan Yurisprudensi**
-- 💼 **Ilmu Ekonomi dan Manajemen Bisnis**
+- 💻 **Teknik Informatika dan Rekayasa Perangkat Lunak (TIRPL)**
+- 🎨 **Desain Grafis dan Komunikasi Visual Interdisipliner (DGKVI)**
+- ⚕️ **Ilmu Kedokteran Dasar dan Biomedis (IKDB)**
+- ⚖️ **Ilmu Hukum dan Yurisprudensi Kontemporer (IHYK)**
+- 💼 **Ilmu Ekonomi, Keuangan, dan Manajemen Strategis (IEKMS)**
 
 ---
 
