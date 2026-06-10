@@ -1,0 +1,189 @@
+Daftar Pengajar Akademi
+
+A. Daftar Pengajar Mata Pelajaran Umum
+Mata Pelajaran Tahun Pertama
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+
+Mata Pelajaran Tahun Kedua
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+Mata Pelajaran Tahun Ketiga
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+B. Jurusan
+1. Teknik Informatika dan Rekayasa Perangkat Lunak
+    Kepala Jurusan: 
+    Wakil Kepala Jurusan: 
+    Seketaris Jurusan: 
+    Koordinator Kurikulum Jurusan: 
+    Koordianator Hubungan Industri: 
+    Guru Jurusan: GURU JURUSAN TAHUN PERTAMA
+                  1. 
+                  2. 
+                  3. 
+
+                  GURU JURUSAN TAHUN KEDUA
+                  4. 
+                  5. 
+                  6. 
+
+                  GURU JURUSAN TAHUN KETIGA
+                  7. 
+                  8. 
+                  9. 
+
+2. Desain Grafis dan Komunikasi Visual Interdisipliner
+    Kepala Jurusan: 
+    Wakil Kepala Jurusan: 
+    Seketaris Jurusan: 
+    Koordinator Kurikulum Jurusan: 
+    Koordianator Hubungan Industri: 
+    Guru Jurusan: GURU JURUSAN TAHUN PERTAMA
+                  1. 
+                  2. 
+                  3. 
+
+                  GURU JURUSAN TAHUN KEDUA
+                  4. 
+                  5. 
+                  6. 
+
+                  GURU JURUSAN TAHUN KETIGA
+                  7. 
+                  8. 
+                  9. 
+
+3. Ilmu Kedokteran Dasar dan Biomedis
+    Kepala Jurusan: 
+    Wakil Kepala Jurusan: 
+    Seketaris Jurusan: 
+    Koordinator Kurikulum Jurusan: 
+    Koordianator Hubungan Industri: 
+    Guru Jurusan: GURU JURUSAN TAHUN PERTAMA
+                  1. 
+                  2. 
+                  3. 
+
+                  GURU JURUSAN TAHUN KEDUA
+                  4. 
+                  5. 
+                  6. 
+
+                  GURU JURUSAN TAHUN KETIGA
+                  7. 
+                  8. 
+                  9. 
+
+4. Ilmu Hukum dan Yurisprudensi Kontemporer
+    Kepala Jurusan: 
+    Wakil Kepala Jurusan: 
+    Seketaris Jurusan: 
+    Koordinator Kurikulum Jurusan: 
+    Koordianator Hubungan Industri: 
+    Guru Jurusan: GURU JURUSAN TAHUN PERTAMA
+                  1. 
+                  2. 
+                  3. 
+
+                  GURU JURUSAN TAHUN KEDUA
+                  4. 
+                  5. 
+                  6. 
+
+                  GURU JURUSAN TAHUN KETIGA
+                  7. 
+                  8. 
+                  9. 
+
+5. Ilmu Ekonomi, Keuangan, dan Manajemen Strategis
+    Kepala Jurusan: 
+    Wakil Kepala Jurusan: 
+    Seketaris Jurusan: 
+    Koordinator Kurikulum Jurusan: 
+    Koordianator Hubungan Industri: 
+    Guru Jurusan: GURU JURUSAN TAHUN PERTAMA
+                  1. 
+                  2. 
+                  3. 
+
+                  GURU JURUSAN TAHUN KEDUA
+                  4. 
+                  5. 
+                  6. 
+
+                  GURU JURUSAN TAHUN KETIGA
+                  7. 
+                  8. 
+                  9. 
+
+C. Ekstrakurikuler
+1. Coding & Software Dev Society [CSDS] = FORGE
+    Pembimbing: 
+
+2. Robotics & Automaton Engineering Club [RAEC] = CORE
+    Pembimbing: 
+    
+3. Cybersecurity & Ethical Hacking Society [CEHS] = SHIELD
+    Pembimbing: 
+    
+4. Visual Arts & Digital Design Association [VADDA] = VISTA
+    Pembimbing: 
+    
+5. Multimedia Production & Broadcasting Club [MPBC] = PULSE
+    Pembimbing: 
+    
+6. Health Sciences & Medical Exploration Club [HSMEC] = NOVA
+    Pembimbing: 
+    
+7. Law, Debate & Jurisprudence Society [LDJS] = ARGUE
+    Pembimbing: 
+    
+8. Economics, Business & Entrepreneurship [EBE] = SPARK
+    Pembimbing: 
+    
+9. International Relations & Model United Nations Society [IRMUNS] = UNITY
+    Pembimbing: 
+    
+10. Scientific Research & Innovation Club [SRIC] = QUARK
+    Pembimbing: 
+    
+11. Academic Excellence & Olympiad Team [AEOT] = AURUM
+    Pembimbing: 
+
+D. Organisasi
+Assembly of Representative and Integrated Student Council [ARIS]
+Main Supervisor: 
+Technical Advisor: 1. 
+                   2. 
+                   3. 
+
+Medical Emergency & Disaster Intervention Unit [MEDIX]
+Main Supervisor: 
+Technical Advisor: 1. 
+                   2. 
+                   3. 
+
+Guardianship of Authority, Regulation & Discipline Unit [GUARD]
+Main Supervisor: 
+Technical Advisor: 1. 
+                   2. 
+                   3. 
+
+Daftar Total Pengajar
