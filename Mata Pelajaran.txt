@@ -1,105 +1,120 @@
-MATA PELAJARAN TAHUN PERTAMA
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+MATA PELAJARAN UMUM A.C.H.E.N.E.S ACADEMY
 
-MATA PELAJARAN TAHUN KEDUA
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+FIRST YEAR SUBJECTS
 
-MATA PELAJARAN TAHUN KETIGA
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Character, Ethics, and Leadership Education
+2. Mathematics and Quantitative Reasoning
+3. Scientific Methods and Critical Thinking
+4. Communication and Academic Writing
+5. Digital Literacy and Information Technology
+6. Global Studies and Contemporary Society
+7. Research Fundamentals
+8. Physical Education and Personal Development
 
-MATA PELAJARAN JURUSAN TEKNIK INFORMATIKA DAN REKAYASA PERANGKAT LUNAK
-    Tahun Pertama
-    1. 
-    2. 
-    3. 
+SECOND YEAR SUBJECTS
 
-    Tahun Kedua
-    4. 
-    5. 
-    6. 
+1. Advanced Research Methodology
+2. Statistics and Data Analysis
+3. Professional Communication
+4. Innovation and Problem Solving
+5. Fundamentals of Project Management
+6. Applied Interdisciplinary Project
 
-    Tahun Ketiga
-    7. 
-    8. 
-    9. 
+THIRD YEAR SUBJECTS
 
-MATA PELAJARAN JURUSAN DESAIN GRAFIS DAN KOMUNIKASI VISUAL INTERDISIPLINER
-    Tahun Pertama
-    1. 
-    2. 
-    3. 
+1. Strategic Leadership and Decision Making
+2. Ethics in Professional Practice
+3. Entrepreneurship and Innovation
+4. Global Challenges and Future Studies
+5. Final Research Seminar
+6. Final Academic Project
 
-    Tahun Kedua
-    4. 
-    5. 
-    6. 
+INFORMATION TECHNOLOGY AND SOFTWARE ENGINEERING (TIRPL)
 
-    Tahun Ketiga
-    7. 
-    8. 
-    9. 
+First Year
 
-MATA PELAJARAN JURUSAN ILMU KEDOKTERAN DASAR DAN BIOMEDIS
-    Tahun Pertama
-    1. 
-    2. 
-    3. 
+1. Fundamentals of Programming
+2. Computational Logic and Algorithms
+3. Computer Systems and Digital Technology
 
-    Tahun Kedua
-    4. 
-    5. 
-    6. 
+Second Year
+4. Data Structures and Advanced Algorithms
+5. Databases and Information Systems
+6. Web Application Development
 
-    Tahun Ketiga
-    7. 
-    8. 
-    9. 
+Third Year
+7. Artificial Intelligence and Machine Learning Fundamentals
+8. Cybersecurity and Computer Networks
+9. Software Engineering and Capstone Project
 
-MATA PELAJARAN JURUSAN ILMU HUKUM DAN YURISPRUDENSI KONTEMPORER
-    Tahun Pertama
-    1. 
-    2. 
-    3. 
+INTERDISCIPLINARY GRAPHIC DESIGN AND VISUAL COMMUNICATION (DGKVI)
 
-    Tahun Kedua
-    4. 
-    5. 
-    6. 
+First Year
 
-    Tahun Ketiga
-    7. 
-    8. 
-    9. 
+1. Fundamentals of Visual Design
+2. Color Theory and Composition
+3. Fundamentals of Digital Illustration
 
-MATA PELAJARAN JURUSAN ILMU EKONOMI, KEUANGAN, DAN MANAJEMEN STRATEGIS
-    Tahun Pertama
-    1. 
-    2. 
-    3. 
+Second Year
+4. Typography and Visual Identity
+5. Interactive Multimedia Design
+6. Photography and Visual Production
 
-    Tahun Kedua
-    4. 
-    5. 
-    6. 
+Third Year
+7. User Interface and User Experience Design
+8. Branding and Creative Communication Strategy
+9. Professional Design Project
 
-    Tahun Ketiga
-    7. 
-    8. 
-    9. 
+BASIC MEDICAL AND BIOMEDICAL SCIENCES (IKDB)
+
+First Year
+
+1. Basic Human Anatomy
+2. Basic Human Physiology
+3. Cellular and Molecular Biology
+
+Second Year
+4. Medical Biochemistry
+5. Microbiology and Immunology
+6. Medical and Healthcare Ethics
+
+Third Year
+7. Basic Pathophysiology
+8. Basic Pharmacology
+9. Applied Biomedical Research
+
+CONTEMPORARY LAW AND JURISPRUDENCE (IHYK)
+
+First Year
+
+1. Introduction to Law
+2. National and International Legal Systems
+3. Legal Logic and Argumentation
+
+Second Year
+4. Civil Law
+5. Criminal Law
+6. Human Rights and Social Justice
+
+Third Year
+7. Contemporary International Law
+8. Courtroom Practice and Moot Court
+9. Jurisprudential Research and Analysis
+
+ECONOMICS, FINANCE, AND STRATEGIC MANAGEMENT (IEKMS)
+
+First Year
+
+1. Introduction to Economics
+2. Fundamentals of Management
+3. Financial and Business Literacy
+
+Second Year
+4. Accounting and Financial Reporting
+5. Microeconomics and Market Analysis
+6. Entrepreneurship and Business Innovation
+
+Third Year
+7. Macroeconomics and Public Policy
+8. Strategic Management and Business Leadership
+9. Investments, Capital Markets, and Business Projects
