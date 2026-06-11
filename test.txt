@@ -13,239 +13,241 @@ EKSTRAKURIKULER INTERNATIONAL RELATIONS & MODEL UNITED NATIONS
 EKSTRAKURIKULER SCIENTIFIC RESEARCH & INNOVATION CLUB
 EKSTRAKURIKULER ACADEMIC EXCELLENCE & OLYMPIAD TEAM
 
+POIN LULUS = 500 POIN
+
 Daftar Peserta Test Masuk Ekstrakurikuler
-EKSTRAKURIKULER CODING & SOFTWARE DEV SOCIETY
-1. 3-B []
-2. 2-A []
-3. 2-B []
-4. 1-C []
-5. 3-C []
-6. 3-C []
-7. 3-A []
-8. 1-B []
-9. 2-C []
-10. 1-D []
-11. 2-D []
-12. 3-D []
-13. 1-A []
-14. 3-A []
-15. 2-A []
-16. 2-B []
-17. 2-B []
-18. 2-D []
-19. 2-D []
-20. 3-C []
-21. 2-C []
-22. 2-A []
-23. 1-D []
-24. 1-D []
-25. 1-B []
+EKSTRAKURIKULER CODING & SOFTWARE DEV SOCIETY [FORGE]
+1. Nayshila Putri = 155
+2. Niko Erdiansyah = 521
+3. Dzul Fitra Kadri = 305
+4. Fara Dewi Kurniati = 876
+5. Muhammad Azka Ghulam Idrus = 532
+6. Aulia Azzahra = 567
+7. Devi Octaviany = 974
+8. Zavier Evano Abbas Suryano = 99
+9. Razita Nurin = 904
+10. Hansen Marcello Chandra = 185
+11. Maudy Putri Sakinah = 39
+12. Muhammad Zharif = 23
+13. Wan Muhammad Fadel = 386
+14. Hintan Saraswaty = 355
+15. Muhammad Nabil Zharif = 921
+16. Nurul Nabila Difa = 309
+17. Dio Putra Ramadan = 242
+18. Dalfia Nur Anrianti Putri = 125
+19. Muhammad Arbi Zakwan = 939
+20. Fidelfa Novandria = 598
+21. Abdul Muis Fahmi = 315
+22. Shafira Zahirah = 257
+23. Afdal Adha Firnansyah = 343
+24. Nicholas Andrison = 285
+25. Adhikara Rafana Pratana = 474
 
-EKSTRAKURIKULER ROBOTICS & AUTOMATON ENGINEERING CLUB
-1. 3-C []
-2. 2-C []
-3. 1-B []
-4. 2-D []
-5. 2-B []
-6. 3-C []
-7. 3-D []
-8. 2-A []
-9. 1-C []
-10. 1-C []
-11. 1-C []
-12. 3-A []
-13. 3-D []
-14. 2-C []
-15. 2-C []
-16. 2-C []
-17. 2-A []
-18. 1-D []
-19. 1-C []
-20. 3-A []
-21. 3-A []
+EKSTRAKURIKULER ROBOTICS & AUTOMATON ENGINEERING CLUB [CORE]
+1. Fidelfa Novandria = 736
+2. Andrian Fermando = 941
+3. Yumna Maliqa Batavia = 983
+4. Muhammad Ariq Mufid = 35
+5. Nurul Nabila Difa = 433
+6. Muhammad Hammas Fathurrahman = 503
+7. Salwa Meyhanda Rohimah = 92
+8. Fittian Mubaraq = 429
+9. Alvita Aprilyasari = 781
+10. Novita Anggraini = 133
+11. Revia Nur Eliza = 383
+12. Muhammad Raihan Nafis = 190
+13. Chantika Arum Daniar = 123
+14. Harsha Maliqa Xaviera Firnansyah = 492
+15. Alif Muthandar = 707
+16. Anggini Kayla Putri Koswara = 871
+17. Muhammad Nabil Zharif = 7
+18. Kenzie Al Hassan Satria = 634
+19. Yusril Ihsan Adinatanegara = 275
+20. Meisa Febriella = 567
+21. Leonard Irvin Gunandi = 69
 
-EKSTRAKURIKULER CYBERSECURITY & ETHICAL HACKING SOCIETY
-1. 2-A []
-2. 2-A []
-3. 2-A []
-4. 2-A []
-5. 1-A []
-6. 3-D []
-7. 3-C []
-8. 3-B []
-9. 1-D []
-10. 1-C []
-11. 1-C []
-12. 1-D []
-13. 2-A []
-14. 2-D []
-15. 1-C []
-16. 1-A []
-17. 3-A []
-18. 3-B []
-19. 3-C []
-20. 1-A []
-21. 1-B []
-22. 2-D []
-23. 2-A []
-24. 2-A []
-25. 3-B []
-26. 3-D []
-27. 1-A []
-28. 1-B []
-29. 1-C []
+EKSTRAKURIKULER CYBERSECURITY & ETHICAL HACKING SOCIETY [SHIELD]
+1. Muhammad Rayvan Kahfi Effendi = 
+2. Najinan Cinta Luqyana G = 
+3. Nauval Risqullah = 
+4. Melinda Rahma Dewi = 
+5. Naira Zahra = 
+6. Nicholas Edward = 
+7. Sulfia Elfin = 
+8. Jose Michael Mukito = 
+9. Naira Azalea Khairunnisa Zahra = 
+10. Marvelous Mercy Siduppa = 
+11. Risty Anastasya = 
+12. Bagas Alfino = 
+13. Kasih Attaya Putri = 
+14. Muhammad Rayyan = 
+15. Nova Angeliana Putri = 
+16. Muhammad Naufal Azka = 
+17. Trifena Julia Putri = 
+18. Muhammad Emir Alyavich = 
+19. Yuli Nayola = 
+20. Fae Ilana Negoro = 
+21. Mahrin Safa Ulayya = 
+22. Nurin Salma Raisa = 
+23. Yafi Ahmad = 
+24. Nayshila Putri = 
+25. Estianti Manda = 
+26. Avner Maxwell Lim = 
+27. Muhammad Luthfi = 
+28. Raisya Putri Carisa = 
+29. Bunga Keira Putri Aisya = 
 
-EKSTRAKURIKULER VISUAL ARTS & DIGITAL DESIGN ASSOCIATION
-1. 2-A []
-2. 3-B []
-3. 2-C []
-4. 1-B []
-5. 2-B []
-6. 2-A []
-7. 1-C []
-8. 2-A []
-9. 1-D []
-10. 2-D []
-11. 3-B []
-12. 1-D []
+EKSTRAKURIKULER VISUAL ARTS & DIGITAL DESIGN ASSOCIATION [VISTA]
+1. Razita Nurin = 
+2. Arvin Avritya = 
+3. Deswita Dwi Maharani = 
+4. Afdal Adha Firnansyah = 
+5. Alisa Yulianti = 
+6. Ishaq Ramadhani = 
+7. Yuana Mutiara Zahra = 
+8. Byan Al Payaz = 
+9. Nicholas Andrison = 
+10. Muhammad Zainun = 
+11. Mayliza = 
+12. Hansen Marcello Chandra = 
 
-EKSTRAKURIKULER MULTIMEDIA PRODUCTION & BROADCASTING CLUB
-1. 2-A []
-2. 2-B []
-3. 2-B []
-4. 3-C []
-5. 3-A []
-6. 3-A []
-7. 3-A []
-8. 3-D []
-9. 2-A []
-10. 2-D []
-11. 1-C []
-12. 1-C []
-13. 1-D []
-14. 3-B []
-15. 2-A []
-16. 1-C []
-17. 1-C []
-18. 1-B []
-19. 3-A []
-20. 2-A []
-21. 2-C []
-22. 2-D []
-23. 2-D []
-24. 1-C []
-25. 1-C []
-26. 1-C []
+EKSTRAKURIKULER MULTIMEDIA PRODUCTION & BROADCASTING CLUB [PULSE]
+1. Arafa Syahputra = 
+2. Aura Fauziyyah Rahmat = 
+3. Reza Fadillah = 
+4. Aulia Azzahra = 
+5. Rifki Ahmad Muhyiddin = 
+6. Tiara Junita Putri = 
+7. Ethan Samuel Benaya Khu = 
+8. Ayla Sonia Kaysa Mahira = 
+9. Byan Al Payaz = 
+10. Crise Sartilla = 
+11. Razita Nurin = 
+12. Bunga Keira Putri Aisya = 
+13. Afdal Adha Firnansyah = 
+14. Ezra Alvarion Derrian = 
+15. Shafira Zahirah = 
+16. Marvelous Mercy Siduppa = 
+17. Alifah Dzatil = 
+18. Fatin Batrisyia = 
+19. Muhammad Raihan Nafis = 
+20. Alya Fachriska = 
+21. Hanif Aqil = 
+22. Dalfia Nur Anrianti Putri = 
+23. Muhammad Arbi Zakwan = 
+24. Revia Nur Eliza = 
+25. Nova Angeliana Putri = 
+26. Amira Putri Wijaya = 
 
-EKSTRAKURIKULER HEALTH SCIENCES & MEDICAL EKSPLORATION CLUB
-1. 1-A []
-2. 2-C []
-3. 3-B []
-4. 1-D []
-5. 2-A []
-6. 3-C []
-7. 1-B []
-8. 2-D []
-9. 3-A []
-10. 1-C []
-11. 2-B []
-12. 3-D []
-13. 1-A []
-14. 2-C []
-15. 3-B []
-16. 1-D []
-17. 2-A []
-18. 3-C []
-19. 1-B []
-20. 2-D []
-21. 3-A []
+EKSTRAKURIKULER HEALTH SCIENCES & MEDICAL EKSPLORATION CLUB [NOVA]
+1. Audrey Felicity Hadi Siswoyo = 
+2. Riski Syahputra = 
+3. Ihsan Habibullah = 
+4. Daffa Atha Arkana = 
+5. Nayshila Putri = 
+6. Aqiel Radhitya = 
+7. Muthia Nadhifa Rifda = 
+8. Muhammad Arbi Zakwan = 
+9. Trifena Julia Putri = 
+10. Marvelous Mercy Siduppa = 
+11. Aura Fauziyyah Rahmat = 
+12. Muhammad Zharif = 
+13. Wan Muhammad Fadel = 
+14. Deswita Dwi Maharani = 
+15. Hector Leonuraji Prakarno = 
+16. Caelum Leonard = 
+17. Byan Al Payaz = 
+18. Vania Cantika Aurellia = 
+19. Muhammad Riffy Arifin = 
+20. Alvira Swandewi = 
+21. Rifki Ahmad Muhyiddin = 
 
-EKSTRAKURIKULER LAW, DEBATE & JURISPRUDENCE SOCIETY
-1. 3-D []
-2. 2-B []
-3. 1-C []
-4. 3-A []
-5. 2-D []
-6. 1-A []
-7. 3-C []
-8. 2-A []
-9. 1-D []
-10. 3-B []
-11. 2-C []
-12. 1-B []
-13. 3-D []
-14. 2-B []
-15. 1-C []
-16. 3-A []
-17. 2-D []
-18. 1-A []
-19. 3-C []
-20. 2-A []
-21. 1-D []
-22. 3-B []
-23. 2-C []
-24. 1-B []
-25. 3-A []
+EKSTRAKURIKULER LAW, DEBATE & JURISPRUDENCE SOCIETY [ARGUE]
+1. Salwa Meyhanda Rohimah = 
+2. Cecilia Von Treuhand = 
+3. Khumaerah Sari = 
+4. Muhammad Raihan Nafis = 
+5. Dalfia Nur Anrianti Putri = 
+6. Asraf Zain = 
+7. Tessa Maria Budy Ana Putri = 
+8. Yafi Ahmad = 
+9. Janssen Samuel Halim = 
+10. Auxilia Febrianti = 
+11. Muhammad Aryan = 
+12. Muthia Nadhifa Rifda = 
+13. Raditya Ananta Noorkhairan = 
+14. Syahida Ilmi = 
+15. Bunga Keira Putri Aisya = 
+16. Danzel Redriche Wong = 
+17. Crise Sartilla = 
+18. Naira Zahra = 
+19. Aqiel Radhitya = 
+20. Cahya Qhayla = 
+21. Mikail Savero Rasendryav = 
+22. Danish Kafeel Athari = 
+23. Iqhramul Zulivia Pessa = 
+24. Xaviera Muzarah Anoya = 
+25. Christina Anggi Andreyni = 
 
-EKSTRAKURIKULER ECONOMICS, BUSINESS & ENTREPRENEURSHIP
-1. 2-A []
-2. 1-D []
-3. 3-C []
-4. 2-B []
-5. 1-A []
-6. 3-D []
-7. 2-C []
-8. 1-B []
-9. 3-A []
-10. 2-D []
-11. 1-C []
+EKSTRAKURIKULER ECONOMICS, BUSINESS & ENTREPRENEURSHIP [SPARK]
+1. Nauval Risqullah = 
+2. Caelum Leonard = 
+3. Muhammad Azka Ghulam Idrus = 
+4. Elsa Bunga Nurfani = 
+5. Naira Zahra = 
+6. Nicholas Edward = 
+7. Zaki Azka = 
+8. Yumna Maliqa Batavia = 
+9. Rifki Ahmad Muhyiddin = 
+10. Annisa Eka Dikmata = 
+11. Marvelous Mercy Siduppa = 
 
-EKSTRAKURIKULER INTERNATIONAL RELATIONS & MODEL UNITED NATIONS
-1. 3-A []
-2. 2-C []
-3. 1-D []
-4. 3-B []
-5. 2-A []
-6. 1-C []
-7. 3-D []
-8. 2-B []
-9. 1-A []
-10. 3-C []
-11. 2-D []
-12. 1-B []
-13. 3-A []
-14. 2-C []
-15. 1-D []
+EKSTRAKURIKULER INTERNATIONAL RELATIONS & MODEL UNITED NATIONS [IRMUNS]
+1. Indri Ferina Novelani = 
+2. Abdul Muis Fahmi = 
+3. Marcelia Putri Margolang = 
+4. Hiero Gahara = 
+5. Yafi Ahmad = 
+6. Yuana Mutiara Zahra = 
+7. Raditya Ananta Noorkhairan = 
+8. Airin Muktial = 
+9. Wan Muhammad Fadel = 
+10. Gina Sonia = 
+11. Muhammad Farel Affatan = 
+12. Habibi Eka Dikmaba = 
+13. Leonard Irvin Gunandi = 
+14. Reva Levivani = 
+15. Nayshila Putri = 
 
-EKSTRAKURIKULER SCIENTIFIC RESEARCH & INNOVATION CLUB
-1. 1-C []
-2. 2-A []
-3. 3-D []
-4. 1-B []
-5. 2-C []
-6. 3-A []
-7. 1-D []
-8. 2-B []
-9. 3-C []
-10. 1-A []
+EKSTRAKURIKULER SCIENTIFIC RESEARCH & INNOVATION CLUB [QUARK]
+1. Nova Angeliana Putri = 
+2. Arafa Syahputra = 
+3. Devi Jani = 
+4. Muhammad Riffy Arifin = 
+5. Zaki Azka = 
+6. Muhammad Nur Rhozyqin Rantauan = 
+7. Yasmin Raidah Alifah = 
+8. Dzul Fitra Kadri = 
+9. Rizky Aditya = 
+10. Afdal Adha Firnansyah = 
 
-EKSTRAKURIKULER ACADEMIC EXCELLENCE & OLYMPIAD TEAM
-1. 3-C []
-2. 2-D []
-3. 1-A []
-4. 3-B []
-5. 2-A []
-6. 1-C []
-7. 3-D []
-8. 2-B []
-9. 1-D []
-10. 3-A []
-11. 2-C []
-12. 1-B []
-13. 3-C []
-14. 2-D []
-15. 1-A []
-16. 3-B []
-17. 2-A []
-18. 1-C []
-19. 3-D []
+EKSTRAKURIKULER ACADEMIC EXCELLENCE & OLYMPIAD TEAM [AURUM]
+1. Gina Sonia = 
+2. Fahrul Rozi = 
+3. Jihan Saffah Amira = 
+4. Hiero Gahara = 
+5. Robbiyatul Awaliyah = 
+6. Yusril Ihsan Adinatanegara = 
+7. Afdal Adha Firnansyah = 
+8. Razita Nurin = 
+9. Ishaq Ramadhani = 
+10. Danzel Redriche Wong = 
+11. Kevin Andriana Vanessa = 
+12. Ihsan Habibullah = 
+13. Qishanda Qaleesya Ardina = 
+14. Muhammad Dirga Hidayatullah = 
+15. Amelia Azzarine = 
+16. Albert Justin Immanuel Panggabean = 
+17. Melinda Rahma Dewi = 
+18. Akira Yuki = 
+19. Nisrina Nur Fakhirah Weldhaeni = 
