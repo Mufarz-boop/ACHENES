@@ -1,0 +1,271 @@
+KEPEMIMPINAN AKADEMI ACHENES
+
+Kepala Akademi: 
+Wakil Kepala Akademi: 
+Seketeris Umum: 
+Wakil Seketaris Umum: 
+Bendahara: 
+Wakil Bendahara: 
+Dewan Akademi: 1. 
+               2. 
+               3. 
+               4. 
+               5. 
+               6. 
+               7. 
+
+Direktur Jurusan: 
+Wakil Direktur Jurusan: 
+    JURUSAN TEKNIK INFORMATIKA DAN REKAYASA PERANGKAT LUNAK [TIRPL]
+    Kepala Jurusan TIRPL: 
+    Wakil Kepala Jurusan TIRPL: 
+    Seketaris Jurusan TIRPL: 
+    Bendahara Jurusan TIRPL: 
+    
+    JURUSAN DESAIN GRAFIS DAN KOMUNIKASI VISUAL INTERDISIPLINER [DGKVI]
+    Kepala Jurusan DGKVI: 
+    Wakil Kepala Jurusan DGKVI: 
+    Seketaris Jurusan DGKVI: 
+    Bendahara Jurusan DGKVI: 
+
+    JURUSAN ILMU KEDOKTERAN DASAR DAN BIOMEDIS [IKDB]
+    Kepala Jurusan IKDB: 
+    Wakil Kepala Jurusan IKDB: 
+    Seketaris Jurusan IKDB: 
+    Bendahara Jurusan IKDB: 
+
+    JURUSAN ILMU HUKUM DAN YURISPRUDENSI KONTEMPORER [IHYK]
+    Kepala Jurusan IHYK: 
+    Wakil Kepala Jurusan IHYK: 
+    Seketaris Jurusan IHYK: 
+    Bendahara Jurusan IHYK: 
+
+    JURUSAN ILMU EKONOMI, KEUANGAN DAN MANAJEMEN STRATEGIS [IEKMS]
+    Kepala Jurusan IEKMS: 
+    Wakil Kepala Jurusan IEKMS: 
+    Seketaris Jurusan IEKMS: 
+    Bendahara Jurusan IEKMS: 
+
+Direktur Ekstrakurikuler: 
+Wakil Direktur Ekstrakurikuler: 
+    Guru Pembimbing FORGE: 
+    Guru Pembimbing CORE: 
+    Guru Pembimbing SHIELD: 
+    Guru Pembimbing VISTA: 
+    Guru Pembimbing PULSE: 
+    Guru Pembimbing NOVA: 
+    Guru Pembimbing ARGUE: 
+    Guru Pembimbing SPARK: 
+    Guru Pembimbing UNITY: 
+    Guru Pembimbing QUARK: 
+    Guru Pembimbing AURUM: 
+
+Assembly of Representative and Integrated Student Council [ARIS]
+    Ketua Majelis: 
+    Wakil Ketua: 
+    Seketaris Umum: 
+    Wakil Seketaris: 
+    Bendahara Umum: 
+    Wakil Bendahara: 
+
+    Anggota Dewan ARIS
+    Perwakilan Angkatan Tahun Pertama
+    1. 
+    2. 
+    3. 
+    4. 
+
+    Perwakilan Angkatan Tahun Kedua
+    1. 
+    2. 
+    3. 
+    4. 
+
+    Perwakilan Angkatan Tahun Ketiga
+    1. 
+    2. 
+    3. 
+    4. 
+
+    Perwakilan Jurusan Rekayasa Perangkat Lunak
+    1. 
+    2. 
+    3. 
+
+    Perwakilan Jurusan Desain Komunikasi Visual
+    1. 
+    2. 
+    3. 
+
+    Perwakilan Jurusan Ilmu Dasar Kedokteran dan Kesehatan
+    1. 
+    2. 
+    3. 
+
+    Perwakilan Jurusan Ilmu Hukum dan Yurisprudensi
+    1. 
+    2. 
+    3. 
+
+    Perwakilan Jurusan Ilmu Ekonomi dan Manajemen Bisnis
+    1. 
+    2. 
+    3. 
+
+    Main Supervisor: 
+    Technical Advisor: 1. 
+                       2. 
+                       3. 
+
+Unit Spesial Akademi ACHENES
+Medical Emergency & Disaster Intervention Unit [MEDIX]
+    Chief Medical Officer: 
+    Deputy Chief Medical: 
+    Medical Administration: 
+    Medical Finance Officer: 
+    Emergency Response Director: 
+    Medical Operation Coordinator: 
+
+    Field Medical Team Leader 
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    First Aid Officers
+    Team Utara
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Team Timur
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Team Selatan
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Team Barat
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Team Pusat
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Medical Cadets
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
+    7. 
+    8. 
+    9. 
+    10. 
+    11. 
+    12. 
+    13. 
+    14. 
+    15. 
+
+    Main Supervisor: 
+    Technical Advisor: 1. 
+                       2. 
+                       3. 
+
+Guardianship of Authority, Regulation & Discipline Unit [GUARD]
+    Commandant of Discipline Corps: 
+    Deputy Commandant: 
+    Operations Chief: 
+    Security Administration: 
+    Logistics Officer: 
+    Security Division Leader: 
+
+    Divisi Keamanan Pusat
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
+    7. 
+
+    Discipline Enforcement Officer
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Patrol Unit Leader
+    1. 
+    2. 
+
+    Tim Patroli
+    Tim Barat
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Tim Timur
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Tim Utara
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Tim Selatan
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+
+    Cadet Guards
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
+    7. 
+    8. 
+    9. 
+    10. 
+    11. 
+    12. 
+    13. 
+    14. 
+    15. 
+
+    Main Supervisor: 
+    Technical Advisor: 1. 
+                       2. 
+                       3. 

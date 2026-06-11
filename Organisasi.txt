@@ -5,7 +5,8 @@ Secretary General:
 Deputy Secretary: 
 Treasurer General: 
 Deputy Treasurer: 
-Council Members
+
+ARIS Council Members
 Perwakilan Angkatan Tahun Pertama
 1. 
 2. 
@@ -50,7 +51,9 @@ Perwakilan Jurusan Ilmu Ekonomi dan Manajemen Bisnis
 3. 
 
 Main Supervisor: 
-Technical Advisor: 
+Technical Advisor: 1. 
+                   2. 
+                   3. 
 
 B. Medical Emergency & Disaster Intervention Unit [MEDIX]
 Chief Medical Officer: 
@@ -121,7 +124,9 @@ Medical Cadets
 15. 
 
 Main Supervisor: 
-Technical Advisor: 
+Technical Advisor: 1. 
+                   2. 
+                   3. 
 
 C. Guardianship of Authority, Regulation & Discipline Unit [GUARD]
 Commandant of Discipline Corps: 
@@ -198,4 +203,6 @@ Cadet Guards
 15. 
 
 Main Supervisor: 
-Technical Advisor: 
+Technical Advisor: 1. 
+                   2. 
+                   3. 
