@@ -1,34 +1,34 @@
-A. Assembly of Representative and Integrated Student Council [ARIS]
-Chairperson of Assembly: Robbiyatul Awaliyah
-Vice Chairperson: Yuana Mutiara Zahra
-Secretary General: Anjel Laura Vianniza
-Deputy Secretary: Yumna Maliqa Batavia
-Treasurer General: Aura Salsabila
-Deputy Treasurer: Caelum Leonard
+A. Majelis Perwakilan dan Dewan Mahasiswa Terpadu [ARIS]
+Ketua Majelis: Afdal Adha Firnansyah
+Wakil Ketua: Audrey Felicity Hadi Siswoyo
+Sekretaris Jenderal: Kirana Cattleya Safira
+Wakil Sekretaris: Chelina Anindita Putri
+Bendahara Jenderal: Najinan Cinta Luqyana G
+Wakil Bendahara: Zavier Evano Abbas Suryano
 
-ARIS Council Members
+Anggota Dewan ARIS
 Perwakilan Angkatan Tahun Pertama
-1. Rakina Zata Amni
-2. Zavier Evano Abbas Suryano
-3. Nova Angeliana Putri
-4. Janssen Samuel Halim
+1. Stacia Edina Johanna
+2. Haura Renalvo Ulayya
+3. Yuana Mutiara Zahra
+4. Enzo Deharryl Hatta
 
 Perwakilan Angkatan Tahun Kedua
-1. Afdal Adha Firnansyah
-2. Aluna Qanita Syafira Putri Firnansyah
-3. Harsha Maliqa Xaviera Firnansyah
-4. Aisyah Hana Safira Qanita Putri Firnansyah
+1. Robbiyatul Awaliyah
+2. Fattin Qalbuana Arhas
+3. Safa Malika Rahim
+4. Sivanna Azrillia
 
 Perwakilan Angkatan Tahun Ketiga
-1. Muhammad Nur Rhozyqin Rantauan
-2. Agus Ubaidillah Alhakim
-3. Qisha Qaleesya Ardina
+1. Ethan Samuel Benaya Khu
+2. Dira Azra Mauliza Boru Hasibuan
+3. Fidelfa Novandria
 4. Shella Puspita Sari
 
 Perwakilan Jurusan Rekayasa Perangkat Lunak
-1. Neilson Huang
-2. Ishaq Ramadhani
-3. Ackhava Adam Malonda
+1. Nikeisha Faiha Notaria Margolang
+2. Muhammad Nabil Zharif
+3. Aloysius Gonzaga Duta Setyawan
 
 Perwakilan Jurusan Desain Komunikasi Visual
 1. Bagas Alfino
@@ -36,173 +36,125 @@ Perwakilan Jurusan Desain Komunikasi Visual
 3. Dahlia Puspita Zahra
 
 Perwakilan Jurusan Ilmu Dasar Kedokteran dan Kesehatan
-1. Haura Renalvo Ulayya
-2. Razita Nurin
-3. David Christopher Purnama
+1. Mattew Ravanelli Tjiptono
+2. Nasyilla Syifa
+3. Trifena Julia Putri
 
 Perwakilan Jurusan Ilmu Hukum dan Yurisprudensi
-1. Muhammad Naufal Azka
-2. Kevin Andriana Vanessa
-3. Muhammad Alvaro Lazuardi
+1. Claire Shane Ailie Sumantri
+2. Fahrul Rozi
+3. Aisyah Qurnyandra Gadisia Shoi
 
 Perwakilan Jurusan Ilmu Ekonomi dan Manajemen Bisnis
-1. Bunga Keira Putri Aisya
-2. Muhammad Ultakarisyah
-3. Cindy Putri Kaharap
+1. Desak Putu Queenara Chandra Nadila
+2. Ney Zella Putri Nasution
+3. Marchell Gracio Halim
 
-Main Supervisor: 
-Technical Advisor: 1. 
-                   2. 
-                   3. 
+Penyelia Utama: 
+Penasihat Teknis: 1. 
+                  2. 
+                  3. 
 
-B. Medical Emergency & Disaster Intervention Unit [MEDIX]
-Chief Medical Officer: Razita Nurin
-Deputy Chief Medical: Haura Renalvo Ulayya
-Medical Administration: 
-Medical Finance Officer: 
-Emergency Response Director: 
-Medical Operation Coordinator: 
+B. Unit Intervensi Medis Darurat & Bencana [MEDIX]
+Kepala Medis: Harsha Maliqa Xaviera Firnansyah
+Wakil Kepala Medis: Shafani Anasya Cevia
+Administrasi Medis: Mulkan Arief Alhuda
+Petugas Keuangan Medis: Muhammad Dirga Hidayatullah
+Direktur Respons Darurat: Adhikara Rafana Pratana
+Koordinator Operasi Medis: Edric Owen Pidono
 
-Field Medical Team Leader 
-1. 
-2. 
-3. 
-4. 
-5. 
+Pemimpin Tim Medis Lapangan
+1. Nayshila Putri
+2. Marvelous Mercy Siduppa
+3. Vania Cantika Aurellia
+4. Alvira Swandewi
+5. Caelum Leonard
 
-First Aid Officers
-Team Utara
-1. 
-2. 
-3. 
-4. 
-5. 
+Tim Pusat
+1. Byan Al Payaz
+2. Naufal Aqila Harto
+3. Crise Sartilla
+4. Alif Muthandar
+5. Andini Ruslandi Fathurrahman
 
-Team Timur
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Team Selatan
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Team Barat
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Team Pusat
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Medical Cadets
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-
-Main Supervisor: 
-Technical Advisor: 1. 
-                   2. 
-                   3. 
-
-C. Guardianship of Authority, Regulation & Discipline Unit [GUARD]
-Commandant of Discipline Corps: 
-Deputy Commandant: 
-Operations Chief: 
-Security Administration: 
-Logistics Officer: 
-Security Division Leader: 
-
-Divisi Keamanan Pusat
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-
-Discipline Enforcement Officer
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Patrol Unit Leader
-1. 
-2. 
-
-Tim Patroli
-Tim Barat
-1. 
-2. 
-3. 
-4. 
-5. 
+Petugas Pertolongan Pertama
+Tim Utara
+1. Muhammad Raihan Nafis
+2. Rakina Zata Amni
+3. Indriani Tandean
+4. Arafa Syahputra
+5. Niko Erdiansyah
 
 Tim Timur
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Tim Utara
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Muhammad Yanal Fauzan
+2. Steven Abel Cahyono
+3. Mahrin Safa Ulayya
+4. Novela Talenta Putri Damai
+5. Aura Salsabila
 
 Tim Selatan
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Carirena Putri Keysanti
+2. Rizqa Oktafiana
+3. Stela Regina Velovea
+4. Kevin Andriana Vanessa
+5. Zahra Almaira
 
-Cadet Guards
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
+Tim Barat
+1. Ayla Sonia Kaysa Mahira
+2. Hansen Marcello Chandra
+3. Marcelia Putri Margolang
+4. Maudy Putri Sakinah
+5. Farizza Najwa Aila
 
-Main Supervisor: 
-Technical Advisor: 1. 
-                   2. 
-                   3. 
+Penyelia Utama:
+Penasihat Teknis: 1. 
+                  2. 
+                  3. 
+
+C. Unit Pengawasan Otoritas, Regulasi & Disiplin [GUARD]
+Komandan Korps Disiplin: Aluna Qanita Syafira Putri Firnansyah
+Wakil Komandan: Fatin Batrisyia
+Kepala Operasi: Xaviera Muzarah Anoya
+Administrasi Keamanan: Cariel Khanes Mustafa
+Petugas Logistik: Yusril Ihsan Adinatanegara
+Pemimpin Divisi Keamanan: Shafira Zahirah
+
+Divisi Keamanan Pusat
+1. Kasih Attaya Putri
+2. Cahya Qhayla
+3. Zakina Amalia Ashar
+4. Arzalea Panega
+5. Andrian Fermando
+6. Tawaf Dinosi
+7. Ijlal Hawari
+
+Petugas Penegak Disiplin
+1. Cindy Putri Kaharap
+2. Devi Octaviany
+3. Novariana
+4. Arvin Avritya
+5. Muhammad Emir Alyavich
+
+Pemimpin Unit Patroli
+1. Vincent Candra
+2. Raudhatul Jannah
+
+Tim Patroli
+Tim Zona Biru
+1. Hanif Aqil
+2. Rizky Aditya Aramiko
+3. Syahida Ilmi
+4. Raphael Eagan Angkawijaya
+5. Philbert Mayer
+
+Tim Zona Merah
+1. Amira Putri Wijaya
+2. Asraf Zain
+3. Fae Ilana Negoro
+4. Aulia Astrico Pratama
+5. Muhammad Naufal Azka
+
+Penyelia Utama: 
+Penasihat Teknis: 1. 
+                  2. 
+                  3. 
