@@ -1,54 +1,54 @@
 A. Assembly of Representative and Integrated Student Council [ARIS]
-Chairperson of Assembly: 
-Vice Chairperson: 
-Secretary General: 
-Deputy Secretary: 
-Treasurer General: 
-Deputy Treasurer: 
+Chairperson of Assembly: Robbiyatul Awaliyah
+Vice Chairperson: Yuana Mutiara Zahra
+Secretary General: Anjel Laura Vianniza
+Deputy Secretary: Yumna Maliqa Batavia
+Treasurer General: Aura Salsabila
+Deputy Treasurer: Caelum Leonard
 
 ARIS Council Members
 Perwakilan Angkatan Tahun Pertama
-1. 
-2. 
-3. 
-4. 
+1. Rakina Zata Amni
+2. Zavier Evano Abbas Suryano
+3. Nova Angeliana Putri
+4. Janssen Samuel Halim
 
 Perwakilan Angkatan Tahun Kedua
-1. 
-2. 
-3. 
-4. 
+1. Afdal Adha Firnansyah
+2. Aluna Qanita Syafira Putri Firnansyah
+3. Harsha Maliqa Xaviera Firnansyah
+4. Aisyah Hana Safira Qanita Putri Firnansyah
 
 Perwakilan Angkatan Tahun Ketiga
-1. 
-2. 
-3. 
-4. 
+1. Muhammad Nur Rhozyqin Rantauan
+2. Agus Ubaidillah Alhakim
+3. Qisha Qaleesya Ardina
+4. Shella Puspita Sari
 
 Perwakilan Jurusan Rekayasa Perangkat Lunak
-1. 
-2. 
-3. 
+1. Neilson Huang
+2. Ishaq Ramadhani
+3. Ackhava Adam Malonda
 
 Perwakilan Jurusan Desain Komunikasi Visual
-1. 
-2. 
-3. 
+1. Bagas Alfino
+2. Ihsan Habibullah
+3. Dahlia Puspita Zahra
 
 Perwakilan Jurusan Ilmu Dasar Kedokteran dan Kesehatan
-1. 
-2. 
-3. 
+1. Haura Renalvo Ulayya
+2. Razita Nurin
+3. David Christopher Purnama
 
 Perwakilan Jurusan Ilmu Hukum dan Yurisprudensi
-1. 
-2. 
-3. 
+1. Muhammad Naufal Azka
+2. Kevin Andriana Vanessa
+3. Muhammad Alvaro Lazuardi
 
 Perwakilan Jurusan Ilmu Ekonomi dan Manajemen Bisnis
-1. 
-2. 
-3. 
+1. Bunga Keira Putri Aisya
+2. Muhammad Ultakarisyah
+3. Cindy Putri Kaharap
 
 Main Supervisor: 
 Technical Advisor: 1. 
@@ -56,8 +56,8 @@ Technical Advisor: 1.
                    3. 
 
 B. Medical Emergency & Disaster Intervention Unit [MEDIX]
-Chief Medical Officer: 
-Deputy Chief Medical: 
+Chief Medical Officer: Razita Nurin
+Deputy Chief Medical: Haura Renalvo Ulayya
 Medical Administration: 
 Medical Finance Officer: 
 Emergency Response Director: 

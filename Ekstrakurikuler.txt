@@ -1,241 +1,241 @@
 1. Kelas FORGE
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Aulia Azzahra
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Niko Erdiansyah
+2. Fara Dewi Kurniati
+3. Muhammad Azka Ghulam
+4. Aulia Azzahra
+5. Devi Octaviany
+6. Razita Nurin
+7. Muhammad Nabil Zharif
+8. Muhammad Arbi Zakwan
+9. Fidelfa Novandria
+10. -
+11. -
+12. -
+13. -
+14. -
+15. -
+16. -
 
 2. Kelas CORE
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Muhammad Hammas Fathurrahman
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Fidelfa Novandria
+2. Andrian Fermando
+3. Yumna Maliqa Batavia
+4. Muhamamd Hammas Fathurrahman
+5. Alvita Aprilyasari
+6. Alif Muthandar
+7. Anggini Kayla Putri Koswara
+8. Kenxie Al Hassan Satria
+9. Meisa Febriella
+10. -
+11. -
+12. -
+13. -
+14. -
+15. -
+16. -
 
 3. Kelas SHIELD
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Jose Michael Mukito
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Muhammad Rayvan Kahfi Effendi
+2. Melinda Rahma Dewi
+3. Naira Zahra
+4. Sulfia Elfin
+5. Jose Michael Mukito
+6. Marvelous Mercy Siduppa
+7. Risty Anastasya
+8. Nova Angeliana Putri
+9. Muhammad Naufal Azka
+10. Trifena Julia Putri
+11. Muhammad Emir Alyavich
+12. Nayshila Putri
+13. Avner Maxwell Lim
+14. Muhammad Luthfi
+15. Raisya Putri Carisa
+16. Bunga keira Putri Aisya
 
 4. Kelas VISTA
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Arvin Avritya
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Razita Nurin
+2. Arvin Avritya
+3. Afdal Adha Firnansyah
+4. Alisa Yulianti
+5. Ishaq Ramadhani
+6. Yuana Mutiara Zahra
+7. Nicholas Andrison
+8. Muhammad Zainun
+9. Mayliza
+10. -
+11. -
+12. -
+13. -
+14. -
+15. -
+16. -
 
 5. Kelas PULSE
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Rifki Ahmad Muhyiddin
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Rifki Ahmad Muhyiddin
+2. Crise Sartilla
+3. Bunga Keira Putri Aisya
+4. Afdal Adha Firnansyah
+5. Ezra Alvarion Derrian
+6. Shafira Zahirah
+7. Marvelous Mercy Siduppa
+8. Fatin Batrisyia
+9. Alya Fachriska
+10. Hanif Aqil
+11. Dalfia Nur Anrianti Putri
+12. Revia Nur Eliza
+13. Nova Angeliana Putri
+14. -
+15. -
+16. -
 
 6. Kelas NOVA
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Aura Fauziyyah Rahmat
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Riski Syahputra
+2. Nayshila Putri
+3. Aqiel Radhitya
+4. Muhammad Arbi Zakwan
+5. Trifena Julia Putri
+6. Marvelous Mercy Siduppa
+7. Aura Fauziyyah Rahmat
+8. Wan Muhammad Fadel
+9. Caelum Leonard
+10. Vania Cantika Aurellia
+11. Muhammad Riffy Arifin
+12. Alvira Swandewi
+13. -
+14. -
+15. -
+16. -
 
 7. Kelas ARGUE
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Dalfia Nur Anrianti Putri
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Dalfia Nur Anrianti Putri
+2. Yafi Ahmad
+3. Janssen Samuel Halim
+4. Muhammad Aryan
+5. Raditya Ananta Noorkhairan
+6. Bunga Keira Putri Aisya
+7. Danish Kafeel Athari
+8. Christina Anggi Andreyni
+9. -
+10. -
+11. -
+12. -
+13. -
+14. -
+15. -
+16. -
 
 8. Kelas SPARK
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Zaki Azka
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Caelum Leonard
+2. Zaki Azka
+3. Yumna Maliqa Batavia
+4. -
+5. -
+6. -
+7. -
+8. -
+9. -
+10. -
+11. -
+12. -
+13. -
+14. -
+15. -
+16. -
 
 9. Kelas UNITY
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Abdul Muis Fahmi
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Indri Ferina Novelani
+2. Abdul Muis Fahmi
+3. Hiero Gahara
+4. Yafi Ahmad
+5. Raditya Ananta Noorkhairan
+6. Airin Muktial
+7. Muhammad Farel Affatan
+8. Reva Levivani
+9. -
+10. -
+11. -
+12. -
+13. -
+14. -
+15. -
+16. -
 
 10. Kelas QUARK
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Devi Jani
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Nova Angeliana Putri
+2. Arafa Syahputra
+3. Devi Jani
+4. Yasmin Raidah Alifah
+5. -
+6. -
+7. -
+8. -
+9. -
+10. -
+11. -
+12. -
+13. -
+14. -
+15. -
+16. -
 
 11. Kelas AURUM
 Guru Pembimbing: 
-Bendahara: 
+Bendahara: Amelia Azzarine
 
 Daftar Anggota
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. Gina Sonia
+2. Fahrul Rhozyqin
+3. Hiero Gahara
+4. Afdal Adha Firnansyah
+5. Razita Nurin
+6. Ishaq Ramadhani
+7. Danzel Redriche Wong
+8. Kevin Andriana Vanessa
+9. Ihsan Habibullah
+10. Muhammad Dirga Hidayatullah
+11. Amelia Azzarine
+12. Melinda Rahma Dewi
+13. Nisrina Nur Fakhirah Weldhaeni
+14. -
+15. -
+16. -
