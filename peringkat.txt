@@ -956,3 +956,21 @@ TAHUN KETIGA
 98. 
 99. 
 100. 
+
+SEPULUH HAL YANG DI HITUNG UNTUK MEMBUAT PERINGKAT
+| No        | Faktor                                    | Maksimal Poin |
+| --------- | ----------------------------------------- | ------------: |
+| 1         | Intelegensi (IQ & kemampuan berpikir)     |         1.000 |
+| 2         | Pengetahuan (wawasan & penguasaan materi) |         1.000 |
+| 3         | Kreativitas & Inovasi                     |         1.000 |
+| 4         | Disiplin                                  |         1.000 |
+| 5         | Kerja Keras & Produktivitas               |         1.000 |
+| 6         | Adaptabilitas                             |         1.000 |
+| 7         | Kepemimpinan                              |         1.000 |
+| 8         | Karakter & Integritas                     |         1.000 |
+| 9         | Komunikasi & Kerja Sama                   |         1.000 |
+| 10        | Kesehatan Fisik & Mental                  |         1.000 |
+|   TOTAL   |                                           |        10.000 |
+
+SETIAP ASPEK INI AKAN DI NILAI SETIAP BULAN DAN SETELAH TIGA BULAN
+AKAN DI AKUMULASIKAN DAN DI TENTUKAN PERINGKATNYA
