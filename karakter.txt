@@ -1,6 +1,4 @@
-ANGKATAN TAHUN PERTAMA
-
-Kelas 1-A [Laki-Laki: 10] [Perempuan: 15]
+DAFTAR KARAKTER BAGIAN 1
 1. Wan Muhammad Fadel
 2. Abid Farish
 3. Muhammad Naufal Azka
@@ -27,7 +25,7 @@ Kelas 1-A [Laki-Laki: 10] [Perempuan: 15]
 24. Indriani Tandean
 25. Florence Griffith Joyner
 
-Kelas 1-B [Laki-Laki: 8] [Perempuan: 17]
+DAFTAR KARAKTER BAGIAN 2
 1. Muhammad Dicky Rahman
 2. Zavier Evano Abbas Suryano
 3. Muhammad Riffy Arifin
@@ -54,7 +52,7 @@ Kelas 1-B [Laki-Laki: 8] [Perempuan: 17]
 24. Yumna Maliqa Batavia
 25. Haura Renalvo Ulayya
 
-Kelas 1-C [Laki-Laki: 2] [Perempuan: 23]
+DAFTAR KARAKTER BAGIAN 3
 1. Cariel Khanes Mustafa
 2. Yusril Ihsan Adinatanegara
 3. Keisha Meidina Azzahra
@@ -81,7 +79,7 @@ Kelas 1-C [Laki-Laki: 2] [Perempuan: 23]
 24. Yuana Mutiara Zahra
 25. Bunga Keira Putri Aisya
 
-Kelas 1-D [Laki-Laki: 19] [Perempuan: 6]
+DAFTAR KARAKTER BAGIAN 4
 1. Bagas Alfino
 2. Jayden Jurianto
 3. Edric Owen Pidono
@@ -108,9 +106,7 @@ Kelas 1-D [Laki-Laki: 19] [Perempuan: 6]
 24. Yasmin Raidah Alifah
 25. Alifa Kazie
 
-ANGKATAN TAHUN KEDUA
-
-Kelas 2-A [Laki-Laki: 12] [Perempuan: 13]
+DAFTAR KARAKTER BAGIAN 5
 1. Afdal Adha Firnansyah
 2. Ihsan Habibullah
 3. Ishaq Ramadhani
@@ -137,7 +133,7 @@ Kelas 2-A [Laki-Laki: 12] [Perempuan: 13]
 24. Wulandari
 25. Melinda Rahma Dewi
 
-Kelas 2-B [Laki-Laki: 5] [Perempuan: 20]
+DAFTAR KARAKTER BAGIAN 6
 1. Faka Mulkhair
 2. Reza Fadillah
 3. Dio Putra Ramadan
@@ -164,7 +160,7 @@ Kelas 2-B [Laki-Laki: 5] [Perempuan: 20]
 24. Aura Salsabila
 25. Arzalea Panega
 
-Kelas 2-C [Laki-Laki: 16] [Perempuan: 9]
+DAFTAR KARAKTER BAGIAN 7
 1. Muhammad Rizki Ramadhan
 2. Muhammad Ikhbar Fadillah
 3. Deta Tama Sagrita
@@ -191,7 +187,7 @@ Kelas 2-C [Laki-Laki: 16] [Perempuan: 9]
 24. Fhatika Annisa
 25. Sindi Aulia Ningsih
 
-Kelas 2-D [Laki-Laki: 12] [Perempuan: 13]
+DAFTAR KARAKTER BAGIAN 8
 1. Muhammad Zainun
 2. Mulkan Arief Alhuda
 3. Muhammad Ariq Mufid
@@ -218,9 +214,7 @@ Kelas 2-D [Laki-Laki: 12] [Perempuan: 13]
 24. Dalfia Nur Anrianti Putri
 25. Maudy Putri Sakinah
 
-ANGKATAN TAHUN KETIGA
-
-Kelas 3-A [Laki-Laki: 10] [Perempuan: 15]
+DAFTAR KARAKTER BAGIAN 9
 1. Muhammad Raihan Nafis
 2. Muhammad Yanal Fauzan
 3. Ackhava Adam Malonda
@@ -247,7 +241,7 @@ Kelas 3-A [Laki-Laki: 10] [Perempuan: 15]
 24. Trifena Julia Putri
 25. Novariana
 
-Kelas 3-B [Laki-Laki: 18] [Perempuan: 7]
+DAFTAR KARAKTER BAGIAN 10
 1. Muhammad Fatahillah
 2. Muhammad Arya Razan
 3. Nicholas Boston Setioko
@@ -274,7 +268,7 @@ Kelas 3-B [Laki-Laki: 18] [Perempuan: 7]
 24. Vania Peliasa
 25. Mey Sandrena
 
-Kelas 3-C [Laki-Laki: 11] [Perempuan: 14]
+DAFTAR KARAKTER BAGIAN 11
 1. Rizky Aditya
 2. Aqiel Radhitya
 3. Hanif Alfarizki Pratama
@@ -301,7 +295,7 @@ Kelas 3-C [Laki-Laki: 11] [Perempuan: 14]
 24. Afifah As-syadiyah Asnawir
 25. Vania Cantika Aurellia
 
-Kelas 3-D [Laki-Laki: 13] [Perempuan: 12]
+DAFTAR KARAKTER BAGIAN 12
 1. Ricky Tri Andika
 2. Nicholas Edward
 3. Raditya Ananta Noorkhairan
