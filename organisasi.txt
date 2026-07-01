@@ -1,127 +1,262 @@
 STUDENT REPRESENTATIVE COUNCIL
 
-Speaker (1)
-Wakil Speaker (1)
-Sekretaris Jenderal (1)
-Wakil Sekretaris Jenderal (1)
-Kepala Administrasi (1)
+Speaker: 
+Wakil Speaker: 
+Sekretaris Jenderal: 
+Wakil Sekretaris Jenderal: 
+Kepala Administrasi: 
 
 Komisi Peraturan dan Legislasi
-Ketua Komisi (1)
-Wakil Ketua (1)
-Anggota (6)
+Ketua Komisi: 
+Wakil Ketua: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
 
 Komisi Aspirasi dan Advokasi
-Ketua Komisi (1)
-Wakil Ketua (1)
-Anggota (6)
+Ketua Komisi: 
+Wakil Ketua: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
 
 Komisi Pengawasan dan Organisasi
-Ketua Komisi (1)
-Wakil Ketua (1)
-Anggota (6)
+Ketua Komisi: 
+Wakil Ketua: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
 
 Komisi Hubungan Antar Organisasi
-Ketua Komisi (1)
-Wakil Ketua (1)
-Anggota (6)
+Ketua Komisi: 
+Wakil Ketua: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
 
 
 STUDENT MEDICAL UNIT
-
-Kepala Unit (1)
-Wakil Kepala Unit (1)
+Kepala Unit: 
+Wakil Kepala Unit: 
 
 Divisi Pelayanan Medis
-Kepala Divisi (1)
-Petugas P3K (8)
-Petugas Ruang UKS (4)
+Kepala Divisi: 
+Petugas P3K: 1. 
+             2. 
+             3. 
+             4. 
+             5. 
+             6. 
+             7. 
+             8. 
+
+Petugas Ruang UKS: 1. 
+                   2. 
+                   3. 
+                   4. 
 
 Divisi Edukasi Kesehatan
-Kepala Divisi (1)
-Tim Penyuluhan (6)
-Tim Kampanye Hidup Sehat (6)
+Kepala Divisi: 
+Tim Penyuluhan: 1. 
+                2. 
+                3. 
+                4. 
+                5. 
+                6. 
+
+Tim Kampanye Hidup Sehat: 1. 
+                          2. 
+                          3. 
+                          4. 
+                          5. 
+                          6. 
 
 Divisi Sanitasi
-Kepala Divisi (1)
-Tim Kebersihan Lingkungan (8)
-Tim Pemeriksaan Sanitasi (4)
+Kepala Divisi: 
+Tim Kebersihan Lingkungan: 1. 
+                           2. 
+                           3. 
+                           4. 
+                           5. 
+                           6. 
+                           7. 
+                           8. 
+
+Tim Pemeriksaan Sanitasi: 1. 
+                          2. 
+                          3. 
+                          4. 
 
 Divisi Logistik
-Kepala Divisi (1)
-Petugas Obat (3)
-Petugas Inventaris (3)
+Kepala Divisi: 
+Petugas Obat: 1. 
+              2. 
+              3. 
+
+Petugas Inventaris: 1. 
+                    2. 
+                    3. 
 
 Divisi Dokumentasi Medis
-Kepala Divisi (1)
-Pencatat Pasien (2)
-Arsiparis (2)
+Kepala Divisi: 
+Pencatat Pasien: 1. 
+                 2. 
+
+Arsiparis: 1. 
+           2. 
 
 
 STUDENT SECURITY CORPS
-
-Komandan Korps (1)
-Wakil Komandan (1)
-Kepala Staf (1)
+Komandan Korps: 
+Wakil Komandan: 
+Kepala Staf: 
 
 Batalyon Ketertiban
-Komandan Batalyon (1)
+Komandan Batalyon: 
 
 Kompi A
-Komandan Kompi (1)
-Anggota (15)
+Komandan Kompi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
+         7. 
+         8. 
+         9. 
+         10. 
+         11. 
+         12. 
+         13. 
+         14. 
+         15. 
 
 Kompi B
-Komandan Kompi (1)
-Anggota (15)
+Komandan Kompi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
+         7. 
+         8. 
+         9. 
+         10. 
+         11. 
+         12. 
+         13. 
+         14. 
+         15. 
 
 Batalyon Pengamanan Acara
-Komandan Batalyon (1)
+Komandan Batalyon: 
 
 Peleton Pengawalan
-Komandan Peleton (1)
-Anggota (10)
+Komandan Peleton: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
+         7. 
+         8. 
+         9. 
+         10. 
 
 Peleton Pengamanan
-Komandan Peleton (1)
-Anggota (10)
+Komandan Peleton: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
+         7. 
+         8. 
+         9. 
+         10. 
 
 Divisi Intelijen
-Kepala Intelijen (1)
-Tim Pengamatan (6)
+Kepala Intelijen: 
+Tim Pengamatan: 1. 
+                2. 
+                3. 
+                4. 
+                5. 
+                6. 
 
 Divisi Operasi
-Kepala Operasi (1)
-Tim Patroli (8)
+Kepala Operasi: 
+Tim Patroli: 1. 
+             2. 
+             3. 
+             4. 
+             5. 
+             6. 
+             7. 
+             8.
 
 Divisi Perlengkapan
-Kepala Logistik (1)
-Petugas Inventaris (4)
+Kepala Logistik: 
+Petugas Inventaris: 1. 
+                    2. 
+                    3. 
+                    4. 
 
 
 STUDENT JUSTICIAR COUNCIL
 
-Ketua Mahkamah (1)
-Wakil Ketua Mahkamah (1)
-Panitera (1)
-Wakil Panitera (1)
+Ketua Mahkamah: 
+Wakil Ketua Mahkamah: 
+Panitera: 
+Wakil Panitera: 
 
 Majelis Hakim I
-Hakim Ketua (1)
-Hakim Anggota (2)
+Hakim Ketua: 
+Hakim Anggota: 1. 
+               2. 
 
 Majelis Hakim II
-Hakim Ketua (1)
-Hakim Anggota (2)
+Hakim Ketua: 
+Hakim Anggota: 1. 
+               2. 
 
 Divisi Investigasi
-Kepala Investigasi (1)
-Penyelidik (6)
+Kepala Investigasi: 
+Penyelidik: 1. 
+            2. 
+            3. 
+            4. 
+            5. 
+            6. 
 
 Divisi Penuntutan
-Kepala Penuntut (1)
-Penuntut (4)
+Kepala Penuntut: 
+Penuntut: 1. 
+          2. 
+          3. 
+          4. 
 
 Divisi Mediasi
-Ketua Mediasi (1)
-Mediator (6)
+Ketua Mediasi: 
+Mediator: 1. 
+          2. 
+          3. 
+          4. 
+          5. 
+          6. 

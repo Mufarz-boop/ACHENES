@@ -41,20 +41,326 @@ Daftar Ekstrakurikuler
 
 Daftar Kelas
 KELAS 1-A
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+
 KELAS 1-B
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 1-C
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 1-D
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 1-E
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 1-F
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 2-A
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 2-B
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 2-C
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 2-D
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 2-E
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 2-F
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 3-A
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 3-B
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 3-C
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 3-D
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 3-E
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        
 KELAS 3-F
+Wali Kelas: 
+Ketua Kelas: 
+Wakil Ketua Kelas: 
+Sekretaris: 
+Bendahara: 
+Koordinator Akademik: 1. 
+                      2. 
+                      3. 
+
+Koordinator Kedisplinan: 1. 
+                         2. 
+                         3. 
+                      
+Koordinator Kebersihan: 1. 
+                        2. 
+                        3. 
+                        

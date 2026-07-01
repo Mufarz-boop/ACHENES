@@ -1,461 +1,877 @@
 ENGLISH CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Wakil Sekretaris (1)
-Bendahara (1)
-Wakil Bendahara (1)
+Ketua:
+Wakil Ketua:
+Sekretaris:
+Wakil Sekretaris:
+Bendahara:
+Wakil Bendahara:
 
 Divisi Akademik
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Pelatihan dan Pengembangan
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Kompetisi dan Prestasi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Hubungan Masyarakat
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
 
 Divisi Dokumentasi dan Media
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+
 
 MATHEMATICS CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Wakil Sekretaris (1)
-Bendahara (1)
-Wakil Bendahara (1)
+Ketua:
+Wakil Ketua:
+Sekretaris:
+Wakil Sekretaris:
+Bendahara:
+Wakil Bendahara:
 
 Divisi Akademik
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Pelatihan dan Pengembangan
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Kompetisi dan Prestasi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Hubungan Masyarakat
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
 
 Divisi Dokumentasi dan Media
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+
 
 DEBATE CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Wakil Sekretaris (1)
-Bendahara (1)
-Wakil Bendahara (1)
+Ketua:
+Wakil Ketua:
+Sekretaris:
+Wakil Sekretaris:
+Bendahara:
+Wakil Bendahara:
 
 Divisi Akademik
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Pelatihan dan Pengembangan
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Kompetisi dan Prestasi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Hubungan Masyarakat
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
 
 Divisi Dokumentasi dan Media
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+
 
 PROGRAMMING CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Wakil Sekretaris (1)
-Bendahara (1)
-Wakil Bendahara (1)
+Ketua:
+Wakil Ketua:
+Sekretaris:
+Wakil Sekretaris:
+Bendahara:
+Wakil Bendahara:
 
 Divisi Akademik
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Pelatihan dan Pengembangan
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Kompetisi dan Prestasi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Hubungan Masyarakat
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
 
 Divisi Dokumentasi dan Media
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+
 
 RESEARCH CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Wakil Sekretaris (1)
-Bendahara (1)
-Wakil Bendahara (1)
+Ketua:
+Wakil Ketua:
+Sekretaris:
+Wakil Sekretaris:
+Bendahara:
+Wakil Bendahara:
 
 Divisi Akademik
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Riset dan Inovasi
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+6.
 
 Divisi Publikasi Ilmiah
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
 
 Divisi Hubungan Masyarakat
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
 
 Divisi Dokumentasi dan Media
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+
 
 HUMANITIES CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Wakil Sekretaris (1)
-Bendahara (1)
-Wakil Bendahara (1)
+Ketua:
+Wakil Ketua:
+Sekretaris:
+Wakil Sekretaris:
+Bendahara:
+Wakil Bendahara:
 
 Divisi Ilmu Sosial
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Pengabdian Masyarakat
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Diskusi dan Seminar
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Hubungan Masyarakat
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
 
 Divisi Dokumentasi dan Media
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+
 
 GOVERNANCE CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Wakil Sekretaris (1)
-Bendahara (1)
-Wakil Bendahara (1)
+Ketua:
+Wakil Ketua:
+Sekretaris:
+Wakil Sekretaris:
+Bendahara:
+Wakil Bendahara:
 
 Divisi Kebijakan Publik
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Parlemen Siswa
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Pengembangan Kepemimpinan
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Hubungan Masyarakat
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
 
 Divisi Dokumentasi dan Media
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+
 
 LITERACY CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Wakil Sekretaris (1)
-Bendahara (1)
-Wakil Bendahara (1)
+Ketua:
+Wakil Ketua:
+Sekretaris:
+Wakil Sekretaris:
+Bendahara:
+Wakil Bendahara:
 
 Divisi Membaca
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Menulis
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Publikasi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Hubungan Masyarakat
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
 
 Divisi Dokumentasi dan Media
-Kepala Divisi (1)
-Anggota (3)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+
 
 STREZURA MEDIA CLUB
-Pemimpin Redaksi (1)
-Wakil Pemimpin Redaksi (1)
-Redaktur Pelaksana (1)
-Sekretaris (1)
-Bendahara (1)
+Pemimpin Redaksi:
+Wakil Pemimpin Redaksi:
+Redaktur Pelaksana:
+Sekretaris:
+Bendahara:
 
 Divisi Berita
-Kepala Redaksi (1)
-Reporter (6)
+Kepala Redaksi:
+Reporter:
+1.
+2.
+3.
+4.
+5.
+6.
 
 Divisi Fotografi
-Kepala Fotografer (1)
-Fotografer (5)
+Kepala Fotografer:
+Fotografer:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Videografi
-Kepala Videografer (1)
-Videografer (5)
+Kepala Videografer:
+Videografer:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Desain Grafis
-Kepala Desainer (1)
-Desainer (5)
+Kepala Desainer:
+Desainer:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Media Sosial
-Manajer Konten (1)
-Kreator Konten (5)
+Manajer Konten:
+Kreator Konten:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Publikasi
-Koordinator Publikasi (1)
-Anggota (4)
+Koordinator Publikasi:
+Anggota:
+1.
+2.
+3.
+4.
+
 
 ART CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Bendahara (1)
+Ketua:
+Wakil Ketua:
+Sekretaris:
+Bendahara:
 
 Divisi Seni Rupa
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+6.
 
 Divisi Kerajinan
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Pameran
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Kreatif
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+
 
 MUSIC CLUB
-Direktur Musik (1)
-Wakil Direktur Musik (1)
-Sekretaris (1)
-Bendahara (1)
+Direktur Musik:
+Wakil Direktur Musik:
+Sekretaris:
+Bendahara:
 
 Divisi Vokal
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+6.
 
 Divisi Band
-Kepala Divisi (1)
-Anggota (8)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
 
 Divisi Musik Tradisional
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+6.
 
 Divisi Produksi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 DRAMA CLUB
-Direktur Artistik (1)
-Wakil Direktur Artistik (1)
-Sekretaris (1)
-Bendahara (1)
+Direktur Artistik:
+Wakil Direktur Artistik:
+Sekretaris:
+Bendahara:
 
 Divisi Pemeranan
-Kepala Divisi (1)
-Anggota (8)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
 
 Divisi Penulisan Naskah
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
 
 Divisi Tata Panggung
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+6.
 
 Divisi Tata Busana dan Tata Rias
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+6.
 
 Divisi Tata Cahaya dan Tata Suara
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi:
+Anggota:
+1.
+2.
+3.
+4.
+5.
+6.
 
 SCOUT
-Pradana (1)
-Wakil Pradana (1)
-Sekretaris (1)
-Bendahara (1)
-Pemimpin Sangga (4)
-Wakil Pemimpin Sangga (4)
-Anggota Sangga (24)
-Pembina Lapangan (2)
-Pelatih (2)
+Pradana:
+Wakil Pradana:
+Sekretaris:
+Bendahara:
+
+Pemimpin Sangga:
+1.
+2.
+3.
+4.
+
+Wakil Pemimpin Sangga:
+1.
+2.
+3.
+4.
+
+Anggota Sangga:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+
+Pembina Lapangan:
+1.
+2.
+
+Pelatih:
+1.
+2.
 
 FLAG RAISING TEAM
-Komandan (1)
-Wakil Komandan (1)
-Sekretaris (1)
-Bendahara (1)
+Komandan: 
+Wakil Komandan: 
+Sekretaris: 
+Bendahara: 
 
 Divisi Pelatihan
-Kepala Divisi (1)
-Anggota (8)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
+         7. 
+         8. 
 
 Divisi Protokol
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
 
 Divisi Pengawal Kehormatan
-Kepala Divisi (1)
-Anggota (12)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
+         7. 
+         8. 
+         9. 
+         10. 
+         11. 
+         12. 
 
 Divisi Logistik
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
 
 FOOTBALL CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Bendahara (1)
-Pelatih Utama (1)
-Asisten Pelatih (2)
-Kapten Tim (1)
-Wakil Kapten (1)
+Ketua: 
+Wakil Ketua: 
+Sekretaris: 
+Bendahara: 
+Pelatih Utama: 
+Asisten Pelatih: 1. 
+                 2. 
+Kapten Tim: 
+Wakil Kapten: 
 
 Divisi Latihan
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
 
 Divisi Kompetisi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
 
 Divisi Perlengkapan
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
 
 Divisi Medis dan Kebugaran
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
 
 BASKETBALL CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Bendahara (1)
-Pelatih Utama (1)
-Asisten Pelatih (2)
-Kapten Tim (1)
-Wakil Kapten (1)
+Ketua: 
+Wakil Ketua: 
+Sekretaris: 
+Bendahara: 
+Pelatih Utama: 
+Asisten Pelatih: 1. 
+                 2. 
+Kapten Tim: 
+Wakil Kapten: 
 
 Divisi Latihan
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
 
 Divisi Kompetisi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
 
 Divisi Perlengkapan
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
 
 Divisi Medis dan Kebugaran
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
 
 BADMINTON CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Bendahara (1)
-Pelatih Utama (1)
-Asisten Pelatih (2)
-Kapten Tim (1)
-Wakil Kapten (1)
+Ketua: 
+Wakil Ketua: 
+Sekretaris: 
+Bendahara: 
+Pelatih Utama: 
+Asisten Pelatih: 1. 
+                 2. 
+Kapten Tim: 
+Wakil Kapten: 
 
 Divisi Latihan
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
 
 Divisi Kompetisi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
 
 Divisi Perlengkapan
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
 
 Divisi Medis dan Kebugaran
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
 
 TABLE TENNIS CLUB
-Ketua (1)
-Wakil Ketua (1)
-Sekretaris (1)
-Bendahara (1)
-Pelatih Utama (1)
-Asisten Pelatih (2)
-Kapten Tim (1)
-Wakil Kapten (1)
+Ketua: 
+Wakil Ketua: 
+Sekretaris: 
+Bendahara: 
+Pelatih Utama: 
+Asisten Pelatih: 1. 
+                 2. 
+Kapten Tim: 
+Wakil Kapten: 
 
 Divisi Latihan
-Kepala Divisi (1)
-Anggota (6)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
+         6. 
 
 Divisi Kompetisi
-Kepala Divisi (1)
-Anggota (5)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
+         5. 
 
 Divisi Perlengkapan
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
 
 Divisi Medis dan Kebugaran
-Kepala Divisi (1)
-Anggota (4)
+Kepala Divisi: 
+Anggota: 1. 
+         2. 
+         3. 
+         4. 
