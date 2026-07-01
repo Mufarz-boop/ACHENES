@@ -14,10 +14,10 @@ Seketaris Umum: Ms. Felicia
 Bendahara: Ms. Ariana
 
 Daftar Organisasi
-1. Student Representative Council [SRC]
-2. Student Medical Unit [SMU]
-3. Student Security Corps [SSC]
-4. Student Judiciary Council [SJC]
+1. Student Representative Council
+2. Student Medical Unit
+3. Student Security Corps
+4. Student Judiciary Council
 
 Daftar Ekstrakurikuler
 1. English Club
