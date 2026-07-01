@@ -107,58 +107,58 @@ KELAS 1-D
 25. Alifa Kazie
 
 KELAS 1-E
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
-25. 
+1. Kenji Gunawan
+2. Nicholas Kevin Tan
+3. Nabil Ibadurrahman Evatra
+4. Muhammad Ficky Haris Ardiansyah
+5. Zahran Rayssal Ghaza
+6. Kaditya Rakan Pandyansa
+7. Naufal Hafidz Sayyidina Hawari
+8. Bagas Satrio Wicaksana
+9. Maxwell Salvandor Surya Atmaja
+10. Davin Firmansha
+11. Edward Hartanto Enrico Abadi
+12. Faisal Nur
+13. Inugame Korone
+14. Hoshimachi Suisei
+15. Usada Pekora
+16. Shiranui Flare
+17. Shirogane Noel
+18. Tsunomaki Watame
+19. Tokoyami Towa
+20. Himemori Luna
+21. Yukihana Lamy
+22. Omaru Polka
+23. Takane Lui
+24. Sakamata Chloe
+25. Watson Amelia
 
 KELAS 1-F
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
-25. 
+1. Muhammad Barir Faqih Hermawan
+2. Brian Arianto Tanuwidjaja
+3. Ganang Fattahuddien Attar
+4. R. Muhammad Hanif
+5. Rafif Dista Serano
+6. Ibnu Alif Daffa Gymnastiar
+7. Aghna Naufal Pratama
+8. Gregorius Tendi
+9. Falah Andhesryo
+10. Alfie Vere Likhie
+11. Xaverius Yesaya Bunalven
+12. Kobo Kanaeru
+13. Kureiji Ollie
+14. Anya Melfissa
+15. Pavolia Reine
+16. Moona Hoshinova
+17. Ayunda Risu
+18. Airani Iofifteen
+19. Tokino Sora
+20. Aki Rosenthal
+21. Shirakami Fubuki
+22. Natsuiro Matsuri
+23. Nakiri Ayame
+24. Sakura Miko
+25. Nekomata Okayu
 
 KELAS 2-A
 1. Afdal Adha Firnansyah
@@ -269,58 +269,58 @@ KELAS 2-D
 25. Maudy Putri Sakinah
 
 KELAS 2-E
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
-25. 
+1. Fahmi Nur Alim
+2. Komang Chandra Yoganda
+3. Axel Giovanni Hartanto
+4. Sandy Kristian Waluyo
+5. Kevin Lius Bong
+6. Nathan Keith Poernama
+7. Christopher Govert
+8. Fernando Kho
+9. Maulana Fatahillah Adzima
+10. Austin Senna Wijaya
+11. Arkan Fadhil Kautsar
+12. David Shane Goh
+13. Joshua Marvel Solomon
+14. Rafael Nevan Prayogo
+15. Muhammad Galang Lifaldin
+16. Dean Hartono
+17. Rasyadan Faza Safiqur Rahman
+18. Zahran Nizar Fadhlan
+19. Kadek Rasya Putra Wirawan
+20. Yassi Tri Rahmada
+21. Afra Moedya Abadi
+22. Nathasa Diana Permatasari
+23. Xaviera Putri Ardianingsih Listyo
+24. Vestia Zeta
+25. Kaela Kovalskia
 
 KELAS 2-F
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
-25. 
+1. Benedict Presley
+2. Rhesa Narayana Rasmara
+3. Muhammad Haikal Maulana Al Adsuri
+4. Nicholas Evan Sitanggang
+5. Adika Rasendriya Arya Putra
+6. Amadeo Yesa
+7. Gevin Kurniawan
+8. Muhammad Sultan Hafiz
+9. Jonathan Samuel Matogu Tambunan
+10. Michael Purnama
+11. Sarah Firjani
+12. Jessica Margareth
+13. Amaris Rea Ananda
+14. Nasywa Dwiammara
+15. Nashita Shahira Feryanto
+16. Manuella Ivana Uli Sianipar
+17. Angelca David Vinci
+18. Chindita Tri Maharani
+19. Emilda Puteri Aulia
+20. Rahmadini Aulia
+21. Olivia Valentina
+22. Najwa Nur Awalia
+23. Dinar Annasta Naja Mayra
+24. Nadia Puti Dianestia
+25. Shakira Amirah
 
 KELAS 3-A
 1. Muhammad Raihan Nafis
@@ -431,55 +431,55 @@ KELAS 3-D
 25. Chantika Arum Daniar
 
 KELAS 3-E
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
-25. 
+1. Brian Limantoro
+2. Arief Kurniawan
+3. Muhammad Ainurriza Al Kahfi
+4. Arifin Zuhdi
+5. Dimas Dwi Rachmat Susilo
+6. Evan Christina Patri
+7. Rafael David Santoso
+8. Theo Immanuel Sanyoto
+9. Acthasain Putra Suhardi
+10. Muhammad Zaidan Naja
+11. Aryo Razak
+12. Muhammad Nabiel Shafa
+13. Ririn Riani
+14. Anna Khairunnisa
+15. Anisa Putri Asyla
+16. Quinsya Linovi Humayra
+17. Jessica Aulia
+18. Morinza Auliantika
+19. Claudia Cintya Azzahra
+20. Ainun Nur Afifah
+21. Raila Rahma Fajri
+22. Wilda Novariska
+23. Almaira Keysa Defani
+24. Nailatul Azka Amelia
+25. Sifa Nurlita Oktariani
 
 KELAS 3-F
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
-25. 
+1. Yoan Alfando
+2. Andreas M. K. Simanjuntak
+3. Philip Maxwell
+4. Ahmad Fauzan Mubarok
+5. Indra Rahmadan
+6. Charlos Falentino
+7. Stefanus Sandy
+8. Vedhino Bima Aryaputra Ahnaf
+9. Shawn Gabriel Dayanti Intong
+10. David Dwi Sanjaya
+11. Kriestian Valerio Sugianto
+12. Maulana Satya Adigama
+13. Gilbert Liean Wu
+14. Calvin Shevchenko
+15. Aqifa Khoirunisa
+16. Erina Septria Ramadani
+17. Nia Rahmadany
+18. Rika Agraditya Putri
+19. Eli Safitri
+20. Zanniya Nazela
+21. Jelita Maharani
+22. Zahra Aulia
+23. Salma Ghelya Rahmah
+24. Maudi Ningrum
+25. Citra Najua Ajauziah
