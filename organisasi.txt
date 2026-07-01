@@ -1,0 +1,127 @@
+STUDENT REPRESENTATIVE COUNCIL
+
+Speaker (1)
+Wakil Speaker (1)
+Sekretaris Jenderal (1)
+Wakil Sekretaris Jenderal (1)
+Kepala Administrasi (1)
+
+Komisi Peraturan dan Legislasi
+Ketua Komisi (1)
+Wakil Ketua (1)
+Anggota (6)
+
+Komisi Aspirasi dan Advokasi
+Ketua Komisi (1)
+Wakil Ketua (1)
+Anggota (6)
+
+Komisi Pengawasan dan Organisasi
+Ketua Komisi (1)
+Wakil Ketua (1)
+Anggota (6)
+
+Komisi Hubungan Antar Organisasi
+Ketua Komisi (1)
+Wakil Ketua (1)
+Anggota (6)
+
+
+STUDENT MEDICAL UNIT
+
+Kepala Unit (1)
+Wakil Kepala Unit (1)
+
+Divisi Pelayanan Medis
+Kepala Divisi (1)
+Petugas P3K (8)
+Petugas Ruang UKS (4)
+
+Divisi Edukasi Kesehatan
+Kepala Divisi (1)
+Tim Penyuluhan (6)
+Tim Kampanye Hidup Sehat (6)
+
+Divisi Sanitasi
+Kepala Divisi (1)
+Tim Kebersihan Lingkungan (8)
+Tim Pemeriksaan Sanitasi (4)
+
+Divisi Logistik
+Kepala Divisi (1)
+Petugas Obat (3)
+Petugas Inventaris (3)
+
+Divisi Dokumentasi Medis
+Kepala Divisi (1)
+Pencatat Pasien (2)
+Arsiparis (2)
+
+
+STUDENT SECURITY CORPS
+
+Komandan Korps (1)
+Wakil Komandan (1)
+Kepala Staf (1)
+
+Batalyon Ketertiban
+Komandan Batalyon (1)
+
+Kompi A
+Komandan Kompi (1)
+Anggota (15)
+
+Kompi B
+Komandan Kompi (1)
+Anggota (15)
+
+Batalyon Pengamanan Acara
+Komandan Batalyon (1)
+
+Peleton Pengawalan
+Komandan Peleton (1)
+Anggota (10)
+
+Peleton Pengamanan
+Komandan Peleton (1)
+Anggota (10)
+
+Divisi Intelijen
+Kepala Intelijen (1)
+Tim Pengamatan (6)
+
+Divisi Operasi
+Kepala Operasi (1)
+Tim Patroli (8)
+
+Divisi Perlengkapan
+Kepala Logistik (1)
+Petugas Inventaris (4)
+
+
+STUDENT JUSTICIAR COUNCIL
+
+Ketua Mahkamah (1)
+Wakil Ketua Mahkamah (1)
+Panitera (1)
+Wakil Panitera (1)
+
+Majelis Hakim I
+Hakim Ketua (1)
+Hakim Anggota (2)
+
+Majelis Hakim II
+Hakim Ketua (1)
+Hakim Anggota (2)
+
+Divisi Investigasi
+Kepala Investigasi (1)
+Penyelidik (6)
+
+Divisi Penuntutan
+Kepala Penuntut (1)
+Penuntut (4)
+
+Divisi Mediasi
+Ketua Mediasi (1)
+Mediator (6)
