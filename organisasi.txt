@@ -1,5 +1,4 @@
 STUDENT REPRESENTATIVE COUNCIL
-
 Speaker: 
 Wakil Speaker: 
 Sekretaris Jenderal: 
@@ -220,7 +219,6 @@ Petugas Inventaris: 1.
 
 
 STUDENT JUSTICIAR COUNCIL
-
 Ketua Mahkamah: 
 Wakil Ketua Mahkamah: 
 Panitera: 
