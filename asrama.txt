@@ -1,0 +1,147 @@
+WHITE HALL
+Ruang Nomor 1: Peringkat umum 1
+Ruang Nomor 2: Peringkat umum 2
+Ruang Nomor 3: Peringkat umum 3
+Ruang Nomor 4: Peringkat umum 4
+Ruang Nomor 5: Peringkat umum 5
+Ruang Nomor 6: Peringkat umum 6
+Ruang Nomor 7: Peringkat umum 7
+Ruang Nomor 8: Peringkat umum 8
+Ruang Nomor 9: Peringkat umum 9
+Ruang Nomor 10: Peringkat umum 10
+Ruang Nomor 11: Peringkat umum 11
+Ruang Nomor 12: Peringkat umum 12
+Ruang Nomor 13: Peringkat umum 13
+Ruang Nomor 14: Peringkat umum 14
+Ruang Nomor 15: Peringkat umum 15
+Ruang Nomor 16: Peringkat umum 16
+Ruang Nomor 17: Peringkat umum 17
+Ruang Nomor 18: Peringkat umum 18
+Ruang Nomor 19: Peringkat umum 19
+Ruang Nomor 20: Peringkat umum 20
+Ruang Nomor 21: Peringkat umum 21
+Ruang Nomor 22: Peringkat umum 22
+Ruang Nomor 23: Peringkat umum 23
+Ruang Nomor 24: Peringkat umum 24
+Ruang Nomor 25: Peringkat umum 25
+
+BLACK HALL
+Ruang Nomor 1: Peringkat umum 26-27
+Ruang Nomor 2: Peringkat umum 28-29
+Ruang Nomor 3: Peringkat umum 30-31
+Ruang Nomor 4: Peringkat umum 32-33
+Ruang Nomor 5: Peringkat umum 34-35
+Ruang Nomor 6: Peringkat umum 36-37
+Ruang Nomor 7: Peringkat umum 38-39
+Ruang Nomor 8: Peringkat umum 40-41
+Ruang Nomor 9: Peringkat umum 42-43
+Ruang Nomor 10: Peringkat umum 44-45
+Ruang Nomor 11: Peringkat umum 46-47
+Ruang Nomor 12: Peringkat umum 48-49
+Ruang Nomor 13: Peringkat umum 50-51
+Ruang Nomor 14: Peringkat umum 52-53
+Ruang Nomor 15: Peringkat umum 54-55
+Ruang Nomor 16: Peringkat umum 56-57
+Ruang Nomor 17: Peringkat umum 58-59
+Ruang Nomor 18: Peringkat umum 60-61
+Ruang Nomor 19: Peringkat umum 62-63
+Ruang Nomor 20: Peringkat umum 64-65
+Ruang Nomor 21: Peringkat umum 66-67
+Ruang Nomor 22: Peringkat umum 68-69
+Ruang Nomor 23: Peringkat umum 70-71
+Ruang Nomor 24: Peringkat umum 72-73
+Ruang Nomor 25: Peringkat umum 74-75
+
+RED HALL
+Ruang Nomor 1: Peringkat umum 76-78
+Ruang Nomor 2: Peringkat umum 79-81
+Ruang Nomor 3: Peringkat umum 82-84
+Ruang Nomor 4: Peringkat umum 85-87
+Ruang Nomor 5: Peringkat umum 88-90
+Ruang Nomor 6: Peringkat umum 91-93
+Ruang Nomor 7: Peringkat umum 94-96
+Ruang Nomor 8: Peringkat umum 97-99
+Ruang Nomor 9: Peringkat umum 100-102
+Ruang Nomor 10: Peringkat umum 103-105
+Ruang Nomor 11: Peringkat umum 106-108
+Ruang Nomor 12: Peringkat umum 109-111
+Ruang Nomor 13: Peringkat umum 112-114
+Ruang Nomor 14: Peringkat umum 115-117
+Ruang Nomor 15: Peringkat umum 118-120
+Ruang Nomor 16: Peringkat umum 121-123
+Ruang Nomor 17: Peringkat umum 124-126
+Ruang Nomor 18: Peringkat umum 127-129
+Ruang Nomor 19: Peringkat umum 130-132
+Ruang Nomor 20: Peringkat umum 133-135
+Ruang Nomor 21: Peringkat umum 136-138
+Ruang Nomor 22: Peringkat umum 139-141
+Ruang Nomor 23: Peringkat umum 142-144
+Ruang Nomor 24: Peringkat umum 145-147
+Ruang Nomor 25: Peringkat umum 148-150
+
+BLUE HALL
+Ruang Nomor 1: Peringkat umum 151-154
+Ruang Nomor 2: Peringkat umum 155-158
+Ruang Nomor 3: Peringkat umum 159-162
+Ruang Nomor 4: Peringkat umum 163-166
+Ruang Nomor 5: Peringkat umum 167-170
+Ruang Nomor 6: Peringkat umum 171-174
+Ruang Nomor 7: Peringkat umum 175-178
+Ruang Nomor 8: Peringkat umum 179-182
+Ruang Nomor 9: Peringkat umum 183-186
+Ruang Nomor 10: Peringkat umum 187-190
+Ruang Nomor 11: Peringkat umum 191-194
+Ruang Nomor 12: Peringkat umum 195-198
+Ruang Nomor 13: Peringkat umum 199-202
+Ruang Nomor 14: Peringkat umum 203-206
+Ruang Nomor 15: Peringkat umum 207-210
+Ruang Nomor 16: Peringkat umum 211-214
+Ruang Nomor 17: Peringkat umum 215-218
+Ruang Nomor 18: Peringkat umum 219-222
+Ruang Nomor 19: Peringkat umum 223-226
+Ruang Nomor 20: Peringkat umum 227-230
+Ruang Nomor 21: Peringkat umum 231-234
+Ruang Nomor 22: Peringkat umum 235-238
+Ruang Nomor 23: Peringkat umum 239-242
+Ruang Nomor 24: Peringkat umum 243-246
+Ruang Nomor 25: Peringkat umum 247-250
+
+GREEN HALL
+Ruang Nomor 1: Peringkat umum 251-258
+Ruang Nomor 2: Peringkat umum 259-266
+Ruang Nomor 3: Peringkat umum 267-274
+Ruang Nomor 4: Peringkat umum 275-282
+Ruang Nomor 5: Peringkat umum 283-290
+Ruang Nomor 6: Peringkat umum 291-298
+Ruang Nomor 7: Peringkat umum 299-306
+Ruang Nomor 8: Peringkat umum 307-314
+Ruang Nomor 9: Peringkat umum 315-322
+Ruang Nomor 10: Peringkat umum 323-330
+Ruang Nomor 11: Peringkat umum 331-338
+Ruang Nomor 12: Peringkat umum 339-346
+Ruang Nomor 13: Peringkat umum 347-354
+Ruang Nomor 14: Peringkat umum 355-362
+Ruang Nomor 15: Peringkat umum 363-370
+Ruang Nomor 16: Peringkat umum 371-378
+Ruang Nomor 17: Peringkat umum 379-386
+Ruang Nomor 18: Peringkat umum 387-394
+Ruang Nomor 19: Peringkat umum 395-402
+Ruang Nomor 20: Peringkat umum 403-410
+Ruang Nomor 21: Peringkat umum 411-418
+Ruang Nomor 22: Peringkat umum 419-426
+Ruang Nomor 23: Peringkat umum 427-434
+Ruang Nomor 24: Peringkat umum 435-442
+Ruang Nomor 25: Peringkat umum 443-450
+
+Keterangan:
+1 kamar pada White hall di huni oleh 1 orang.
+1 kamar pada black hall di buni oleh 2 orang.
+1 kamar pada red hall di huni oleh 3 orang.
+1 kamar pada blue hall di huni oleh 4 orang.
+1 kamar pada green hall di huni oleh 8 orang.
+
+White Hall di tempati oleh peringkat umum 1 sampai 25
+Black Hall di tempati oleh peringkat umum 26 sampai 75
+Red Hall di tempati oleh peringkat umum 76 sampai 150
+Blue Hall di tempati oleh peringkat umum 151 sampau 250
+Green Hall di tempati oleh peringkat umum 251 sampai 450
