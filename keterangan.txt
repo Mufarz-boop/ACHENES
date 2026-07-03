@@ -119,25 +119,25 @@ KELAS 1-E
 10. Davin Firmansha                                     = 
 11. Edward Hartanto Enrico Abadi                        = 
 12. Faisal Nur                                          = 
-13. Inugame Korone                                      = 
-14. Hoshimachi Suisei                                   = 
-15. Usada Pekora                                        = 
-16. Shiranui Flare                                      = 
-17. Shirogane Noel                                      = 
-18. Tsunomaki Watame                                    = 
-19. Tokoyami Towa                                       = 
-20. Himemori Luna                                       = 
-21. Yukihana Lamy                                       = 
-22. Omaru Polka                                         = 
-23. Takane Lui                                          = 
-24. Sakamata Chloe                                      = 
-25. Watson Amelia                                       = 
+13. Keisha Rochelline Simorangkir                       = 
+14. Aulia Nadia Azzahra                                 = 
+15. Fina Kharisma Musallamah                            = 
+16. Theodora Paulina Walukow                            = 
+17. Louise Shania Sabela                                = 
+18. Putri Hapsari Ayuningtyas                           = 
+19. Maxvallecia Frikandy                                = 
+20. Divhenia Putri Allysa                               = 
+21. Amara Khairunnisa Dinata                            = 
+22. Nerya Nauli Pangaribunan                            = 
+23. Keiko Renata Santoso                                = 
+24. Sophiana Kassandria Sukamto                         = 
+25. Callysta Najmi Raissa                               = 
 
 KELAS 1-F
 1. Muhammad Barir Faqih Hermawan                        = 
 2. Brian Arianto Tanuwidjaja                            = 
 3. Ganang Fattahuddien Attar                            = 
-4. R. Muhammad Hanif                                    = 
+4. Raden Muhammad Hanif                                 = 
 5. Rafif Dista Serano                                   = 
 6. Ibnu Alif Daffa Gymnastiar                           = 
 7. Aghna Naufal Pratama                                 = 
@@ -145,20 +145,20 @@ KELAS 1-F
 9. Falah Andhesryo                                      = 
 10. Alfie Vere Likhie                                   = 
 11. Xaverius Yesaya Bunalven                            = 
-12. Kobo Kanaeru                                        = 
-13. Kureiji Ollie                                       = 
-14. Anya Melfissa                                       = 
-15. Pavolia Reine                                       = 
-16. Moona Hoshinova                                     = 
-17. Ayunda Risu                                         = 
-18. Airani Iofifteen                                    = 
-19. Tokino Sora                                         = 
-20. Aki Rosenthal                                       = 
-21. Shirakami Fubuki                                    = 
-22. Natsuiro Matsuri                                    = 
-23. Nakiri Ayame                                        = 
-24. Sakura Miko                                         = 
-25. Nekomata Okayu                                      = 
+12. Rani Ivana Clarissa Boru Manurung                   = 
+13. Ade Asyfa                                           = 
+14. Nahdini ifhamul Ulya                                = 
+15. Felicia Odelia Wijaya                               = 
+16. Annabelle Aurelia Jayadinata                        = 
+17. Nareswari Tarisa Kirana                             = 
+18. Rachel Gabriela Chen                                = 
+19. Vania Winola Febriyanti                             = 
+20. Arin Nahda Zhafira                                  = 
+21. Felicia Hestiawan                                   = 
+22. Karina Raihana Salsabila                            = 
+23. Made Laksmi Priyahita                               = 
+24. Shafa Annisa Rahmadani Arianata                     = 
+25. Elsa Firlyani                                       = 
 
 KELAS 2-A
 1. Afdal Adha Firnansyah                                = 
@@ -292,8 +292,8 @@ KELAS 2-E
 21. Afra Moedya Abadi                                   = 
 22. Nathasa Diana Permatasari                           = 
 23. Xaviera Putri Ardianingsih Listyo                   = 
-24. Vestia Zeta                                         = 
-25. Kaela Kovalskia                                     = 
+24. Amanda Airina Firdaus                               = 
+25. Mutia Zuhrah                                        = 
 
 KELAS 2-F
 1. Benedict Presley                                     = 
