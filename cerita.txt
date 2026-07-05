@@ -3,6 +3,7 @@ Sinopsis: Ini adalah sebuah cerita yang dibuat untuk menutupi perasaan kesepian 
 Gemre: School
 Latar Waktu: 07 Juli 2025
 Latar Tempat: SMA Swasta Strezura
+genre: school, sci-fi, action, comedy, psychology
 
 SEKOLAH MENENGAH ATAS SWASTA STREZURA
 Didirikan oleh Strezura Company pada 2006
