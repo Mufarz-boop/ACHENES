@@ -1,5 +1,10 @@
 KELAS 1-A
-1. Wan Muhammad Fadel                                   = 
+1. Wan Muhammad Fadel                                   = [Agama: ]
+                                                          [Ulang Tahun: ]
+                                                          [Keluarga: ] 
+                                                          [Skill: ]
+                                                          [Saldo: ]
+                                                          []
 2. Abid Farish                                          = 
 3. Muhammad Naufal Azka                                 = 
 4. Randy Kurniawan                                      = 

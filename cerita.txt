@@ -5,7 +5,6 @@ Latar Waktu: 07 Juli 2025
 Latar Tempat: SMA Swasta Strezura
 
 SEKOLAH MENENGAH ATAS SWASTA STREZURA
-Jakarta Pusat, Indonesia
 Didirikan oleh Strezura Company pada 2006
 
 Kepala Sekolah: Mr. Daniel
@@ -38,3 +37,13 @@ Daftar Ekstrakurikuler
 16. Basketball Club
 17. Badminton Club
 18. Table Tennis Club
+
+Pada awal masuk akademi di kelas 1, semua murid akan menerima gadget dari sekolah dengan saldo yaitu $1000 USD,
+dan uang itu akan berlaku dimana saja baik di dalam dan di luar sekolah.
+setiap bulan para murid akan menerima penghasilan berdasarkan akumulasi poin mereka selama satu bulan di sekolah.
+murid dengan saldo di bawah $50 USD akan di anggap tidak mampu bertahan di sekolah ini dan akan di drop out.
+
+sekolah ini sangat besar, dia terletak di sebuah pulau besar di selatan dari bali, luasnya mencapai 38 km².
+walaupun luas, sekolah ini tidak menyediakan fasilitas ekonomi jadi untuk berbelanja, para anggoas sekolah harus pergi
+dari pulau ini.
+jarak antara pulau ini dan bali mencapai 267 km dan juga pulau ini memiliki fasilitas kendaraan yang lengkap baik udara, air, dan tanah.
