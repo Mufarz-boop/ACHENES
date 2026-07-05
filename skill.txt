@@ -47,7 +47,7 @@ KELAS 1-B
 19. Muthia Nadhifa Rifda                                = 
 20. Habibi Eka Dikmaba                                  = 
 21. Nadine Natavia Renalvo                              = 
-22. Fatin Batrisyia                                     = 
+22. Fatin Batrisyia                                     = Royal Decree (A) [The Queen's Command]
 23. Xaviera Muzarah Anoya                               = 
 24. Yumna Maliqa Batavia                                = 
 25. Haura Renalvo Ulayya                                = 
@@ -161,20 +161,20 @@ KELAS 1-F
 25. Elsa Firlyani                                       = 
 
 KELAS 2-A
-1. Afdal Adha Firnansyah                                = Sovereign Verdict (X) [The Absolute Authority]
+1. Afdal Adha Firnansyah                                = Genesis Archive (EX) [The Author Beyond Fate]
 2. Ihsan Habibullah                                     = Divine Benevolence (SS) [The Mercy of the Beloved]
 3. Ishaq Ramadhani                                      = Purifying Flame (S) [The Sacred Ember]
 4. Muhammad Rayvan Kahfi Effendi                        = Sanctum of Eternal Guidance (S) [The Hidden Beacon]
-5. Fittian Mubaraq                                      = 
-6. Arafa Syahputra                                      = 
-7. Nauval Risqullah                                     = 
-8. Muhammad Nabil Zharif                                = 
-9. Niko Erdiansyah                                      = 
-10. Muhammad Ultakarisyah                               = 
-11. Byan Al Payaz                                       = 
-12. Yafi Ahmad                                          = 
+5. Fittian Mubaraq                                      = Blessed Progress (C) [The Steady Bloom]
+6. Arafa Syahputra                                      = Insight Command (C) [The Knowing Leader]
+7. Nauval Risqullah                                     = Blessed Provision (C) [The Benevolent Giver]
+8. Muhammad Nabil Zharif                                = Noble Insight (B) [The Elegant Strategist]
+9. Niko Erdiansyah                                      = Victor's Command (B) [The Steadfast Leader]
+10. Muhammad Ultakarisyah                               = Ascendant Spirit (B) [The Ever-Rising One]
+11. Byan Al Payaz                                       = Balance Nexus (B) [The Pillar of Clarity]
+12. Yafi Ahmad                                          = Ascending Virtue (A) [The Rising Noble]
 13. Kirana Cattleya Safira                              = 
-14. Razita Nurin                                        = Lumina Arcana (A) [The Hidden Light]
+14. Razita Nurin                                        = Lux Aeterna (SSS) [The Eternal Twin Lights]
 15. Nayshila Putri                                      = Virtuous Dominion (SS) [The Crown of Virtue]
 16. Alya Fachriska                                      = 
 17. Robbiyatul Awaliyah                                 = 
@@ -184,7 +184,7 @@ KELAS 2-A
 21. Cahya Qhayla                                        = 
 22. Nay Zella Putri Nasution                            = 
 23. Kasih Attaya Putri                                  = 
-24. Wulandari                                           = 
+24. Wulandari                                           = Moonlit Dominion (S) [The Lunar Empress]
 25. Melinda Rahma Dewi                                  = 
 
 KELAS 2-B
@@ -194,8 +194,8 @@ KELAS 2-B
 4. Sutan Mara Muhammad                                  = 
 5. Eza Hanafi Sembiring                                 = 
 6. Aluna Qanita Syafira Putri Firnansyah                = Genesis Manus (SSS) [The First Thought]
-7. Fattin Qalbuana Arhas                                = 
-8. Cecilia Von Treuhand                                 = 
+7. Fattin Qalbuana Arhas                                = Heart of Infinite Possibilities (EX) [The Origin of Every Choice]
+8. Cecilia Von Treuhand                                 = Axis Mundi: Throne of Trust (X) [The Absolute Sovereign of Trust]
 9. Nafisa Thahira                                       = 
 10. Rezki Asyifa Amir                                   = 
 11. Dzul Fitra Kadri                                    = 
@@ -246,11 +246,11 @@ KELAS 2-D
 2. Mulkan Arief Alhuda                                  = King's Compass (A) [The Guiding Sovereign]
 3. Muhammad Ariq Mufid                                  = Foundation Insight (A) [The Pillar of Reason]
 4. Tawaf Dinosi                                         = Celestial Orbit (SS) [The Axis of Motion]
-5. Fahrul Rozi                                          = 
-6. Ijlal Hawari                                         = 
+5. Fahrul Rozi                                          = Prosperity Domain (B) [The Pride of Blessings]
+6. Ijlal Hawari                                         = Oathbound Resonance (B) [The Loyal Vanguard]
 7. Muhammad Farel Affatan                               = 
 8. Muhammad Rayyan                                      = 
-9. Muhammad Dirga Hidayatullah                          = 
+9. Muhammad Dirga Hidayatullah                          = Guilding Resolve (B) [The Unwawering Path]
 10. Muhammad Arbi Zakwan                                = 
 11. Naufal Aqila Harto                                  = 
 12. Muhammad Aslam                                      = 
