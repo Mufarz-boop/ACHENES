@@ -47,7 +47,7 @@ Kepala Unit: Razita Nurin
 Wakil Kepala Unit: Audrey Felicity Hadi Siswoyo
 
 Divisi Pelayanan Medis
-Kepala Divisi: Cecilia von Treuhand
+Kepala Divisi: Cecilia Von Treuhand
 Petugas P3K: 1. 
              2. 
              3. 
@@ -139,7 +139,7 @@ Anggota: 1.
          7. 
 
 Batalyon Pengamanan Acara
-Komandan Batalyon: Aqiel Aditya
+Komandan Batalyon: Aqiel Radhitya
 
 Peleton Pengawalan
 Komandan Peleton: David Christopher Purnama
@@ -192,7 +192,7 @@ STUDENT JUSTICIAR COUNCIL
 Ketua Mahkamah: Acthasain Putra Suhardi
 Wakil Ketua Mahkamah: Afdal Adha Firnansyah
 Panitera: Muhammad Nur Rhozyqin Rantauan
-Wakil Panitera: Olivia Valentina
+Wakil Panitera: Fatin Batrisyia
 
 Majelis Hakim I
 Hakim Ketua: Leonel Chailand
@@ -214,7 +214,7 @@ Penyelidik: 1.
             6. 
 
 Divisi Mediasi
-Ketua Mediasi: Vincent Chandra
+Ketua Mediasi: Vincent Candra
 Mediator: 1. 
           2. 
           3. 
