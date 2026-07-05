@@ -1,57 +1,53 @@
 STUDENT REPRESENTATIVE COUNCIL
 Speaker: Aluna Qanita Syafira Putri Firnansyah
 Wakil Speaker: Bunga Keira Putri Aisya
-Sekretaris Jenderal: 
-Wakil Sekretaris Jenderal: 
-Kepala Administrasi: 
+Sekretaris Jenderal: Ihsan Habibullah
+Wakil Sekretaris Jenderal: Fae Ilana Negoro
+Kepala Administrasi: Harsha Maliqa Xaviera Firnansyah
 
 Komisi Peraturan dan Legislasi
-Ketua Komisi: 
-Wakil Ketua: 
+Ketua Komisi: Annisa Eka Dikmata
+Wakil Ketua: Sulaiman Waliyurrahman Muwaffaq Annafi Muhtadi
 Anggota: 1. 
          2. 
          3. 
          4. 
          5. 
-         6. 
 
 Komisi Aspirasi dan Advokasi
-Ketua Komisi: 
-Wakil Ketua: 
+Ketua Komisi: Axel Giovanni Hartanto
+Wakil Ketua: Enzo Deharryl Hatta
 Anggota: 1. 
          2. 
          3. 
          4. 
          5. 
-         6. 
 
 Komisi Pengawasan dan Organisasi
-Ketua Komisi: 
-Wakil Ketua: 
+Ketua Komisi: Olivia Valentina
+Wakil Ketua: Theodora Paulina Walukow
 Anggota: 1. 
          2. 
          3. 
          4. 
          5. 
-         6. 
 
 Komisi Hubungan Antar Organisasi
-Ketua Komisi: 
-Wakil Ketua: 
+Ketua Komisi: Tawaf Dinosi
+Wakil Ketua: Callysta Najmi Raissa
 Anggota: 1. 
          2. 
          3. 
          4. 
          5. 
-         6. 
 
 
 STUDENT MEDICAL UNIT
-Kepala Unit: 
-Wakil Kepala Unit: 
+Kepala Unit: Razita Nurin
+Wakil Kepala Unit: Audrey Felicity Hadi Siswoyo
 
 Divisi Pelayanan Medis
-Kepala Divisi: 
+Kepala Divisi: Cecilia von Treuhand
 Petugas P3K: 1. 
              2. 
              3. 
@@ -59,7 +55,6 @@ Petugas P3K: 1.
              5. 
              6. 
              7. 
-             8. 
 
 Petugas Ruang UKS: 1. 
                    2. 
@@ -67,23 +62,21 @@ Petugas Ruang UKS: 1.
                    4. 
 
 Divisi Edukasi Kesehatan
-Kepala Divisi: 
+Kepala Divisi: Fattin Qalbuana Arhas
 Tim Penyuluhan: 1. 
                 2. 
                 3. 
                 4. 
                 5. 
-                6. 
 
 Tim Kampanye Hidup Sehat: 1. 
                           2. 
                           3. 
                           4. 
                           5. 
-                          6. 
 
 Divisi Sanitasi
-Kepala Divisi: 
+Kepala Divisi: Kevin Andriana Vanessa
 Tim Kebersihan Lingkungan: 1. 
                            2. 
                            3. 
@@ -99,7 +92,7 @@ Tim Pemeriksaan Sanitasi: 1.
                           4. 
 
 Divisi Logistik
-Kepala Divisi: 
+Kepala Divisi: Aisyah Hana Safira Qanita Putri Firnansyah
 Petugas Obat: 1. 
               2. 
               3. 
@@ -109,7 +102,7 @@ Petugas Inventaris: 1.
                     3. 
 
 Divisi Dokumentasi Medis
-Kepala Divisi: 
+Kepala Divisi: Maudy Putri Sakinah
 Pencatat Pasien: 1. 
                  2. 
 
@@ -118,33 +111,25 @@ Arsiparis: 1.
 
 
 STUDENT SECURITY CORPS
-Komandan Korps: 
-Wakil Komandan: 
-Kepala Staf: 
+Komandan Korps: Ackhava Adam Malonda
+Wakil Komandan: Muhammad Rayvan Kahfi Effendi
+Kepala Staf: Fittian Mubaraq
 
 Batalyon Ketertiban
-Komandan Batalyon: 
+Komandan Batalyon: Trifena Julia Putri
 
 Kompi A
-Komandan Kompi: 
+Komandan Kompi: Aloysius Gonzaga Duta Setyawan
 Anggota: 1. 
          2. 
          3. 
          4. 
          5. 
-         6. 
+         6.
          7. 
-         8. 
-         9. 
-         10. 
-         11. 
-         12. 
-         13. 
-         14. 
-         15. 
 
 Kompi B
-Komandan Kompi: 
+Komandan Kompi: Dira Azra Maulida Boru Hasibuan
 Anggota: 1. 
          2. 
          3. 
@@ -152,20 +137,12 @@ Anggota: 1.
          5. 
          6. 
          7. 
-         8. 
-         9. 
-         10. 
-         11. 
-         12. 
-         13. 
-         14. 
-         15. 
 
 Batalyon Pengamanan Acara
-Komandan Batalyon: 
+Komandan Batalyon: Aqiel Aditya
 
 Peleton Pengawalan
-Komandan Peleton: 
+Komandan Peleton: David Christopher Purnama
 Anggota: 1. 
          2. 
          3. 
@@ -173,12 +150,9 @@ Anggota: 1.
          5. 
          6. 
          7. 
-         8. 
-         9. 
-         10. 
 
 Peleton Pengamanan
-Komandan Peleton: 
+Komandan Peleton: Aisyah Qurnyandra Gadisia Shoi
 Anggota: 1. 
          2. 
          3. 
@@ -186,12 +160,9 @@ Anggota: 1.
          5. 
          6. 
          7. 
-         8. 
-         9. 
-         10. 
 
 Divisi Intelijen
-Kepala Intelijen: 
+Kepala Intelijen: Muhammad Ainurriza Al Kahfi
 Tim Pengamatan: 1. 
                 2. 
                 3. 
@@ -200,7 +171,7 @@ Tim Pengamatan: 1.
                 6. 
 
 Divisi Operasi
-Kepala Operasi: 
+Kepala Operasi: Andreas Muhammad Khanza Simanjuntak
 Tim Patroli: 1. 
              2. 
              3. 
@@ -208,10 +179,9 @@ Tim Patroli: 1.
              5. 
              6. 
              7. 
-             8.
 
 Divisi Perlengkapan
-Kepala Logistik: 
+Kepala Logistik: Salma Ghelya Rahmah
 Petugas Inventaris: 1. 
                     2. 
                     3. 
@@ -219,23 +189,23 @@ Petugas Inventaris: 1.
 
 
 STUDENT JUSTICIAR COUNCIL
-Ketua Mahkamah: 
-Wakil Ketua Mahkamah: 
-Panitera: 
-Wakil Panitera: 
+Ketua Mahkamah: Acthasain Putra Suhardi
+Wakil Ketua Mahkamah: Afdal Adha Firnansyah
+Panitera: Muhammad Nur Rhozyqin Rantauan
+Wakil Panitera: Olivia Valentina
 
 Majelis Hakim I
-Hakim Ketua: 
+Hakim Ketua: Leonel Chailand
 Hakim Anggota: 1. 
                2. 
 
 Majelis Hakim II
-Hakim Ketua: 
+Hakim Ketua: Tessa Maria Budy Ana Putri
 Hakim Anggota: 1. 
                2. 
 
 Divisi Investigasi
-Kepala Investigasi: 
+Kepala Investigasi: Albert Justin Immanuel Panggabean
 Penyelidik: 1. 
             2. 
             3. 
@@ -243,15 +213,8 @@ Penyelidik: 1.
             5. 
             6. 
 
-Divisi Penuntutan
-Kepala Penuntut: 
-Penuntut: 1. 
-          2. 
-          3. 
-          4. 
-
 Divisi Mediasi
-Ketua Mediasi: 
+Ketua Mediasi: Vincent Chandra
 Mediator: 1. 
           2. 
           3. 
