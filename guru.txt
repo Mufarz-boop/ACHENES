@@ -1,0 +1,32 @@
+MATA PELAJARAN UMUM
+Pendidikan Agama
+Pendidikan Pancasila
+Bahasa Indonesia
+Bahasa Inggris
+Matematika Umum
+Sejarah Indonesia
+Informatika
+Pendidikan Jasmani, Olahraga, dan Kesehatan
+Seni Budaya
+
+MATA PELAJARAN PILIHAN
+Kelompok IPA
+Matematika Tingkat Lanjut
+Fisika
+Kimia
+Biologi
+Informatika Tingkat Lanjut
+
+Kelompok IPS
+Ekonomi
+Geografi
+Sosiologi
+Antropologi
+Psikologi
+
+Kelompok Bahasa
+Bahasa Indonesia Tingkat Lanjut
+Bahasa Inggris Tingkat Lanjut
+Bahasa Prancis
+Bahasa Rusia
+Bahasa Mandarin
