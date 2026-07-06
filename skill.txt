@@ -27,7 +27,7 @@ KELAS 1-A
 
 KELAS 1-B
 1. Muhammad Dicky Rahman                                = 
-2. Zavier Evano Abbas Suryano                           = Solar Bastion (SS) [The Eternal Guardian]
+2. Zavier Evano Abbas Suryano                           = Solar Dominion of Tempest Authority (SS) [The Sunbound Commander] {Pasif: Solar Core Stability, Tempest Reflex, dan Command Presence} {Aktif: Solar Dominion Field, Tempest Directive, dan Sunlock Command}
 3. Muhammad Riffy Arifin                                = 
 4. Muhammad Haikal Pratama                              = 
 5. Teuku Nabila                                         = 
@@ -47,7 +47,7 @@ KELAS 1-B
 19. Muthia Nadhifa Rifda                                = 
 20. Habibi Eka Dikmaba                                  = 
 21. Nadine Natavia Renalvo                              = 
-22. Fatin Batrisyia                                     = Royal Decree (A) [The Queen's Command]
+22. Fatin Batrisyia                                     = Silent Dominion of Noble Presence (A+) [The Quiet Authority] {Pasif: Noble Pressure, Silent Authority, dan Calm Dominance} {Aktif: Dominion Field, Presence Override, dan Quiet Command}
 23. Xaviera Muzarah Anoya                               = 
 24. Yumna Maliqa Batavia                                = 
 25. Haura Renalvo Ulayya                                = 
@@ -80,7 +80,7 @@ KELAS 1-C
 25. Bunga Keira Putri Aisya                             = 
 
 KELAS 1-D
-1. Bagas Alfino                                         = Iron Resolve (A) [The Unyielding Will]
+1. Bagas Alfino                                         = 
 2. Jayden Jurianto                                      = 
 3. Edric Owen Pidono                                    = 
 4. Janssen Samuel Halim                                 = 
@@ -161,22 +161,22 @@ KELAS 1-F
 25. Elsa Firlyani                                       = 
 
 KELAS 2-A
-1. Afdal Adha Firnansyah                                = Genesis Archive (EX) [The Author Beyond Fate]
-2. Ihsan Habibullah                                     = Divine Benevolence (SS) [The Mercy of the Beloved]
-3. Ishaq Ramadhani                                      = Purifying Flame (S) [The Sacred Ember]
-4. Muhammad Rayvan Kahfi Effendi                        = Sanctum of Eternal Guidance (S) [The Hidden Beacon]
-5. Fittian Mubaraq                                      = Blessed Progress (C) [The Steady Bloom]
-6. Arafa Syahputra                                      = Insight Command (C) [The Knowing Leader]
-7. Nauval Risqullah                                     = Blessed Provision (C) [The Benevolent Giver]
-8. Muhammad Nabil Zharif                                = Noble Insight (B) [The Elegant Strategist]
-9. Niko Erdiansyah                                      = Victor's Command (B) [The Steadfast Leader]
-10. Muhammad Ultakarisyah                               = Ascendant Spirit (B) [The Ever-Rising One]
-11. Byan Al Payaz                                       = Balance Nexus (B) [The Pillar of Clarity]
-12. Yafi Ahmad                                          = Ascending Virtue (A) [The Rising Noble]
-13. Kirana Cattleya Safira                              = 
-14. Razita Nurin                                        = Lux Aeterna (SSS) [The Eternal Twin Lights]
-15. Nayshila Putri                                      = Virtuous Dominion (SS) [The Crown of Virtue]
-16. Alya Fachriska                                      = 
+1. Afdal Adha Firnansyah                                = Primacy Sovereign (EX+) [The First Above Excellence] {Pasif: Absolute Adaptation, Superior Growth, dan Conviction Engine} {Aktif: Primacy Manifestation, Apex Declaration, dan Final Ascension}
+2. Ihsan Habibullah                                     = Sanctuary of Divine Benevolence (SSS) [The Beloved Herald] {Pasif: Sacred Compassion, Virtuous Resolve, dan Heart's Reflection} {Aktif: Sanctuary Manifestation, Graceful Judgment, dan Beloved Covenant}
+3. Ishaq Ramadhani                                      = Covenant of Tempered Grace (SS) [The Heir of Enduring Promise] {Pasif: Tempered Spirit, Patient Accumulation, dan Promise Keeper} {Aktif: Grace Unbound, Trial's Reward, dan Covenant Resonance}
+4. Muhammad Rayvan Kahfi Effendi                        = Citadel of Honored Wisdom (SSS) [The Noble Guardian] {Pasif: Guardian's Insight, Fortress Mind, dan Legacy Authority} {Aktif: Citadel Manifestation, Hidden Sanctuary, dan Sovereign Command}
+5. Fittian Mubaraq                                      = 
+6. Arafa Syahputra                                      = 
+7. Nauval Risqullah                                     = 
+8. Muhammad Nabil Zharif                                = Luminous Stratagem of Noble Insight (A+) [The Elegant Analyst] {Pasif: Pattern Sight, Noble Calculation, dan Elegant Focus} {Aktif: Stratagem Projection, Insight Lock, dan Noble Adaption}
+9. Niko Erdiansyah                                      = Earthbound Sovereign of Persistence (A) [The Unyielding Anchor] {Pasif: Grounded Stability, Persistent Momentum, dan Weight Distribution} {Aktif: Earthbound Domain, Sovereign Endurance, dan Unbroken Stand}
+10. Muhammad Ultakarisyah                               = Final Apex of Unyielding Doctrine (S) [The Immutable Peak] {Pasif: Immutable Core, Apex Stability, dan Doctrine Lock} {Aktif: Final State Override, Apex Convergence, dan Doctrine Manifest}
+11. Byan Al Payaz                                       = Flux Vanguard of Clear Instinct (A) [The Adaptive Executor] {Pasif: Adaptive Reflex, Clear Instinct Loop, dan Flow Reading} {Aktif: Vanguard Shift, Instinct Override, Flux Acceleration}
+12. Yafi Ahmad                                          = Ascendant Path of Resolute Merit (A) [The Steady Ascendant] {Pasif: Constant Ascension, Moral Stability Core, dan Effort Amplification} {Aktif: Merit Surge, Ascendant Focus, dan Resolve Reinforcement}
+13. Kirana Cattleya Safira                              = Radiant Bloom of Sapphire Elegance (S+) [The Luminous Orchid] {Pasif: Orchid Aura, Sapphire Calm, dan Gentle Influence} {Aktif: Radiant Bloom Field, Elegance Resonance, dan Sapphire Mirror}
+14. Razita Nurin                                        = Luminary of Serene Providence (SS) [The Guiding Radiance] {Pasif: Inner Illumination, Gentle Presence, dan Path Resonance} {Aktif: Guiding Beacon, Veil of Tranquility, dan Providence Alignment}
+15. Nayshila Putri                                      = Crown of Graceful Ascendancy (S) [The Noble Successor] {Pasif: Regal Presence, Elegant Resolve, dan Noble Intuition} {Aktif: Ascendant Crown, Graceful Dominion, dan Heir's Determination}
+16. Alya Fachriska                                      = Eminence of Sovereign Clarity (A) [The Noble Strategist] {Pasif: Clear Mind Protocol, Strategic Compression, dan Pride Anchor} {Aktif: Sovereign Focus, Cognitive Horizon, dan Noble Override}
 17. Robbiyatul Awaliyah                                 = 
 18. Najinan Cinta Luqyana G                             = 
 19. Nasyilla Syifa                                      = 
@@ -184,7 +184,7 @@ KELAS 2-A
 21. Cahya Qhayla                                        = 
 22. Nay Zella Putri Nasution                            = 
 23. Kasih Attaya Putri                                  = 
-24. Wulandari                                           = Moonlit Dominion (S) [The Lunar Empress]
+24. Wulandari                                           = 
 25. Melinda Rahma Dewi                                  = 
 
 KELAS 2-B
@@ -193,9 +193,9 @@ KELAS 2-B
 3. Dio Putra Ramadan                                    = 
 4. Sutan Mara Muhammad                                  = 
 5. Eza Hanafi Sembiring                                 = 
-6. Aluna Qanita Syafira Putri Firnansyah                = Genesis Manus (SSS) [The First Thought]
-7. Fattin Qalbuana Arhas                                = Heart of Infinite Possibilities (EX) [The Origin of Every Choice]
-8. Cecilia Von Treuhand                                 = Axis Mundi: Throne of Trust (X) [The Absolute Sovereign of Trust]
+6. Aluna Qanita Syafira Putri Firnansyah                = Seraphic Flow of Equilibrium (SS) [The Harmonizing Vessel] {Pasif: Emotional Dampening, Flow Awareness, dan Inner Stillness} {Aktif: Seraphic Mediation, Flow Synchronization, dan Equilibrium Field}
+7. Fattin Qalbuana Arhas                                = Heartbound Dominion of Resolve (SS) [The Calm Tempter] {Pasif: Emotional Gravity, Inner Lock, dan Calm Authority} {Aktif: Heart Dominion Field, Resonant Emotion Sync, dan Emotional Override}
+8. Cecilia Von Treuhand                                 = Oath of Harmonized Dominion (SSS) [The Custodian of Absolute Trust] {Pasif: Trust Resonance, Contract Awareness, dan Calm Authority Field} {Aktif: Dominion Covenant, Harmony Lock, dan Sovereign Trust Override}
 9. Nafisa Thahira                                       = 
 10. Rezki Asyifa Amir                                   = 
 11. Dzul Fitra Kadri                                    = 
@@ -231,7 +231,7 @@ KELAS 2-C
 14. Revi Farhan                                         = 
 15. Zaki Azka                                           = 
 16. Kevin Andriana Vanessa                              = 
-17. Harsha Maliqa Xaviera Firnansyah                    = Crown of Aurora (SS) [The Queen of New Dawn]
+17. Harsha Maliqa Xaviera Firnansyah                    = Radiant Sovereign of Living Dawn (SSS) [The Catalyst Queen] {Pasif: Dawn Presence, Vital Resonance, dan Sovereign Stability} {Aktif: Radiant Command Field, Dawn Rewrite, dan Sovereign Awakening}
 18. Zahra Almaira                                       = 
 19. Safa Malika Rahim                                   = 
 20. Nur Alvina Effendi                                  = 
@@ -242,19 +242,19 @@ KELAS 2-C
 25. Sindi Aulia Ningsih                                 = 
 
 KELAS 2-D
-1. Muhammad Zainun                                      = Grace Resonance (B) [The Noble Aura]
-2. Mulkan Arief Alhuda                                  = King's Compass (A) [The Guiding Sovereign]
-3. Muhammad Ariq Mufid                                  = Foundation Insight (A) [The Pillar of Reason]
-4. Tawaf Dinosi                                         = Celestial Orbit (SS) [The Axis of Motion]
-5. Fahrul Rozi                                          = Prosperity Domain (B) [The Pride of Blessings]
-6. Ijlal Hawari                                         = Oathbound Resonance (B) [The Loyal Vanguard]
+1. Muhammad Zainun                                      = 
+2. Mulkan Arief Alhuda                                  = 
+3. Muhammad Ariq Mufid                                  = 
+4. Tawaf Dinosi                                         = 
+5. Fahrul Rozi                                          = 
+6. Ijlal Hawari                                         = 
 7. Muhammad Farel Affatan                               = 
 8. Muhammad Rayyan                                      = 
-9. Muhammad Dirga Hidayatullah                          = Guilding Resolve (B) [The Unwawering Path]
+9. Muhammad Dirga Hidayatullah                          = 
 10. Muhammad Arbi Zakwan                                = 
 11. Naufal Aqila Harto                                  = 
 12. Muhammad Aslam                                      = 
-13. Aisyah Hana Safira Qanita Putri Firnansyah          = Garden of Elysian Bloom (SSS) [The Mother of Living Light]
+13. Aisyah Hana Safira Qanita Putri Firnansyah          = Judgment of Sacred Equilibrium (SS) [The Silent Arbiter] {Pasif: Moral Anchor, Sacred Clarity, dan Inner Discipline} {Aktif: Equilibrium Verdict, Principle Enforcement Field, dan Silent Correction}
 14. Sivanna Azrillia                                    = 
 15. Andini Ruslandi Faturrahman                         = 
 16. Alvira Swandewi                                     = 
