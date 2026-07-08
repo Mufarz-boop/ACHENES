@@ -39,12 +39,218 @@ Daftar Ekstrakurikuler
 17. Badminton Club
 18. Table Tennis Club
 
-Pada awal masuk akademi di kelas 1, semua murid akan menerima gadget dari sekolah dengan saldo yaitu $1000 USD,
+Pada awal masuk akademi di kelas 1, semua murid akan menerima gadget dari sekolah dengan saldo yaitu US$300,
 dan uang itu akan berlaku dimana saja baik di dalam dan di luar sekolah.
 setiap bulan para murid akan menerima penghasilan berdasarkan akumulasi poin mereka selama satu bulan di sekolah.
-murid dengan saldo di bawah $50 USD akan di anggap tidak mampu bertahan di sekolah ini dan akan di drop out.
+murid dengan saldo di bawah US$10 USD akan di anggap tidak mampu bertahan di sekolah ini dan akan di drop out.
 
-sekolah ini sangat besar, dia terletak di sebuah pulau besar di selatan dari bali, luasnya mencapai 38 km².
+sekolah ini sangat besar, dia terletak di sebuah pulau besar di selatan dari bali, luasnya mencapai 78 km².
 walaupun luas, sekolah ini tidak menyediakan fasilitas ekonomi jadi untuk berbelanja, para anggoas sekolah harus pergi
 dari pulau ini.
-jarak antara pulau ini dan bali mencapai 267 km dan juga pulau ini memiliki fasilitas kendaraan yang lengkap baik udara, air, dan tanah.
+jarak antara pulau ini dan bali mencapai 502 km dan juga pulau ini memiliki fasilitas kendaraan yang lengkap baik udara, air, dan tanah.
+
+Daftar Kapal
+CLASS F [Kecepatan: 70 km/jam] [Harga Sewa 1 arah: US$140]
+CLASS E [Kecepatan: 140 km/jam] [Harga Sewa 1 arah: US$280]
+CLASS D [Kecepatan: 210 km/jam] [Harga Sewa 1 arah: US$420]
+CLASS C [Kecepatan: 280 km/jam] [Harga Sewa 1 arah: US$560]
+CLASS B [Kecepatan: 350 km/jam] [Harga Sewa 1 arah: US$700]
+CLASS A [Kecepatan: 400 km/jam] [Harga Sewa 1 arah: US$800]
+CLASS S [Kecepatan: 500 km/jam] [Harga Sewa 1 arah: US$1000]
+CLASS X [Kecepatan: 600 km/jam] [Harga Sewa 1 arah: US$1200]
+CLASS EX [Kecepatan: 700 km/jam] [Harga Sewa 1 arah: US$1400]
+
+Rank Skill
+Rank Z [US$30000]
+Rank EX+ [US$15000]
+Rank EX [US$10000]
+Rank EX- [US$9000]
+Rank X+ [US$8000]
+Rank X [US$7000]
+Rank X- [US$6000]
+Rank SSS+ [US$5000]
+Rank SSS [US$4500]
+Rank SSS- [US$4000]
+Rank SS+ [US$3500]
+Rank SS [US$3000]
+Rank SS- [US$2500]
+Rank S+ [US$2000]
+Rank S [US$1500]
+Rank S- [US$1000]
+Rank A+ [US$900]
+Rank A [US$800]
+Rank A- [US$700]
+Rank B+ [US$600]
+Rank B [US$500]
+Rank B- [US$400]
+Rank C+ [US$300]
+Rank C [US$200]
+Rank C- [US$100]
+Rank D+ [US$90]
+Rank D [US$80]
+Rank D- [US$70]
+Rank E+ [US$60]
+Rank E [US$50]
+Rank E- [US$40]
+Rank F+ [US$30]
+Rank F [US$20]
+Rank F- [US$10]
+
+Peringkat Umum
+Peringkat 1 [US$25000]
+Peringkat 2 [US$21000]
+Peringkat 3 [US$19000]
+Peringkat 4 [US$17000]
+Peringkat 5 [US$15000]
+Peringkat 6 [US$13000]
+Peringkat 7 [US$11000]
+Peringkat 8 [US$9000]
+Peringkat 9 [US$7000]
+Peringkat 10 [US$5000]
+Peringkat 11-20 [US$3000]
+Peringkat 21-30 [US$2000]
+Peringkat 31-40 [US$1000]
+Peringkat 41-50 [US$500]
+Peringkat 51-60 [US$450]
+Peringkat 61-70 [US$400]
+Peringkat 71-80 [US$350]
+Peringkat 81-90 [US$300]
+Peringkat 91-100 [US$250]
+Peringkat 101-150 [US$200]
+Peringkat 151-200 [US$150]
+Peringkat 201-300 [US$100]
+Peringkat 301-450 [US$50]
+
+Jabatan Organisasi
+STUDENT REPRESENTATIVE COUNCIL
+Speaker [US$4200]
+Wakil Speaker [US$3700]
+Sekretaris Jenderal [US$3200]
+Wakil Sekretaris Jenderal [US$2800]
+Kepala Administrasi [US$2600]
+Ketua Komisi [US$2100]
+Wakil Ketua Komisi [US$1700]
+Anggota [US$1200]
+
+STUDENT MEDICAL UNIT
+Kepala Unit [US$3800]
+Wakil Kepala Unit [US$3300]
+Kepala Divisi [US$2700]
+Petugas P3K [US$1800]
+Petugas Ruang UKS [US$1700]
+Tim Penyuluhan [US$1500]
+Tim Kampanye Hidup Sehat [US$1400]
+Tim Kebersihan Lingkungan [US$1300]
+Tim Pemeriksaan Sanitasi [US$1500]
+Petugas Obat [US$1700]
+Petugas Inventaris [US$1200]
+Pencatat Pasien [US$1100]
+Arsiparis [US$1000]
+
+STUDENT SECURITY CORPS
+Komandan Korps [US$5000]
+Wakil Komandan [US$4500]
+Kepala Staf [US$4000]
+Komandan Kompi [US$3300]
+Anggota [US$1500]
+Komandan Batalyon [US$3700]
+Komandan Peleton [US$2800]
+Anggota [US$1500]
+Kepala Intelijen [US$3700]
+Tim Pengamatan [US$1700]
+Kepala Operasi [US$3700]
+Tim Patroli [US$1800]
+Kepala Logistik [US$3300]
+Petugas Inventaris [US$1400]
+
+STUDENT JUSTICIAR COUNCIL
+Ketua Mahkamah [US$4800]
+Wakil Ketua Mahkamah [US$4300]
+Panitera [US$2700]
+Wakil Panitera [US$2300]
+Hakim Ketua [US$3800]
+Hakim Anggota [US$3200]
+Kepala Investigasi [US$3700]
+Penyelidik [US$2000]
+Ketua Mediasi [US$2500]
+Mediator [US$1800]
+
+Jabatan Kelas
+Ketua Kelas [US$2500]
+Wakil Ketua Kelas [US$2100]
+Sekretaris [US$1800]
+Bendahara [US$1800]
+Koordinator Akademik [US$1500]
+Koordinator Kedisplinan [US$1500]
+Koordinator Kebersihan [US$1500]
+
+Bayaran Per-poin
+1 Poin = US$25
+
+Daftar Cara mendapatkan poin
+1. Menyelesaikan Dungeon
+2. Membunuh Monster
+3. Mengerjakan Soal
+4. PVP
+
+Meningkatkan level skill memerlukan uang, tergantung skillnya harganya juga berbeda
+
+Rank Dungeon
+Z [Hadiah Poin: 500]
+EX [Hadiah Poin: 400]
+X [Hadiah Poin: 300]
+S [Hadiah Poin: 250]
+A [Hadiah Poin: 200]
+B [Hadiah Poin: 150]
+C [Hadiah Poin: 100]
+D [Hadiah Poin: 75]
+E [Hadiah Poin: 50]
+F [Hadiah Poin: 25]
+
+Tingkatan Soal
+Soal 1 Bintang: 2
+Soal 2 Bintang: 4
+Soal 3 Bintang: 6
+Soal 4 Bintang: 8
+Soal 5 Bintang: 10
+Soal 6 Bintang: 12
+Soal 7 Bintang: 14
+Soal 8 Bintang: 16
+Soal 9 Bintang: 18
+Soal 10 Bintang: 20
+
+Rank Monster
+Rank Z [7000]
+Rank EX+ [5000]
+Rank EX [3000]
+Rank EX- [1500]
+Rank X+ [1200]
+Rank X [900]
+Rank X- [600]
+Rank SSS+ [300]
+Rank SSS [250]
+Rank SSS- [225]
+Rank SS+ [200]
+Rank SS [175]
+Rank SS- [150]
+Rank S+ [125]
+Rank S [100]
+Rank S- [75]
+Rank A+ [50]
+Rank A [45]
+Rank A- [40]
+Rank B+ [35]
+Rank B [30]
+Rank B- [25]
+Rank C+ [20]
+Rank C [15]
+Rank C- [10]
+Rank D+ [9]
+Rank D [8]
+Rank D- [7]
+Rank E+ [6]
+Rank E [5]
+Rank E- [4]
+Rank F+ [3]
+Rank F [2]
+Rank F- [1]
