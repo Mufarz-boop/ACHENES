@@ -1,6 +1,5 @@
 Daftar Kelas
 KELAS 1-A
-Wali Kelas          : 
 Ketua Kelas         : Aulia Astrico Pratama
 Wakil Ketua Kelas   : Alfarizi
 Sekretaris          : Abid Farish
@@ -22,7 +21,6 @@ Koordinator Kebersihan
 3. Rakina Zata Amri
 
 KELAS 1-B
-Wali Kelas          : 
 Ketua Kelas         : Nikeisha Faiha Notaria Margolang
 Wakil Ketua Kelas   : Muhammad Dicky Rahman
 Sekretaris          : Alina Maharani Putri
@@ -44,7 +42,6 @@ Koordinator Kebersihan
 3. Tengku Depuani Putri Pasla
 
 KELAS 1-C
-Wali Kelas          : 
 Ketua Kelas         : Yuana Mutiara Zahra
 Wakil Ketua Kelas   : Cariel Khanes Mustafa
 Sekretaris          : Amira Putri Wijaya
@@ -66,7 +63,6 @@ Koordinator Kebersihan
 3. Raia Deandra
 
 KELAS 1-D
-Wali Kelas          : 
 Ketua Kelas         : Sulaiman Waliyurrahman Muwaffaq Annafi Muhtadi
 Wakil Ketua Kelas   : Siti Endah Dinara
 Sekretaris          : Edric Owen Pidono
@@ -88,7 +84,6 @@ Koordinator Kebersihan
 3. Syifa Azka Rahmana
 
 KELAS 1-E
-Wali Kelas          :
 Ketua Kelas         : Putri Hapsari Ayuningtyas
 Wakil Ketua Kelas   : Nicholas Kevin Tan
 Sekretaris          : Davin Firmansha
@@ -110,7 +105,6 @@ Koordinator Kebersihan
 3. Maxvallecia Frikandy
 
 KELAS 1-F
-Wali Kelas          :
 Ketua Kelas         : Shafa Annisa Rahmadani Arianata
 Wakil Ketua Kelas   : Made Laksmi Priyahita
 Sekretaris          : Rafif Dista Serano
@@ -132,7 +126,6 @@ Koordinator Kebersihan
 3. Annabelle Aurelia Jayadinata
 
 KELAS 2-A
-Wali Kelas          :
 Ketua Kelas         : Ihsan Habibullah
 Wakil Ketua Kelas   : Ishaq Ramadhani
 Sekretaris          : Razita Nurin
@@ -145,7 +138,7 @@ Koordinator Akademik
 
 Koordinator Kedisiplinan
 1. Muhammad Ultakarisyah
-2. Nasyilla Syifa
+2. Afdal Adha Firnansyah
 3. Muhammad Nabil Zharif
 
 Koordinator Kebersihan
@@ -155,7 +148,6 @@ Koordinator Kebersihan
 
 
 KELAS 2-B
-Wali Kelas          :
 Ketua Kelas         : Eza Hanafi Sembiring
 Wakil Ketua Kelas   : Elsa Bunga Nurfani
 Sekretaris          : Sutan Mara Muhammad
@@ -178,7 +170,6 @@ Koordinator Kebersihan
 
 
 KELAS 2-C
-Wali Kelas          :
 Ketua Kelas         : Anggini Kayla Putri Koswara
 Wakil Ketua Kelas   : Reva Levivani
 Sekretaris          : Riski Syahputra
@@ -201,7 +192,6 @@ Koordinator Kebersihan
 
 
 KELAS 2-D
-Wali Kelas          :
 Ketua Kelas         : Ijlal Hawari
 Wakil Ketua Kelas   : Maudy Putri Sakinah
 Sekretaris          : Naufal Aqila Harto
@@ -224,7 +214,6 @@ Koordinator Kebersihan
 
 
 KELAS 2-E
-Wali Kelas          :
 Ketua Kelas         : Kadek Rasya Putra Wirawan
 Wakil Ketua Kelas   : Austin Senna Wijaya
 Sekretaris          : Nathan Keith Poernama
@@ -247,7 +236,6 @@ Koordinator Kebersihan
 
 
 KELAS 2-F
-Wali Kelas          :
 Ketua Kelas         : Muhammad Haikal Maulana Al Adsuri
 Wakil Ketua Kelas   : Benedict Presley
 Sekretaris          : Rahmadini Aulia
@@ -269,7 +257,6 @@ Koordinator Kebersihan
 3. Sarah Firjani
 
 KELAS 3-A
-Wali Kelas          :
 Ketua Kelas         : Danzel Redriche Wong
 Wakil Ketua Kelas   : Ackhava Adam Malonda
 Sekretaris          : Nor Syariah
@@ -292,7 +279,6 @@ Koordinator Kebersihan
 
 
 KELAS 3-B
-Wali Kelas          :
 Ketua Kelas         : Albert Justin Immanuel Panggabean
 Wakil Ketua Kelas   : Mayliza
 Sekretaris          : Arvin Avritya
@@ -315,7 +301,6 @@ Koordinator Kebersihan
 
 
 KELAS 3-C
-Wali Kelas          :
 Ketua Kelas         : Qishanda Qaleesya Ardina
 Wakil Ketua Kelas   : Tessa Maria Budy Ana Putri
 Sekretaris          : Sulfia Elfin
@@ -338,7 +323,6 @@ Koordinator Kebersihan
 
 
 KELAS 3-D
-Wali Kelas          :
 Ketua Kelas         : Ayla Sonia Kaysa Mahira
 Wakil Ketua Kelas   : Devi Jani
 Sekretaris          : Nicholas Edward
@@ -361,7 +345,6 @@ Koordinator Kebersihan
 
 
 KELAS 3-E
-Wali Kelas          :
 Ketua Kelas         : Muhammad Nabiel Shafa
 Wakil Ketua Kelas   : Claudia Cintya Azzahra
 Sekretaris          : Dimas Dwi Rachmat Susilo
@@ -384,7 +367,6 @@ Koordinator Kebersihan
 
 
 KELAS 3-F
-Wali Kelas          :
 Ketua Kelas         : Jelita Maharani
 Wakil Ketua Kelas   : Zanniya Nazela
 Sekretaris          : Shawn Gabriel Dayanti Intong
