@@ -1,5 +1,17 @@
 KELAS 2-A
-1. Afdal Adha Firnansyah                                = Signature Skill       : Empyrean Autarch of Primogenetic Axiom (Z)
+1. Afdal Adha Firnansyah                                = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+                                                                                  
+                                                          Kalimat Kehormatan    : 1. 
+                                                                                  2. 
+                                                                                  3.
+
+2. Ihsan Habibullah                                     = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -7,7 +19,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-2. Ihsan Habibullah                                     = Signature Skill       : Beatific Hierophant of Covenant Logos (Z)
+3. Ishaq Ramadhani                                      = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -15,7 +27,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-3. Ishaq Ramadhani                                      = Signature Skill       : Covenant of Sanctified Resolve (Y)
+4. Muhammad Rayvan Kahfi Effendi                        = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -23,7 +35,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-4. Muhammad Rayvan Kahfi Effendi                        = Signature Skill       : Sanctissimal Aegiarch of Veritas Citadel (Z)
+5. Fittian Mubaraq                                      = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -31,7 +43,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-5. Fittian Mubaraq                                      = Signature Skill       : Benediction of Equilibrium Crown (Y)
+6. Arafa Syahputra                                      = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -39,7 +51,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-6. Arafa Syahputra                                      = Signature Skill       : Sovereign Insight of Regal Providence (Y)
+7. Nauval Risqullah                                     = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -47,7 +59,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-7. Nauval Risqullah                                     = Signature Skill       : Providence Vector (X)
+8. Muhammad Nabil Zharif                                = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -55,7 +67,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-8. Muhammad Nabil Zharif                                = Signature Skill       : Sophic Catalyst (X)
+9. Niko Erdiansyah                                      = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -63,7 +75,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-9. Niko Erdiansyah                                      = Signature Skill       : Paragon of Limitless Resolve (EX)
+10. Muhammad Ultakarisyah                               = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -71,7 +83,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-10. Muhammad Ultakarisyah                               = Signature Skill       : Ascendant Imperium of Endless Summit (Y)
+11. Byan Al Payaz                                       = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -79,7 +91,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-11. Byan Al Payaz                                       = Signature Skill       : Luminary Vanguard (EX)
+12. Yafi Ahmad                                          = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -87,7 +99,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-12. Yafi Ahmad                                          = Signature Skill       : Pillar of Resolute Honor (S)
+13. Kirana Cattleya Safira                              = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -95,7 +107,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-13. Kirana Cattleya Safira                              = Signature Skill       : Sapphire Blossom Majesty (S)
+14. Razita Nurin                                        = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -103,7 +115,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-14. Razita Nurin                                        = Signature Skill       : Lucent Sopharch of Luminiferous Continuum (Z)
+15. Nayshila Putri                                      = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -111,7 +123,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-15. Nayshila Putri                                      = Signature Skill       : Pulchritudinous Matriarch of Euphonic Aeternum (Z)
+16. Alya Fachriska                                      = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -119,7 +131,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-16. Alya Fachriska                                      = Signature Skill       : Celestial Eminence (X)
+17. Robbiyatul Awaliyah                                 = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -127,7 +139,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-17. Robbiyatul Awaliyah                                 = Signature Skill       : Primordial Matron of Genesis Ascendant (Z)
+18. Najinan Cinta Luqyana G                             = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -135,7 +147,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-18. Najinan Cinta Luqyana G                             = Signature Skill       : Amaranth Concordia of Infinite Empathy (Z)
+19. Nasyilla Syifa                                      = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -143,7 +155,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-19. Nasyilla Syifa                                      = Signature Skill       : Sanctuary of Restorative Grace (S)
+20. Shafira Zahirah                                     = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -151,7 +163,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-20. Shafira Zahirah                                     = Signature Skill       : Herald Seraph of Manifest Logos (Z)
+21. Cahya Qhayla                                        = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -159,7 +171,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-21. Cahya Qhayla                                        = Signature Skill       : Gleam of First Dawn (E)
+22. Nay Zella Putri Nasution                            = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -167,7 +179,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-22. Nay Zella Putri Nasution                            = Signature Skill       : Legacy Sovereign Bloom (S)
+23. Kasih Attaya Putri                                  = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -175,7 +187,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-23. Kasih Attaya Putri                                  = Signature Skill       : Gracebound Embrace (A)
+24. Wulandari                                           = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
@@ -183,15 +195,7 @@ KELAS 2-A
                                                                                   4. 
                                                                                   5. 
 
-24. Wulandari                                           = Signature Skill       : Lunar Guiding Echo (A)
-                                                          Primary Skill         : 
-                                                          Secondary Skills      : 1. 
-                                                                                  2. 
-                                                                                  3. 
-                                                                                  4. 
-                                                                                  5. 
-
-25. Melinda Rahma Dewi                                  = Signature Skill       : Radiant Mercy (B)
+25. Melinda Rahma Dewi                                  = Signature Skill       : 
                                                           Primary Skill         : 
                                                           Secondary Skills      : 1. 
                                                                                   2. 
