@@ -2,9 +2,8 @@ ENGLISH CLUB
 Ketua: 
 Wakil Ketua: 
 Sekretaris: 
-Wakil Sekretaris: 
 Bendahara: 
-Wakil Bendahara: 
+Public Relations Officer: 
 
 Divisi Akademik
 Kepala Divisi: 
@@ -14,647 +13,6 @@ Anggota:
 3. 
 4. 
 5. 
-
-Divisi Pelatihan dan Pengembangan
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Kompetisi dan Prestasi
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-MATHEMATICS CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Wakil Sekretaris: 
-Bendahara: 
-Wakil Bendahara: 
-
-Divisi Akademik
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Pelatihan dan Pengembangan
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Kompetisi dan Prestasi
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-DEBATE CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Wakil Sekretaris: 
-Bendahara: 
-Wakil Bendahara: 
-
-Divisi Akademik
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Pelatihan dan Pengembangan
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Kompetisi dan Prestasi
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-PROGRAMMING CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Wakil Sekretaris: 
-Bendahara: 
-Wakil Bendahara: 
-
-Divisi Akademik
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Pelatihan dan Pengembangan
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Kompetisi dan Prestasi
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-RESEARCH CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Wakil Sekretaris: 
-Bendahara: 
-Wakil Bendahara: 
-
-Divisi Akademik
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Riset dan Inovasi
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Divisi Publikasi Ilmiah
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-HUMANITIES CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Wakil Sekretaris: 
-Bendahara: 
-Wakil Bendahara: 
-
-Divisi Ilmu Sosial
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Pengabdian Masyarakat
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Diskusi dan Seminar
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-GOVERNANCE CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Wakil Sekretaris: 
-Bendahara: 
-Wakil Bendahara: 
-
-Divisi Kebijakan Publik
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Parlemen Siswa
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Pengembangan Kepemimpinan
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-LITERACY CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Wakil Sekretaris: 
-Bendahara: 
-Wakil Bendahara: 
-
-Divisi Membaca
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Menulis
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Publikasi
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-
-STREZURA MEDIA CLUB
-Pemimpin Redaksi: 
-Wakil Pemimpin Redaksi: 
-Redaktur Pelaksana: 
-Sekretaris: 
-Bendahara: 
-
-Divisi Berita
-Kepala Redaksi: 
-Reporter: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Divisi Fotografi
-Kepala Fotografer: 
-Fotografer: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Videografi
-Kepala Videografer: 
-Videografer: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Desain Grafis
-Kepala Desainer: 
-Desainer: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Media Sosial
-Manajer Konten: 
-Kreator Konten: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Publikasi
-Koordinator Publikasi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-
-ART CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Bendahara: 
-
-Divisi Seni Rupa
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Divisi Kerajinan
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Pameran
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Kreatif
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-MUSIC CLUB
-Direktur Musik: 
-Wakil Direktur Musik: 
-Sekretaris: 
-Bendahara: 
-
-Divisi Vokal
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Divisi Band
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-
-Divisi Musik Tradisional
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Divisi Produksi
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-DRAMA CLUB
-Direktur Artistik: 
-Wakil Direktur Artistik: 
-Sekretaris: 
-Bendahara: 
-
-Divisi Pemeranan
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-
-Divisi Penulisan Naskah
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Tata Panggung
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Divisi Tata Busana dan Tata Rias
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Divisi Tata Cahaya dan Tata Suara
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-SCOUT
-Pradana: 
-Wakil Pradana: 
-Sekretaris: 
-Bendahara: 
-
-Pemimpin Sangga: 
-1. 
-2. 
-3. 
-4. 
-
-Wakil Pemimpin Sangga: 
-1. 
-2. 
-3. 
-4. 
-
-Anggota Sangga: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
-
-Pembina Lapangan: 
-1. 
-2. 
-
-Pelatih: 
-1. 
-2. 
-
-FLAG RAISING TEAM
-Komandan: 
-Wakil Komandan: 
-Sekretaris: 
-Bendahara: 
 
 Divisi Pelatihan
 Kepala Divisi: 
@@ -664,11 +22,37 @@ Anggota:
 3. 
 4. 
 5. 
+
+Divisi Kompetisi
+Kepala Divisi:
+Anggota: 
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Probationary Members
+Koordinator: 
+1. 
+2. 
+3. 
+4. 
+5. 
 6. 
 7. 
 8. 
+9. 
+10. 
 
-Divisi Protokol
+PROGRAMMING CLUB
+Ketua: 
+Wakil Ketua: 
+Sekretaris: 
+Bendahara: 
+Technical Coordinator: 
+
+Divisi Software Development
 Kepala Divisi: 
 Anggota: 
 1. 
@@ -676,10 +60,27 @@ Anggota:
 3. 
 4. 
 5. 
-6. 
 
-Divisi Pengawal Kehormatan
+Divisi Artificial Intelligence & Cyber Security
 Kepala Divisi: 
+Anggota: 
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Divisi Competition & Project Development
+Kepala Divisi: 
+Anggota: 
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Probationary Members
+Koordinator: 
 Anggota: 
 1. 
 2. 
@@ -691,32 +92,43 @@ Anggota:
 8. 
 9. 
 10. 
-11. 
-12. 
 
-Divisi Logistik
+RESEARCH CLUB
+Ketua: 
+Wakil Ketua: 
+Sekretaris: 
+Bendahara: 
+Research Coordinator: 
+
+Divisi Science & Mathematics
 Kepala Divisi: 
 Anggota: 
 1. 
 2. 
 3. 
 4. 
+5. 
 
-FOOTBALL CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Bendahara: 
-Pelatih Utama: 
-Asisten Pelatih: 
+Divisi Research & Innovation
+Kepala Divisi: 
+Anggota: 
 1. 
 2. 
+3. 
+4. 
+5. 
 
-Kapten Tim: 
-Wakil Kapten: 
-
-Divisi Latihan
+Divisi Scientific Publication
 Kepala Divisi: 
+Anggota: 
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Probationary Members
+Koordinator: 
 Anggota: 
 1. 
 2. 
@@ -724,8 +136,19 @@ Anggota:
 4. 
 5. 
 6. 
+7. 
+8. 
+9. 
+10. 
 
-Divisi Kompetisi
+GOVERNANCE CLUB
+Ketua: 
+Wakil Ketua: 
+Sekretaris: 
+Bendahara: 
+Director of Internal Affairs: 
+
+Divisi Public Policy
 Kepala Divisi: 
 Anggota: 
 1. 
@@ -734,37 +157,26 @@ Anggota:
 4. 
 5. 
 
-Divisi Perlengkapan
+Divisi Student Parliament
 Kepala Divisi: 
 Anggota: 
 1. 
 2. 
 3. 
 4. 
+5. 
 
-Divisi Medis dan Kebugaran
+Divisi Leadership Development
 Kepala Divisi: 
 Anggota: 
 1. 
 2. 
 3. 
 4. 
+5. 
 
-BASKETBALL CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Bendahara: 
-Pelatih Utama: 
-Asisten Pelatih: 
-1. 
-2. 
-
-Kapten Tim: 
-Wakil Kapten: 
-
-Divisi Latihan
-Kepala Divisi: 
+Probationary Members
+Koordinator: 
 Anggota: 
 1. 
 2. 
@@ -772,48 +184,117 @@ Anggota:
 4. 
 5. 
 6. 
+7. 
+8. 
+9. 
+10. 
 
-Divisi Kompetisi
-Kepala Divisi: 
-Anggota: 
+STREZURA MEDIA CLUB
+Editor-in-Chief: 
+Deputy Editor-in-Chief: 
+Secretary: 
+Treasurer: 
+Managing Editor: 
+
+Division of Journalism
+Head of Division: 
+Members: 
 1. 
 2. 
 3. 
 4. 
 5. 
 
-Divisi Perlengkapan
-Kepala Divisi: 
-Anggota: 
+Division of Media Production
+Head of Division: 
+Members: 
 1. 
 2. 
 3. 
 4. 
+5. 
 
-Divisi Medis dan Kebugaran
-Kepala Divisi: 
-Anggota: 
+Division of Creative Design & Publication
+Head of Division: 
+Members: 
 1. 
 2. 
 3. 
 4. 
+5. 
 
-BADMINTON CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Bendahara: 
-Pelatih Utama: 
-Asisten Pelatih: 
+Probationary Members
+Coordinator: 
+Members: 
 1. 
 2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
-Kapten Tim: 
-Wakil Kapten: 
+ART & PERFORMANCE CLUB
+President: 
+Vice President: 
+Secretary: 
+Treasurer: 
+Creative Director: 
 
-Divisi Latihan
-Kepala Divisi: 
-Anggota: 
+Division of Fine Arts
+Head of Division: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Division of Music
+Head of Division: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Division of Theatre & Performance
+Head of Division: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Probationary Members
+Coordinator: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+SCOUT
+Chief Scout: 
+Vice Chief Scout: 
+Secretary: 
+Treasurer: 
+Quartermaster: 
+
+Alpha Patrol
+Patrol Leader: 
+Members: 
 1. 
 2. 
 3. 
@@ -821,47 +302,9 @@ Anggota:
 5. 
 6. 
 
-Divisi Kompetisi
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Perlengkapan
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-
-Divisi Medis dan Kebugaran
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-
-TABLE TENNIS CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Bendahara: 
-Pelatih Utama: 
-Asisten Pelatih: 
-1. 
-2. 
-
-Kapten Tim: 
-Wakil Kapten: 
-
-Divisi Latihan
-Kepala Divisi: 
-Anggota: 
+Bravo Patrol
+Patrol Leader: 
+Members: 
 1. 
 2. 
 3. 
@@ -869,27 +312,146 @@ Anggota:
 5. 
 6. 
 
-Divisi Kompetisi
-Kepala Divisi: 
-Anggota: 
+Charlie Patrol
+Patrol Leader: 
+Members: 
 1. 
 2. 
 3. 
 4. 
 5. 
+6. 
 
-Divisi Perlengkapan
-Kepala Divisi: 
-Anggota: 
+Delta Patrol
+Patrol Leader: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+Probationary Members
+Coordinator: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+FLAG RAISING TEAM
+Commander: 
+Deputy Commander: 
+Secretary: 
+Treasurer: 
+Operations Officer: 
+
+Division of Training
+Head of Division: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+Division of Ceremonial Operations
+Head of Division: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+Division of Logistics
+Head of Division: 
+Members: 
 1. 
 2. 
 3. 
 4. 
 
-Divisi Medis dan Kebugaran
-Kepala Divisi: 
-Anggota: 
+Probationary Members
+Coordinator: 
+Members: 
 1. 
 2. 
 3. 
 4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+SPORTS CLUB
+President: 
+Vice President: 
+Secretary: 
+Treasurer: 
+Head Coach: 
+
+Division of Football
+Captain: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+Division of Basketball
+Captain: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+Division of Badminton
+Captain: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+Division of Table Tennis
+Captain: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+Probationary Members
+Coordinator: 
+Members: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 

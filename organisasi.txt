@@ -1,9 +1,8 @@
 STUDENT REPRESENTATIVE COUNCIL
 Speaker: Kelas 3
 Wakil Speaker: Kelas 2
-Sekretaris Jenderal: Kelas 3
-Wakil Sekretaris Jenderal: Kelas 2
-Kepala Administrasi: Kelas 2
+Sekretaris Jenderal: Kelas 2
+Bendahara: Kelas 2
 
 Komisi Peraturan dan Legislasi
 Ketua Komisi: Kelas 3
@@ -12,7 +11,6 @@ Anggota: 1. Kelas 1
          2. Kelas 1
          3. Kelas 1
          4. Kelas 1
-         5. Kelas 1
 
 Komisi Aspirasi dan Advokasi
 Ketua Komisi: Kelas 3
@@ -21,25 +19,14 @@ Anggota: 1. Kelas 1
          2. Kelas 1
          3. Kelas 1
          4. Kelas 1
-         5. Kelas 1
 
-Komisi Pengawasan dan Organisasi
+Komisi Pengawasan Organisasi
 Ketua Komisi: Kelas 3
 Wakil Ketua: Kelas 2
 Anggota: 1. Kelas 1
          2. Kelas 1
          3. Kelas 1
          4. Kelas 1
-         5. Kelas 1
-
-Komisi Hubungan Antar Organisasi
-Ketua Komisi: Kelas 3
-Wakil Ketua: Kelas 2
-Anggota: 1. Kelas 1
-         2. Kelas 1
-         3. Kelas 1
-         4. Kelas 1
-         5. Kelas 1
 
 
 STUDENT MEDICAL UNIT
@@ -48,78 +35,44 @@ Wakil Kepala Unit: Kelas 2
 
 Divisi Pelayanan Medis
 Kepala Divisi: Kelas 2
-Petugas P3K: 1. Kelas 2
-             2. Kelas 2
-             3. Kelas 1
-             4. Kelas 1
-             5. Kelas 1
-             6. Kelas 1
-             7. Kelas 1
-
-Petugas Ruang UKS: 1. Kelas 3
-                   2. Kelas 3
-                   3. Kelas 3
-                   4. Kelas 3
+Petugas: 1. Kelas 2
+         2. Kelas 2
+         3. Kelas 1
+         4. Kelas 1
+         5. Kelas 1
+         6. Kelas 1
 
 Divisi Edukasi Kesehatan
 Kepala Divisi: Kelas 2
-Tim Penyuluhan: 1. Kelas 2
-                2. Kelas 2
-                3. Kelas 2
-                4. Kelas 2
-                5. Kelas 2
-
-Tim Kampanye Hidup Sehat: 1. Kelas 1
-                          2. Kelas 1
-                          3. Kelas 1
-                          4. Kelas 1
-                          5. Kelas 1
+Anggota: 1. Kelas 2
+          2. Kelas 2
+          3. Kelas 1
+          4. Kelas 1
+          5. Kelas 1
 
 Divisi Sanitasi
 Kepala Divisi: Kelas 2
-Tim Kebersihan Lingkungan: 1. Kelas 3
-                           2. Kelas 3
-                           3. Kelas 3
-                           4. Kelas 3
-                           5. Kelas 2
-                           6. Kelas 2
-                           7. Kelas 2
-                           8. Kelas 2
+Anggota: 1. Kelas 3
+          2. Kelas 3
+          3. Kelas 2
+          4. Kelas 2
+          5. Kelas 1
 
-Tim Pemeriksaan Sanitasi: 1. Kelas 2
-                          2. Kelas 2
-                          3. Kelas 2
-                          4. Kelas 2
-
-Divisi Logistik
+Divisi Administrasi dan Logistik
 Kepala Divisi: Kelas 2
-Petugas Obat: 1. Kelas 2
-              2. Kelas 2
-              3. Kelas 2
-
-Petugas Inventaris: 1. Kelas 1
-                    2. Kelas 1
-                    3. Kelas 1
-
-Divisi Dokumentasi Medis
-Kepala Divisi: Kelas 2
-Pencatat Pasien: 1. Kelas 2
-                 2. Kelas 2
-
-Arsiparis: 1. Kelas 3
-           2. Kelas 3
+Anggota: 1. Kelas 2
+          2. Kelas 2
+          3. Kelas 1
+          4. Kelas 1
 
 
 STUDENT SECURITY CORPS
 Komandan Korps: Kelas 3
 Wakil Komandan: Kelas 2
-Kepala Staf: Kelas 2
 
-Batalyon Ketertiban
-Komandan Batalyon: Kelas 3
-
-Kompi A
-Komandan Kompi: Kelas 2
+Divisi Ketertiban
+Kepala Divisi: Kelas 3
+Wakil Kepala: Kelas 2
 Anggota: 1. Kelas 1
          2. Kelas 1
          3. Kelas 1
@@ -127,9 +80,11 @@ Anggota: 1. Kelas 1
          5. Kelas 1
          6. Kelas 1
          7. Kelas 1
+         8. Kelas 1
 
-Kompi B
-Komandan Kompi: Kelas 2
+Divisi Pengamanan Acara
+Kepala Divisi: Kelas 3
+Wakil Kepala: Kelas 2
 Anggota: 1. Kelas 1
          2. Kelas 1
          3. Kelas 1
@@ -137,87 +92,49 @@ Anggota: 1. Kelas 1
          5. Kelas 1
          6. Kelas 1
          7. Kelas 1
+         8. Kelas 1
 
-Batalyon Pengamanan Acara
-Komandan Batalyon: Kelas 3
-
-Peleton Pengawalan
-Komandan Peleton: Kelas 2
-Anggota: 1. Kelas 1
-         2. Kelas 1
-         3. Kelas 1
+Divisi Intelijen dan Operasi
+Kepala Divisi: Kelas 3
+Wakil Kepala: Kelas 2
+Anggota: 1. Kelas 2
+         2. Kelas 2
+         3. Kelas 2
          4. Kelas 1
          5. Kelas 1
          6. Kelas 1
-         7. Kelas 1
-
-Peleton Pengamanan
-Komandan Peleton: Kelas 2
-Anggota: 1. Kelas 1
-         2. Kelas 1
-         3. Kelas 1
-         4. Kelas 1
-         5. Kelas 1
-         6. Kelas 1
-         7. Kelas 1
-
-Divisi Intelijen
-Kepala Intelijen: Kelas 3
-Tim Pengamatan: 1. Kelas 2
-                2. Kelas 2
-                3. Kelas 2
-                4. Kelas 1
-                5. Kelas 1
-                6. Kelas 1
-
-Divisi Operasi
-Kepala Operasi: Kelas 3
-Tim Patroli: 1. Kelas 2
-             2. Kelas 2
-             3. Kelas 2
-             4. Kelas 2
-             5. Kelas 2
-             6. Kelas 2
-             7. Kelas 2
 
 Divisi Perlengkapan
-Kepala Logistik: Kelas 2
-Petugas Inventaris: 1. Kelas 1
-                    2. Kelas 1
-                    3. Kelas 1
-                    4. Kelas 1
+Kepala Divisi: Kelas 2
+Anggota: 1. Kelas 1
+         2. Kelas 1
+         3. Kelas 1
 
 
 STUDENT JUSTICIAR COUNCIL
 Ketua Mahkamah: Kelas 3
 Wakil Ketua Mahkamah: Kelas 2
 Panitera: Kelas 2
-Wakil Panitera: Kelas 2
 
-Majelis Hakim I
+Majelis Hakim
 Hakim Ketua: Kelas 3
 Hakim Anggota: 1. Kelas 2
                2. Kelas 2
-
-Majelis Hakim II
-Hakim Ketua: Kelas 3
-Hakim Anggota: 1. Kelas 2
-               2. Kelas 2
+               3. Kelas 2
+               4. Kelas 2
 
 Divisi Investigasi
 Kepala Investigasi: Kelas 3
 Penyelidik: 1. Kelas 2
             2. Kelas 2
-            3. Kelas 2
+            3. Kelas 1
             4. Kelas 1
             5. Kelas 1
-            6. Kelas 1
 
 Divisi Mediasi
 Ketua Mediasi: Kelas 3
 Mediator: 1. Kelas 2
           2. Kelas 2
-          3. Kelas 2
+          3. Kelas 1
           4. Kelas 1
           5. Kelas 1
-          6. Kelas 1

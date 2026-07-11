@@ -21,720 +21,148 @@ Daftar Organisasi
 
 Daftar Ekstrakurikuler
 1. English Club
-2. Mathematics Club
-3. Debate Club
-4. Programming Club
-5. Research Club
-6. Humanities Club
-7. Governance Club
-8. Literacy Club
-9. Strezura Media Club
-10. Art Club
-11. Music Club
-12. Drama Club
-13. Scout
-14. Flag Raising Team
-15. Football Club
-16. Basketball Club
-17. Badminton Club
-18. Table Tennis Club
-
-Pada awal masuk akademi di kelas 1, semua murid akan menerima gadget dari sekolah dengan saldo yaitu US$300,
-dan uang itu akan berlaku dimana saja baik di dalam dan di luar sekolah.
-setiap bulan para murid akan menerima penghasilan berdasarkan akumulasi poin mereka selama satu bulan di sekolah.
-murid dengan saldo di bawah US$10 USD akan di anggap tidak mampu bertahan di sekolah ini dan akan di drop out.
-
-sekolah ini sangat besar, dia terletak di sebuah pulau besar di selatan dari bali, luasnya mencapai 78 km².
-walaupun luas, sekolah ini tidak menyediakan fasilitas ekonomi jadi untuk berbelanja, para anggoas sekolah harus pergi
-dari pulau ini.
-jarak antara pulau ini dan bali mencapai 502 km dan juga pulau ini memiliki fasilitas kendaraan yang lengkap baik udara, air, dan tanah.
-
-Daftar Kapal
-CLASS F [Kecepatan: 70 km/jam] [Harga Sewa 1 arah: US$140]
-CLASS E [Kecepatan: 140 km/jam] [Harga Sewa 1 arah: US$280]
-CLASS D [Kecepatan: 210 km/jam] [Harga Sewa 1 arah: US$420]
-CLASS C [Kecepatan: 280 km/jam] [Harga Sewa 1 arah: US$560]
-CLASS B [Kecepatan: 350 km/jam] [Harga Sewa 1 arah: US$700]
-CLASS A [Kecepatan: 400 km/jam] [Harga Sewa 1 arah: US$800]
-CLASS S [Kecepatan: 500 km/jam] [Harga Sewa 1 arah: US$1000]
-CLASS X [Kecepatan: 600 km/jam] [Harga Sewa 1 arah: US$1200]
-CLASS EX [Kecepatan: 700 km/jam] [Harga Sewa 1 arah: US$1400]
-
-Rank Skill
-Rank Z [US$30000]
-Rank EX+ [US$15000]
-Rank EX [US$10000]
-Rank EX- [US$9000]
-Rank X+ [US$8000]
-Rank X [US$7000]
-Rank X- [US$6000]
-Rank SSS+ [US$5000]
-Rank SSS [US$4500]
-Rank SSS- [US$4000]
-Rank SS+ [US$3500]
-Rank SS [US$3000]
-Rank SS- [US$2500]
-Rank S+ [US$2000]
-Rank S [US$1500]
-Rank S- [US$1000]
-Rank A+ [US$900]
-Rank A [US$800]
-Rank A- [US$700]
-Rank B+ [US$600]
-Rank B [US$500]
-Rank B- [US$400]
-Rank C+ [US$300]
-Rank C [US$200]
-Rank C- [US$100]
-Rank D+ [US$90]
-Rank D [US$80]
-Rank D- [US$70]
-Rank E+ [US$60]
-Rank E [US$50]
-Rank E- [US$40]
-Rank F+ [US$30]
-Rank F [US$20]
-Rank F- [US$10]
-
-Peringkat Umum
-Peringkat 1 [US$25000]
-Peringkat 2 [US$21000]
-Peringkat 3 [US$19000]
-Peringkat 4 [US$17000]
-Peringkat 5 [US$15000]
-Peringkat 6 [US$13000]
-Peringkat 7 [US$11000]
-Peringkat 8 [US$9000]
-Peringkat 9 [US$7000]
-Peringkat 10 [US$5000]
-Peringkat 11-20 [US$3000]
-Peringkat 21-30 [US$2000]
-Peringkat 31-40 [US$1000]
-Peringkat 41-50 [US$500]
-Peringkat 51-60 [US$450]
-Peringkat 61-70 [US$400]
-Peringkat 71-80 [US$350]
-Peringkat 81-90 [US$300]
-Peringkat 91-100 [US$250]
-Peringkat 101-150 [US$200]
-Peringkat 151-200 [US$150]
-Peringkat 201-300 [US$100]
-Peringkat 301-450 [US$50]
-
-Jabatan Organisasi
-STUDENT REPRESENTATIVE COUNCIL
-Speaker [US$4200]
-Wakil Speaker [US$3700]
-Sekretaris Jenderal [US$3200]
-Wakil Sekretaris Jenderal [US$2800]
-Kepala Administrasi [US$2600]
-Ketua Komisi [US$2100]
-Wakil Ketua Komisi [US$1700]
-Anggota [US$1200]
-
-STUDENT MEDICAL UNIT
-Kepala Unit [US$3800]
-Wakil Kepala Unit [US$3300]
-Kepala Divisi [US$2700]
-Petugas P3K [US$1800]
-Petugas Ruang UKS [US$1700]
-Tim Penyuluhan [US$1500]
-Tim Kampanye Hidup Sehat [US$1400]
-Tim Kebersihan Lingkungan [US$1300]
-Tim Pemeriksaan Sanitasi [US$1500]
-Petugas Obat [US$1700]
-Petugas Inventaris [US$1200]
-Pencatat Pasien [US$1100]
-Arsiparis [US$1000]
-
-STUDENT SECURITY CORPS
-Komandan Korps [US$5000]
-Wakil Komandan [US$4500]
-Kepala Staf [US$4000]
-Komandan Kompi [US$3300]
-Anggota [US$1500]
-Komandan Batalyon [US$3700]
-Komandan Peleton [US$2800]
-Anggota [US$1500]
-Kepala Intelijen [US$3700]
-Tim Pengamatan [US$1700]
-Kepala Operasi [US$3700]
-Tim Patroli [US$1800]
-Kepala Logistik [US$3300]
-Petugas Inventaris [US$1400]
-
-STUDENT JUSTICIAR COUNCIL
-Ketua Mahkamah [US$4800]
-Wakil Ketua Mahkamah [US$4300]
-Panitera [US$2700]
-Wakil Panitera [US$2300]
-Hakim Ketua [US$3800]
-Hakim Anggota [US$3200]
-Kepala Investigasi [US$3700]
-Penyelidik [US$2000]
-Ketua Mediasi [US$2500]
-Mediator [US$1800]
-
-Jabatan Kelas
-Ketua Kelas [US$2500]
-Wakil Ketua Kelas [US$2100]
-Sekretaris [US$1800]
-Bendahara [US$1800]
-Koordinator Akademik [US$1500]
-Koordinator Kedisplinan [US$1500]
-Koordinator Kebersihan [US$1500]
-
-Bayaran Per-poin
-1 Poin = US$25
-
-Daftar Cara mendapatkan poin
-1. Menyelesaikan Dungeon
-2. Membunuh Monster
-3. Mengerjakan Soal
-4. PVP
-
-Meningkatkan level skill memerlukan uang, tergantung skillnya harganya juga berbeda
-
-Rank Dungeon
-Z [Hadiah Poin: 500 Poin]
-EX [Hadiah Poin: 400 Poin]
-X [Hadiah Poin: 300 Poin]
-S [Hadiah Poin: 250 Poin]
-A [Hadiah Poin: 200 Poin]
-B [Hadiah Poin: 150 Poin]
-C [Hadiah Poin: 100 Poin]
-D [Hadiah Poin: 75 Poin]
-E [Hadiah Poin: 50 Poin]
-F [Hadiah Poin: 25 Poin]
-
-Tingkatan Soal
-Soal 1 Bintang: 2 Poin
-Soal 2 Bintang: 4 Poin
-Soal 3 Bintang: 6 Poin
-Soal 4 Bintang: 8 Poin
-Soal 5 Bintang: 10 Poin
-Soal 6 Bintang: 12 Poin
-Soal 7 Bintang: 14 Poin
-Soal 8 Bintang: 16 Poin
-Soal 9 Bintang: 18 Poin
-Soal 10 Bintang: 20 Poin
-
-Rank Monster
-Rank Z [7000 Poin]
-Rank EX+ [5000 Poin]
-Rank EX [3000 Poin]
-Rank EX- [1500 Poin]
-Rank X+ [1200 Poin]
-Rank X [900 Poin]
-Rank X- [600 Poin]
-Rank SSS+ [300 Poin]
-Rank SSS [250 Poin]
-Rank SSS- [225 Poin]
-Rank SS+ [200 Poin]
-Rank SS [175 Poin]
-Rank SS- [150 Poin]
-Rank S+ [125 Poin]
-Rank S [100 Poin]
-Rank S- [75 Poin]
-Rank A+ [50 Poin]
-Rank A [45 Poin]
-Rank A- [40 Poin]
-Rank B+ [35 Poin]
-Rank B [30 Poin]
-Rank B- [25 Poin]
-Rank C+ [20 Poin]
-Rank C [15 Poin]
-Rank C- [10 Poin]
-Rank D+ [9 Poin]
-Rank D [8 Poin]
-Rank D- [7 Poin]
-Rank E+ [6 Poin]
-Rank E [5 Poin]
-Rank E- [4 Poin]
-Rank F+ [3 Poin]
-Rank F [2 Poin]
-Rank F- [1 Poin]
-
-Uang Saku untuk penghuni Asrama perbulan
-Asrama White Hall [US$2000]
-Asrama Black Hall [US$1000]
-Asrama Red Hall [US$500]
-Asrama Blue Hall [US$300]
-Asrama Green Hall [US$100]
-
-Gaji Jabatan Ekstrakurikuler
-ENGLISH CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Wakil Sekretaris: US$
-Bendahara: US$
-Wakil Bendahara: US$
-
-Divisi Akademik
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Pelatihan dan Pengembangan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kompetisi dan Prestasi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: US$
-Anggota: US$
-
-
-MATHEMATICS CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Wakil Sekretaris: US$
-Bendahara: US$
-Wakil Bendahara: US$
-
-Divisi Akademik
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Pelatihan dan Pengembangan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kompetisi dan Prestasi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: US$
-Anggota: US$
-
-
-DEBATE CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Wakil Sekretaris: US$
-Bendahara: US$
-Wakil Bendahara: US$
-
-Divisi Akademik
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Pelatihan dan Pengembangan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kompetisi dan Prestasi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: US$
-Anggota: US$
-
-
-PROGRAMMING CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Wakil Sekretaris: US$
-Bendahara: US$
-Wakil Bendahara: US$
-
-Divisi Akademik
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Pelatihan dan Pengembangan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kompetisi dan Prestasi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: US$
-Anggota: US$
-
-RESEARCH CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Wakil Sekretaris: US$
-Bendahara: US$
-Wakil Bendahara: US$
-
-Divisi Akademik
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Riset dan Inovasi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Publikasi Ilmiah
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: US$
-Anggota: US$
-
-HUMANITIES CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Wakil Sekretaris: US$
-Bendahara: US$
-Wakil Bendahara: US$
-
-Divisi Ilmu Sosial
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Pengabdian Masyarakat
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Diskusi dan Seminar
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: US$
-Anggota: US$
-
-
-GOVERNANCE CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Wakil Sekretaris: US$
-Bendahara: US$
-Wakil Bendahara: US$
-
-Divisi Kebijakan Publik
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Parlemen Siswa
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Pengembangan Kepemimpinan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: US$
-Anggota: US$
-
-
-LITERACY CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Wakil Sekretaris: US$
-Bendahara: US$
-Wakil Bendahara: US$
-
-Divisi Membaca
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Menulis
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Publikasi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Hubungan Masyarakat
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Dokumentasi dan Media
-Kepala Divisi: US$
-Anggota: US$
-
-
-STREZURA MEDIA CLUB
-Pemimpin Redaksi: US$
-Wakil Pemimpin Redaksi: US$
-Redaktur Pelaksana: US$
-Sekretaris: US$
-Bendahara: US$
-
-Divisi Berita
-Kepala Redaksi: US$
-Reporter: US$
-
-Divisi Fotografi
-Kepala Fotografer: US$
-Fotografer: US$
-
-Divisi Videografi
-Kepala Videografer: US$
-Videografer: US$
-
-Divisi Desain Grafis
-Kepala Desainer: US$
-Desainer: US$
-
-Divisi Media Sosial
-Manajer Konten: US$
-Kreator Konten: US$
-
-Divisi Publikasi
-Koordinator Publikasi: US$
-Anggota: US$
-
-
-ART CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Bendahara: US$
-
-Divisi Seni Rupa
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kerajinan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Pameran
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kreatif
-Kepala Divisi: US$
-Anggota: US$
-
-
-MUSIC CLUB
-Direktur Musik: US$
-Wakil Direktur Musik: US$
-Sekretaris: US$
-Bendahara: US$
-
-Divisi Vokal
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Band
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Musik Tradisional
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Produksi
-Kepala Divisi: US$
-Anggota: US$
-
-
-DRAMA CLUB
-Direktur Artistik: US$
-Wakil Direktur Artistik: US$
-Sekretaris: US$
-Bendahara: US$
-
-Divisi Pemeranan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Penulisan Naskah
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Tata Panggung
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Tata Busana dan Tata Rias
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Tata Cahaya dan Tata Suara
-Kepala Divisi: US$
-Anggota: US$
-
-SCOUT
-Pradana: US$
-Wakil Pradana: US$
-Sekretaris: US$
-Bendahara: US$
-Pemimpin Sangga: US$
-Wakil Pemimpin Sangga: US$
-Anggota Sangga: US$
-
-Pembina Lapangan: US$
-Pelatih: US$
-
-FLAG RAISING TEAM
-Komandan: US$
-Wakil Komandan: US$
-Sekretaris: US$
-Bendahara: US$
-
-Divisi Pelatihan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Protokol
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Pengawal Kehormatan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Logistik
-Kepala Divisi: US$
-Anggota: US$
-
-
-FOOTBALL CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Bendahara: US$
-Pelatih Utama: US$
-Asisten Pelatih: US$
-Kapten Tim: US$
-Wakil Kapten: US$
-
-Divisi Latihan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kompetisi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Perlengkapan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Medis dan Kebugaran
-Kepala Divisi: US$
-Anggota: US$
-
-
-BASKETBALL CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Bendahara: US$
-Pelatih Utama: US$
-Asisten Pelatih: US$
-Kapten Tim: US$
-Wakil Kapten: US$
-
-Divisi Latihan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kompetisi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Perlengkapan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Medis dan Kebugaran
-Kepala Divisi: US$
-Anggota: US$
-
-
-BADMINTON CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Bendahara: US$
-Pelatih Utama: US$
-Asisten Pelatih: US$
-Kapten Tim: US$
-Wakil Kapten: US$
-
-Divisi Latihan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kompetisi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Perlengkapan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Medis dan Kebugaran
-Kepala Divisi: US$
-Anggota: US$
-
-
-TABLE TENNIS CLUB
-Ketua: US$
-Wakil Ketua: US$
-Sekretaris: US$
-Bendahara: US$
-Pelatih Utama: US$
-Asisten Pelatih: US$
-Kapten Tim: US$
-Wakil Kapten: US$
-
-Divisi Latihan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Kompetisi
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Perlengkapan
-Kepala Divisi: US$
-Anggota: US$
-
-Divisi Medis dan Kebugaran
-Kepala Divisi: US$
-Anggota: US$
+2. Programming Club
+3. Research Club
+4. Governance Club
+5. Strezura Media Club
+6. Art & Performance Club
+7. Scout
+8. Flag Raising Team
+9. Sports Club
+
+Daftar Kelas
+Kelas 1-A
+Kelas 1-B
+Kelas 1-C
+Kelas 1-D
+Kelas 1-E
+Kelas 1-F
+Kelas 2-A
+Kelas 2-B
+Kelas 2-C
+Kelas 2-D
+Kelas 2-E
+Kelas 2-F
+Kelas 3-A
+Kelas 3-B
+Kelas 3-C
+Kelas 3-D
+Kelas 3-E
+Kelas 3-F
+
+Rank Z [Zenith]
+Rank Y [Yield of Excellence]
+Rank X [X-Factor]
+Rank EX [Exceptional]
+Rank S [Superior]
+Rank A [Advanced]
+Rank B [Brilliant]
+Rank C [Competent]
+Rank D [Developing]
+Rank E [Elementary]
+Rank F [Foundation]
+
+Rank Murid
+Rank Z [Zenith]                 = >21.600.000.000 Mana
+Rank Y [Yield of Excellence]    = 2.160.000.000-21.599.999.999 Mana
+Rank X [X-Factor]               = 360.000.000-2.159.999.999 Mana
+Rank EX [Exceptional]           = 72.000.000-359.999.999 Mana
+Rank S [Superior]               = 14.400.000-71.999.999 Mana
+Rank A [Advanced]               = 3.600.000-14.399.000 Mana
+Rank B [Brilliant]              = 900.000-3.599.999 Mana
+Rank C [Competent]              = 300.000-899.999 Mana
+Rank D [Developing]             = 100.000-299.999 Mana
+Rank E [Elementary]             = 50.000-99.999 Mana
+Rank F [Foundation]             = <50.000 Mana
+
+Rank Skill beserta Mana Cost nya
+Rank Z [Zenith]                 = >5.040.000 Mana Cost
+Rank Y [Yield of Excellence]    = 720.000-5.039.999 Mana Cost
+Rank X [X-Factor]               = 120.000-719.999 Mana Cost
+Rank EX [Exceptional]           = 30.000-119.999 Mana Cost
+Rank S [Superior]               = 15.000-29.999 Mana Cost
+Rank A [Advanced]               = 9000-14.999 Mana Cost
+Rank B [Brilliant]              = 5000-8999 Mana Cost
+Rank C [Competent]              = 1000-4999 Mana Cost
+Rank D [Developing]             = 500-999 Mana Cost
+Rank E [Elementary]             = 100-499 Mana Cost
+Rank F [Foundation]             = 10-99 Mana Cost
+
+Material Umum Peningkatan Skill
+Judul: Ketika Sang Penulis bercerita
+Sinopsis: Ini adalah sebuah cerita yang dibuat untuk menutupi perasaan kesepian sang penulis
+Gemre: School
+Latar Waktu: 07 Juli 2025
+Latar Tempat: SMA Swasta Strezura
+genre: school, sci-fi, action, comedy, psychology
+
+SEKOLAH MENENGAH ATAS SWASTA STREZURA
+Didirikan oleh Strezura Company pada 2006
+
+Kepala Sekolah: Mr. Daniel
+Wakil Kepala Sekolah: Ms. Athina
+Seketaris Umum: Ms. Felicia
+Bendahara: Ms. Ariana
+
+Daftar Organisasi
+1. Student Representative Council
+2. Student Medical Unit
+3. Student Security Corps
+4. Student Judiciary Council
+
+Daftar Ekstrakurikuler
+1. English Club
+2. Programming Club
+3. Research Club
+4. Governance Club
+5. Strezura Media Club
+6. Art & Performance Club
+7. Scout
+8. Flag Raising Team
+9. Sports Club
+
+Daftar Kelas
+Kelas 1-A
+Kelas 1-B
+Kelas 1-C
+Kelas 1-D
+Kelas 1-E
+Kelas 1-F
+Kelas 2-A
+Kelas 2-B
+Kelas 2-C
+Kelas 2-D
+Kelas 2-E
+Kelas 2-F
+Kelas 3-A
+Kelas 3-B
+Kelas 3-C
+Kelas 3-D
+Kelas 3-E
+Kelas 3-F
+
+Rank Murid
+Rank Z [Zenith]                 = >21.600.000.000 Mana
+Rank Y [Yield of Excellence]    = 2.160.000.000-21.599.999.999 Mana
+Rank X [X-Factor]               = 360.000.000-2.159.999.999 Mana
+Rank EX [Exceptional]           = 72.000.000-359.999.999 Mana
+Rank S [Superior]               = 14.400.000-71.999.999 Mana
+Rank A [Advanced]               = 3.600.000-14.399.000 Mana
+Rank B [Brilliant]              = 900.000-3.599.999 Mana
+Rank C [Competent]              = 300.000-899.999 Mana
+Rank D [Developing]             = 100.000-299.999 Mana
+Rank E [Elementary]             = 50.000-99.999 Mana
+Rank F [Foundation]             = <50.000 Mana
+
+Rank Skill beserta Mana Cost nya
+Rank Z [Zenith]                 = 1200 Monster Core Rank Z, 1200 Magic Crystal Rank Z, 1 Enchanment Potion Rank Z dan 1 Zenith Evolution Catalyst
+Rank Y [Yield of Excellence]    = 800 Monster Core Rank Y, 800 Magic Crystal Rank Y, 1 Enchanment Potion Rank Y dan 1 Yield of Excellence Evolution Catalyst
+Rank X [X-Factor]               = 500 Monster Core Rank X, 500 Magic Crystal Rank X, 1 Enchanment Potion Rank X dan 1 X-Factor Evolution Catalyst
+Rank EX [Exceptional]           = 300 Monster Core Rank EX, 300 Magic Crystal Rank EX, 1 Enchanment Potion Rank EX dan 1 Exceptional Evolution Catalyst
+Rank S [Superior]               = 150 Monster Core Rank S, 150 Magic Crystal Rank S, 1 Enchanment Potion Rank S dan 1 Superior Evolution Catalyst
+Rank A [Advanced]               = 120 Monster Core Rank A, 120 Magic Crystal Rank A, 1 Enchanment Potion Rank A dan 1 Advance Evolution Catalyst
+Rank B [Brilliant]              = 90 Monster Core Rank B, 90 Magic Crystal Rank B, 1 Enchanment Potion Rank B dan 1 Brilliant Evolution Catalyst
+Rank C [Competent]              = 60 Monster Core Rank C, 60 Magic Crystal Rank C, 1 Enchanment Potion Rank C dan 1 Competent Evolution Catalyst
+Rank D [Developing]             = 30 Monster Core Rank D, 30 Magic Crystal Rank D, 1 Enchanment Potion Rank D dan 1 Developing Evolution Catalyst
+Rank E [Elementary]             = 20 Monster Core Rank E, 20 Magic Crystal Rank E, 1 Enchanment Potion Rank E dan 1 Elementary Evolution Catalyst
+Rank F [Foundation]             = 10 Monster Core Rank F, 10 Magic Crystal Rank F, 1 Enchanment Potion Rank F dan 1 Foundation Evolution Catalyst

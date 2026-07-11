@@ -1,0 +1,200 @@
+KELAS 1-D
+1. Bagas Alfino                                         = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+2. Jayden Jurianto                                      = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+3. Edric Owen Pidono                                    = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+4. Janssen Samuel Halim                                 = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+5. Mikail Savero Rasendrya                              = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+6. Neilson Huang                                        = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+7. Hansen Marcello Chandra                              = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+8. Daffa Atha Arkana                                    = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+9. Fernando Almer Renjiro                               = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+10. Mattew Ravanelli Tjiptono                           = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+11. Sulaiman Waliyurrahman Muwaffaq Annafi Muhtadi      = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+12. Evander Tandiarrang                                 = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+13. Farabi Azzam                                        = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+14. Kenzie Al Hassan Satria                             = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+15. Raphael Eagan Angkawijaya                           = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+16. Nicholas Andrison                                   = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+17. Enzo Deharryl Hatta                                 = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+18. Caelum Leonard                                      = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+19. Philbert Mayer                                      = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+20. Naira Azalea Khairunnisa Zahra                      = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+21. Marcelia Putri Margolang                            = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+22. Syifa Azka Rahmana                                  = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+23. Siti Endah Dinara                                   = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+24. Yasmin Raidah Alifah                                = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
+
+25. Alifa Kazie                                         = Signature Skill       : 
+                                                          Primary Skill         : 
+                                                          Secondary Skills      : 1. 
+                                                                                  2. 
+                                                                                  3. 
+                                                                                  4. 
+                                                                                  5. 
