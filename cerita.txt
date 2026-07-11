@@ -30,7 +30,37 @@ Daftar Ekstrakurikuler
 8. Flag Raising Team
 9. Sports Club
 
-Daftar Kelas
+Daftar Mata Pelajaran Umum
+1. Pendidikan Agama
+2. Pendidikan Pancasila
+3. Bahasa Indonesia
+4. Bahasa Inggris
+5. Matematika Umum
+6. Sejarah Indonesia
+7. Informatika
+8. Pendidikan Jasmani, Olahraga, dan Kesehatan
+9. Seni Budaya
+
+Daftar Mata Pelajaran Pilihan
+Kelompok IPA
+1. Matematika Lanjutan
+2. Fisika
+3. Kimia
+4. Biologi
+
+Kelompok IPS
+1. Ekonomi
+2. Geografi
+3. Sosiologi
+4. Antropologi
+
+Kelompok Bahasa
+1. Bahasa Indonesia Lanjutan
+2. Bahasa Inggris Lanjutan
+3. Translation & Interpretation
+4. Linguistik
+
+Daftar Kelas Umum
 Kelas 1-A
 Kelas 1-B
 Kelas 1-C
@@ -49,120 +79,3 @@ Kelas 3-C
 Kelas 3-D
 Kelas 3-E
 Kelas 3-F
-
-Rank Z [Zenith]
-Rank Y [Yield of Excellence]
-Rank X [X-Factor]
-Rank EX [Exceptional]
-Rank S [Superior]
-Rank A [Advanced]
-Rank B [Brilliant]
-Rank C [Competent]
-Rank D [Developing]
-Rank E [Elementary]
-Rank F [Foundation]
-
-Rank Murid
-Rank Z [Zenith]                 = >21.600.000.000 Mana
-Rank Y [Yield of Excellence]    = 2.160.000.000-21.599.999.999 Mana
-Rank X [X-Factor]               = 360.000.000-2.159.999.999 Mana
-Rank EX [Exceptional]           = 72.000.000-359.999.999 Mana
-Rank S [Superior]               = 14.400.000-71.999.999 Mana
-Rank A [Advanced]               = 3.600.000-14.399.000 Mana
-Rank B [Brilliant]              = 900.000-3.599.999 Mana
-Rank C [Competent]              = 300.000-899.999 Mana
-Rank D [Developing]             = 100.000-299.999 Mana
-Rank E [Elementary]             = 50.000-99.999 Mana
-Rank F [Foundation]             = <50.000 Mana
-
-Rank Skill beserta Mana Cost nya
-Rank Z [Zenith]                 = >5.040.000 Mana Cost
-Rank Y [Yield of Excellence]    = 720.000-5.039.999 Mana Cost
-Rank X [X-Factor]               = 120.000-719.999 Mana Cost
-Rank EX [Exceptional]           = 30.000-119.999 Mana Cost
-Rank S [Superior]               = 15.000-29.999 Mana Cost
-Rank A [Advanced]               = 9000-14.999 Mana Cost
-Rank B [Brilliant]              = 5000-8999 Mana Cost
-Rank C [Competent]              = 1000-4999 Mana Cost
-Rank D [Developing]             = 500-999 Mana Cost
-Rank E [Elementary]             = 100-499 Mana Cost
-Rank F [Foundation]             = 10-99 Mana Cost
-
-Material Umum Peningkatan Skill
-Judul: Ketika Sang Penulis bercerita
-Sinopsis: Ini adalah sebuah cerita yang dibuat untuk menutupi perasaan kesepian sang penulis
-Gemre: School
-Latar Waktu: 07 Juli 2025
-Latar Tempat: SMA Swasta Strezura
-genre: school, sci-fi, action, comedy, psychology
-
-SEKOLAH MENENGAH ATAS SWASTA STREZURA
-Didirikan oleh Strezura Company pada 2006
-
-Kepala Sekolah: Mr. Daniel
-Wakil Kepala Sekolah: Ms. Athina
-Seketaris Umum: Ms. Felicia
-Bendahara: Ms. Ariana
-
-Daftar Organisasi
-1. Student Representative Council
-2. Student Medical Unit
-3. Student Security Corps
-4. Student Judiciary Council
-
-Daftar Ekstrakurikuler
-1. English Club
-2. Programming Club
-3. Research Club
-4. Governance Club
-5. Strezura Media Club
-6. Art & Performance Club
-7. Scout
-8. Flag Raising Team
-9. Sports Club
-
-Daftar Kelas
-Kelas 1-A
-Kelas 1-B
-Kelas 1-C
-Kelas 1-D
-Kelas 1-E
-Kelas 1-F
-Kelas 2-A
-Kelas 2-B
-Kelas 2-C
-Kelas 2-D
-Kelas 2-E
-Kelas 2-F
-Kelas 3-A
-Kelas 3-B
-Kelas 3-C
-Kelas 3-D
-Kelas 3-E
-Kelas 3-F
-
-Rank Murid
-Rank Z [Zenith]                 = >21.600.000.000 Mana
-Rank Y [Yield of Excellence]    = 2.160.000.000-21.599.999.999 Mana
-Rank X [X-Factor]               = 360.000.000-2.159.999.999 Mana
-Rank EX [Exceptional]           = 72.000.000-359.999.999 Mana
-Rank S [Superior]               = 14.400.000-71.999.999 Mana
-Rank A [Advanced]               = 3.600.000-14.399.000 Mana
-Rank B [Brilliant]              = 900.000-3.599.999 Mana
-Rank C [Competent]              = 300.000-899.999 Mana
-Rank D [Developing]             = 100.000-299.999 Mana
-Rank E [Elementary]             = 50.000-99.999 Mana
-Rank F [Foundation]             = <50.000 Mana
-
-Rank Skill beserta Mana Cost nya
-Rank Z [Zenith]                 = 1200 Monster Core Rank Z, 1200 Magic Crystal Rank Z, 1 Enchanment Potion Rank Z dan 1 Zenith Evolution Catalyst
-Rank Y [Yield of Excellence]    = 800 Monster Core Rank Y, 800 Magic Crystal Rank Y, 1 Enchanment Potion Rank Y dan 1 Yield of Excellence Evolution Catalyst
-Rank X [X-Factor]               = 500 Monster Core Rank X, 500 Magic Crystal Rank X, 1 Enchanment Potion Rank X dan 1 X-Factor Evolution Catalyst
-Rank EX [Exceptional]           = 300 Monster Core Rank EX, 300 Magic Crystal Rank EX, 1 Enchanment Potion Rank EX dan 1 Exceptional Evolution Catalyst
-Rank S [Superior]               = 150 Monster Core Rank S, 150 Magic Crystal Rank S, 1 Enchanment Potion Rank S dan 1 Superior Evolution Catalyst
-Rank A [Advanced]               = 120 Monster Core Rank A, 120 Magic Crystal Rank A, 1 Enchanment Potion Rank A dan 1 Advance Evolution Catalyst
-Rank B [Brilliant]              = 90 Monster Core Rank B, 90 Magic Crystal Rank B, 1 Enchanment Potion Rank B dan 1 Brilliant Evolution Catalyst
-Rank C [Competent]              = 60 Monster Core Rank C, 60 Magic Crystal Rank C, 1 Enchanment Potion Rank C dan 1 Competent Evolution Catalyst
-Rank D [Developing]             = 30 Monster Core Rank D, 30 Magic Crystal Rank D, 1 Enchanment Potion Rank D dan 1 Developing Evolution Catalyst
-Rank E [Elementary]             = 20 Monster Core Rank E, 20 Magic Crystal Rank E, 1 Enchanment Potion Rank E dan 1 Elementary Evolution Catalyst
-Rank F [Foundation]             = 10 Monster Core Rank F, 10 Magic Crystal Rank F, 1 Enchanment Potion Rank F dan 1 Foundation Evolution Catalyst
