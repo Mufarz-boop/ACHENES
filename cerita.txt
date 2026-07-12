@@ -61,21 +61,21 @@ Kelompok Bahasa
 4. Linguistik
 
 Daftar Kelas Umum
-Kelas 1-A
-Kelas 1-B
-Kelas 1-C
-Kelas 1-D
-Kelas 1-E
-Kelas 1-F
-Kelas 2-A
-Kelas 2-B
-Kelas 2-C
-Kelas 2-D
-Kelas 2-E
-Kelas 2-F
-Kelas 3-A
-Kelas 3-B
-Kelas 3-C
-Kelas 3-D
-Kelas 3-E
-Kelas 3-F
+Kelas 1-A [Wali Kelas: ]
+Kelas 1-B [Wali Kelas: ]
+Kelas 1-C [Wali Kelas: ]
+Kelas 1-D [Wali Kelas: ]
+Kelas 1-E [Wali Kelas: ]
+Kelas 1-F [Wali Kelas: ]
+Kelas 2-A [Wali Kelas: ]
+Kelas 2-B [Wali Kelas: ]
+Kelas 2-C [Wali Kelas: ]
+Kelas 2-D [Wali Kelas: ]
+Kelas 2-E [Wali Kelas: ]
+Kelas 2-F [Wali Kelas: ]
+Kelas 3-A [Wali Kelas: ]
+Kelas 3-B [Wali Kelas: ]
+Kelas 3-C [Wali Kelas: ]
+Kelas 3-D [Wali Kelas: ]
+Kelas 3-E [Wali Kelas: ]
+Kelas 3-F [Wali Kelas: ]
