@@ -5,397 +5,325 @@ CLASS GOVERNMENT STRUCTURE
 CLASS 1-A
 Government System: Technocracy
 ==================================================
+Chief Technocrat: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Chief Technocrat:
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
-Head of Discipline:
-Members:
-1.
-2.
-3.
+Discipline Division
+Head of Discipline: 
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 1-B
 Government System: Diarchy
 ==================================================
+Co-Leader I: 
+Co-Leader II: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Co-Leader I:
-Co-Leader II:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 1-C
 Government System: Triumvirate
 ==================================================
+Triumvir I: 
+Triumvir II: 
+Triumvir III: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Triumvir I:
-Triumvir II:
-Triumvir III:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 1-D
 Government System: Timocracy
 ==================================================
+Marshal: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Marshal:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 1-E
 Government System: Meritocracy
 ==================================================
+Merit Leader: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Merit Leader:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 1-F
 Government System: Semi-Presidential Democracy
 ==================================================
+President: 
+Prime Minister: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-President:
-
-Prime Minister:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 2-A
 Government System: Constitutional Republic
 ==================================================
+President: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-President:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 2-B
 Government System: Constitutional Monarchy
 ==================================================
+Monarch: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Monarch:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 2-C
 Government System: Epistocracy
 ==================================================
+Archon: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Archon:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 2-D
 Government System: Absolute Monarchy
 ==================================================
+Monarch: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Monarch:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 2-E
 Government System: Parliamentary Government
 ==================================================
-
 Prime Minister:
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 2-F
 Government System: Presidential Democracy
 ==================================================
+President: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-President:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 3-A
 Government System: Direct Democracy
 ==================================================
+Moderator: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Moderator:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 3-B
 Government System: Oligarchy
 ==================================================
+President: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-President:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 3-C
 Government System: Anocracy
 ==================================================
+Chancellor: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Chancellor:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 3-D
 Government System: Stratocracy
 ==================================================
+Commander: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Commander:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 3-E
 Government System: Absolute Monarchy
 ==================================================
+Monarch: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Monarch:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
 
 
 ==================================================
 CLASS 3-F
 Government System: Kratocracy
 ==================================================
+Supreme Leader: 
+General Treasurer: 
+Class Representatives
+1. 
+2. 
+3. 
 
-Supreme Leader:
-
-General Treasurer:
-
-Class Representatives:
-1.
-2.
-3.
-
-Discipline Division:
+Discipline Division
 Head of Discipline:
-Members:
-1.
-2.
-3.
+Members: 1. 
+         2. 
+         3. 
