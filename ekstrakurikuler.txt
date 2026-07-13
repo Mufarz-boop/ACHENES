@@ -1,39 +1,18 @@
+==================================================
 ENGLISH CLUB
-Ketua: 
-Wakil Ketua: 
+==================================================
+
+Presiden Klub: 
+Wakil Presiden Klub: 
+
 Sekretaris: 
 Bendahara: 
-Public Relations Officer: 
 
-Divisi Akademik
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
+Koordinator Akademik: 
+Koordinator Conversation: 
+Koordinator Kompetisi: 
 
-Divisi Pelatihan
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Kompetisi
-Kepala Divisi:
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Probationary Members
-Koordinator: 
+Anggota
 1. 
 2. 
 3. 
@@ -44,44 +23,42 @@ Koordinator:
 8. 
 9. 
 10. 
+11. 
+12. 
+13. 
+14. 
+15. 
 
+==================================================
 PROGRAMMING CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Bendahara: 
-Technical Coordinator: 
+==================================================
 
-Divisi Software Development
-Kepala Divisi: 
-Anggota: 
+Kepala Pengembang: 
+Wakil Kepala Pengembang: 
+
+Manajer Proyek: 
+Sekretaris Proyek: 
+Bendahara Proyek: 
+
+Pengembang Senior
 1. 
 2. 
 3. 
 4. 
 5. 
+6. 
+7. 
 
-Divisi Artificial Intelligence & Cyber Security
-Kepala Divisi: 
-Anggota: 
+Pengembang Junior
 1. 
 2. 
 3. 
 4. 
 5. 
+6. 
+7. 
 
-Divisi Competition & Project Development
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Probationary Members
-Koordinator: 
-Anggota: 
+Anggota
 1. 
 2. 
 3. 
@@ -93,43 +70,21 @@ Anggota:
 9. 
 10. 
 
+==================================================
 RESEARCH CLUB
-Ketua: 
-Wakil Ketua: 
-Sekretaris: 
-Bendahara: 
-Research Coordinator: 
+==================================================
 
-Divisi Science & Mathematics
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
+Ketua Peneliti: 
+Wakil Ketua Peneliti: 
 
-Divisi Research & Innovation
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
+Sekretaris Penelitian: 
+Bendahara Penelitian: 
 
-Divisi Scientific Publication
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
+Koordinator Penelitian: 
+Koordinator Eksperimen: 
+Koordinator Publikasi: 
 
-Probationary Members
-Koordinator: 
-Anggota: 
+Anggota
 1. 
 2. 
 3. 
@@ -141,43 +96,133 @@ Anggota:
 9. 
 10. 
 
+==================================================
 GOVERNANCE CLUB
-Ketua: 
-Wakil Ketua: 
+==================================================
+
+Ketua Pemerintahan: 
+Wakil Ketua Pemerintahan: 
+
+Sekretaris Pemerintahan: 
+Bendahara Pemerintahan: 
+
+Anggota
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+==================================================
+STREZURA MEDIA CLUB
+==================================================
+
+Pemimpin Redaksi: 
+Wakil Pemimpin Redaksi: 
+Sekretaris Redaksi: 
+Bendahara: 
+
+Redaktur: 
+Reporter
+1. 
+2. 
+3. 
+
+Fotografer
+1. 
+2. 
+3. 
+
+Editor Video
+1. 
+2. 
+
+Desainer Grafis
+1. 
+2. 
+
+Anggota
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+==================================================
+ART & PERFORMANCE CLUB
+==================================================
+
+Direktur Seni: 
+Wakil Direktur Seni: 
+
+Manajer Produksi: 
+Sekretaris Produksi: 
+Bendahara Produksi: 
+
+Sutradara: 
+Pelatih Seni: 
+
+Anggota
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+==================================================
+SCOUT (PRAMUKA)
+==================================================
+
+Pradana: 
+Wakil Pradana: 
+
+Kerani: 
+Juru Uang: 
+
+Pemimpin Sangga: 
+Wakil Pemimpin Sangga: 
+
+Anggota
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+
+==================================================
+FLAG RAISING TEAM (PASKIBRA)
+==================================================
+
+Komandan: 
+Wakil Komandan: 
+
+Ajudan
+1. 
+2. 
+
 Sekretaris: 
 Bendahara: 
-Director of Internal Affairs: 
 
-Divisi Public Policy
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
+Komandan Peleton: 
+Pelatih Lapangan: 
 
-Divisi Student Parliament
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Divisi Leadership Development
-Kepala Divisi: 
-Anggota: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Probationary Members
-Koordinator: 
-Anggota: 
+Anggota
 1. 
 2. 
 3. 
@@ -189,262 +234,28 @@ Anggota:
 9. 
 10. 
 
-STREZURA MEDIA CLUB
-Editor-in-Chief: 
-Deputy Editor-in-Chief: 
-Secretary: 
-Treasurer: 
-Managing Editor: 
-
-Division of Journalism
-Head of Division: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Division of Media Production
-Head of Division: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Division of Creative Design & Publication
-Head of Division: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Probationary Members
-Coordinator: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-
-ART & PERFORMANCE CLUB
-President: 
-Vice President: 
-Secretary: 
-Treasurer: 
-Creative Director: 
-
-Division of Fine Arts
-Head of Division: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Division of Music
-Head of Division: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Division of Theatre & Performance
-Head of Division: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-Probationary Members
-Coordinator: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-
-SCOUT
-Chief Scout: 
-Vice Chief Scout: 
-Secretary: 
-Treasurer: 
-Quartermaster: 
-
-Alpha Patrol
-Patrol Leader: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Bravo Patrol
-Patrol Leader: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Charlie Patrol
-Patrol Leader: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Delta Patrol
-Patrol Leader: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Probationary Members
-Coordinator: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-
-FLAG RAISING TEAM
-Commander: 
-Deputy Commander: 
-Secretary: 
-Treasurer: 
-Operations Officer: 
-
-Division of Training
-Head of Division: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Division of Ceremonial Operations
-Head of Division: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Division of Logistics
-Head of Division: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-
-Probationary Members
-Coordinator: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-
+==================================================
 SPORTS CLUB
-President: 
-Vice President: 
-Secretary: 
-Treasurer: 
-Head Coach: 
+==================================================
 
-Division of Football
-Captain: 
-Members: 
+Kapten Klub: 
+Wakil Kapten: 
+
+Manajer Tim: 
+Sekretaris: 
+Bendahara: 
+
+Pelatih: 
+Asisten Pelatih: 
+
+Atlet
 1. 
 2. 
 3. 
 4. 
 5. 
-6. 
 
-Division of Basketball
-Captain: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Division of Badminton
-Captain: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Division of Table Tennis
-Captain: 
-Members: 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-Probationary Members
-Coordinator: 
-Members: 
+Anggota
 1. 
 2. 
 3. 
