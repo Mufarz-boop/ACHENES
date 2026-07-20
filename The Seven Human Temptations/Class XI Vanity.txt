@@ -1,17 +1,17 @@
 Daftar Anggota Kelas [Laki-Laki: 22] [Perempuan: 8]
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
+1. Dio Putra Ramadan
+2. Ishaq Ramadhani
+3. Muhammad Ikhbar Fadillah
+4. Reza Fadillah
+5. Said Nazim Haru Mubarak
+6. Sutan Mara Muhammad
+7. Muhammad Nur Sandy Ginting
+8. Ricky Tri Andika
+9. Reza Aulia
+10. Niko Erdiansyah
+11. Muhammad Rayyan
+12. Muhammad Dirga Hidayatullah
+13. Syabil Ziyan Ardha
 14. 
 15. 
 16. 
@@ -21,11 +21,11 @@ Daftar Anggota Kelas [Laki-Laki: 22] [Perempuan: 8]
 20. 
 21. 
 22. 
-23. 
-24. 
-25. 
-26. 
-27. 
-28. 
-29. 
-30. 
+23. Alya Fachriska
+24. Cut Nureen Hazeeqa
+25. Najinan Cinta Luqyana Ghea
+26. Nasyila Syifa
+27. Yassa Almira Fatihah
+28. Nazla Khairina
+29. Feby Khairani
+30. Humaira
