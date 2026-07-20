@@ -1,4 +1,4 @@
-Daftar Anggota Kelas [Laki-Laki: 16] [Perempuan: 14]
+Daftar Anggota Kelas
 1. 
 2. 
 3. 
@@ -15,17 +15,17 @@ Daftar Anggota Kelas [Laki-Laki: 16] [Perempuan: 14]
 14. 
 15. 
 16. 
-17. Nora Basyriani
-18. Nur Amelia
-19. Dara Permana Cinta
-20. Ratih
-21. Risma Nadia Putri
-22. Rindu Cahaya Pratiwi
-23. Yufiana Maisyah Putri
-24. Nazwa
-25. Mahrin Safa Ulayya
-26. Syarifah Nayra
-27. Alfira Anoya
-28. Tengku Depuani Putri Pasla
-29. Jihan Saffah Amira
-30. Wan Nayla Arizdy
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
