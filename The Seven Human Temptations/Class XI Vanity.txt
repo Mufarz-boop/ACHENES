@@ -1,4 +1,4 @@
-Daftar Anggota Kelas [Laki-Laki: ] [Perempuan: ]
+Daftar Anggota Kelas [Laki-Laki: 22] [Perempuan: 8]
 1. 
 2. 
 3. 
